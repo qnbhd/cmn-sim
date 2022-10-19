@@ -97,6 +97,39 @@ class Lowercaser(_NoFitNeededTransformer):
         return _lower(y)
 
 
+class RusStopWordsCleaner(_NoFitNeededTransformer):
+    """
+    A transformer that transforms labels to normalized russian company names.
+    """
+
+    STOP_WORDS = [
+        "ооо",
+        "общество с огранниченной ответственностью",
+        "оао",
+        "ао",
+        "гк",
+        "зао",
+        "лтд",
+        "нпф",
+        "групп",
+        "дистрибьюшн",
+        "лимитед",
+    ]
+
+    def transform(self, y):
+        """Transform labels to normalized company names."""
+        y = column_or_1d(y, warn=True)
+        return (
+            pd.Series(y)
+            .apply(
+                lambda x: " ".join(
+                    [item for item in x.split() if item not in self.STOP_WORDS]
+                )
+            )
+            .values
+        )
+
+
 # noinspection PyMethodMayBeStatic
 class RegexEliminator(_NoFitNeededTransformer):
 
