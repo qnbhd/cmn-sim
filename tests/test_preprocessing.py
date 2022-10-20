@@ -6,6 +6,7 @@ from cmnsim.preprocessing import (
     Lowercaser,
     NotWordsEliminator,
     NumbersEliminator,
+    RusStopWordsCleaner,
     Unidecoder,
 )
 
@@ -43,6 +44,15 @@ def test_not_words_eliminator():
     )
 
 
+def test_rus_stop_words_cleaner():
+    cleaner = RusStopWordsCleaner()
+
+    npt.assert_array_equal(
+        cleaner.transform(["ооо рога и копыта групп", "ооо рога и копыта групп"]),
+        [" рога и копыта ", " рога и копыта "],
+    )
+
+
 def test_unidecoder():
     unidecoder = Unidecoder()
     npt.assert_array_equal(
@@ -56,6 +66,7 @@ def test_pipeline():
         [
             ("cleanco_cleaner", CleancoCleaner()),
             ("lowercaser", Lowercaser()),
+            ("rus_stop_words_cleaner", RusStopWordsCleaner()),
             ("numbers_eliminator", NumbersEliminator()),
             ("not_words_eliminator", NotWordsEliminator()),
             ("unidecoder", Unidecoder()),
@@ -66,5 +77,5 @@ def test_pipeline():
         pipeline.transform(
             ['"Big Pharma", LTD', '"Big Pharma 123", LLC', 'ООО "Рога и Копыта 123"']
         ),
-        ["big pharma", "big pharma", "ooo roga i kopyta"],
+        ["big pharma", "big pharma", "roga i kopyta"],
     )
