@@ -119,15 +119,7 @@ class RusStopWordsCleaner(_NoFitNeededTransformer):
     def transform(self, y):
         """Transform labels to normalized company names."""
         y = column_or_1d(y, warn=True)
-        return (
-            pd.Series(y)
-            .apply(
-                lambda x: " ".join(
-                    [item for item in x.split() if item not in self.STOP_WORDS]
-                )
-            )
-            .values
-        )
+        return pd.Series(y).replace(self.STOP_WORDS, "", regex=True).values
 
 
 # noinspection PyMethodMayBeStatic
