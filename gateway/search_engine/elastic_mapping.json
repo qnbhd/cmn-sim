@@ -1,0 +1,19 @@
+{
+    "mappings": {
+        "dynamic": "strict",
+        "properties": {
+            "company_name": {
+                "type": "text"
+            },
+            "company_url": {
+                "type": "text"
+            },
+            "query_string": {
+                "type": "text"
+            },
+            "normalized_name": {
+                "type": "text"
+            }
+        }
+    }
+}

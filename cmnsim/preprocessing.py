@@ -1,25 +1,45 @@
 """Module that contains functions for preprocessing data."""
 
 import abc
+import sys
 
 import numpy as np
 import pandas as pd
 from cleanco import basename
 from sklearn.base import BaseEstimator, TransformerMixin
+from sklearn.pipeline import Pipeline
 from sklearn.utils import column_or_1d
 from unidecode import unidecode
 
+import cmnsim.spacy_wrapper as ner
+
 __all__ = [
+    "Spacy",
     "CleancoCleaner",
-    "Lowercaser",
     "NumbersEliminator",
     "NotWordsEliminator",
+    "RusStopWordsCleaner",
     "Unidecoder",
+    "Lowercaser",
+    "FullTransformersPipeline",
+]
+
+_PIPELINE_ORDER = [
+    "Spacy",
+    "RusStopWordsCleaner",
+    "CleancoCleaner",
+    "NumbersEliminator",
+    "NotWordsEliminator",
+    # COMPOSITION NOT COMMUTATIVE!!
+    "Unidecoder",
+    "Lowercaser",
 ]
 
 _basename = np.vectorize(basename)
 _lower = np.vectorize(str.lower)
 _unidecode = np.vectorize(unidecode)
+
+_nerd_vectorized = np.vectorize(ner.process_spacy)
 
 
 class _NoFitNeededTransformer(TransformerMixin, BaseEstimator, metaclass=abc.ABCMeta):
@@ -104,6 +124,18 @@ class RusStopWordsCleaner(_NoFitNeededTransformer):
 
     STOP_WORDS = [
         "ооо",
+        "OOO",
+        "OAO",
+        "AO",
+        "ЗАО",
+        "ОАО",
+        "ПАО",
+        "АО",
+        "ЗАО",
+        "ОАО",
+        "ПАО",
+        "АО",
+        "ЗАО",
         "общество с огранниченной ответственностью",
         "оао",
         "ао",
@@ -119,7 +151,7 @@ class RusStopWordsCleaner(_NoFitNeededTransformer):
     def transform(self, y):
         """Transform labels to normalized company names."""
         y = column_or_1d(y, warn=True)
-        return pd.Series(y).replace(self.STOP_WORDS, "", regex=True).values
+        return pd.Series(y).replace(self.STOP_WORDS, "", regex=True).str.strip().values
 
 
 # noinspection PyMethodMayBeStatic
@@ -192,3 +224,25 @@ class Unidecoder(_NoFitNeededTransformer):
         """Transform labels to lowercase."""
         y = column_or_1d(y, warn=True)
         return _unidecode(y)
+
+
+class Spacy(_NoFitNeededTransformer):
+    """
+    A transformer that transforms labels to normalized company names.
+    """
+
+    def transform(self, y):
+        """Transform labels to normalized company names."""
+        y = column_or_1d(y, warn=True)
+        return _nerd_vectorized(y)
+
+
+# noinspection PyPep8Naming
+def FullTransformersPipeline() -> Pipeline:
+    return Pipeline(
+        [
+            (tr, getattr(sys.modules[__name__], tr)())
+            for tr in _PIPELINE_ORDER
+            if tr != "FullTransformersPipeline"
+        ]
+    )
