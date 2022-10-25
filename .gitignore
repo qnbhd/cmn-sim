@@ -283,4 +283,3 @@ Untitled*.ipynb
 .ipynb_checkpoints/
 *.pt
 log*
-/tuning/

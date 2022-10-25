@@ -34,8 +34,6 @@
     <script type="text/javascript">
         const btn = document.getElementById('btn-search');
         btn.addEventListener('click', function() {
-            const href = "{{ url_for('search') }}" + '?query=' + document.getElementById('search').value;
-            alert(href);
             window.location.href = '/search/' + document.getElementById('search').value;
             return false;
         });
