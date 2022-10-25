@@ -15,8 +15,8 @@ log = logging.getLogger(__name__)
 
 
 class CNElasticStorage:
-    def __init__(self, uri: str):
-        self.es_client = AsyncElasticsearch([uri])
+    def __init__(self, uri: str, timeout=10):
+        self.es_client = AsyncElasticsearch([uri], timeout=timeout)
 
     async def create_index(self, index_name: str, force=False):
         """
@@ -126,6 +126,13 @@ class CNElasticStorage:
         log.info(f"Relevant results: {json.dumps(relevant, indent=4)}")
 
         return relevant
+
+    async def ping(self):
+        try:
+            await self.es_client.ping()
+            return True
+        except Exception:
+            return False
 
     async def close(self):
         await self.es_client.close()

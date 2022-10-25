@@ -7,7 +7,7 @@ from typing import Callable, Dict, Set
 
 import aiohttp
 
-from gateway.utils.returns import Error, Ok, Result
+from cmnsim.misc.returns import Error, Ok, Result
 
 UserAgent = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -50,7 +50,7 @@ class Crawler:
 
     Examples:
         >>> from gateway.crawling.crawler import Crawler
-        >>> from gateway.utils.returns import Result, Ok, Error
+        >>> from cmnsim.misc.returns import Result, Ok, Error
         >>>
         >>> async def main():
         >>>     crawler = Crawler()

@@ -1,5 +1,7 @@
 import logging
 import os
+import time
+from pathlib import Path
 
 import aioredis
 
@@ -9,7 +11,6 @@ log = logging.getLogger(__name__)
 
 
 def setup(app):
-
     app.config["redis"] = os.getenv("REDIS_URL", "redis://127.0.0.1:6379")
 
     elastic_url = os.getenv("ELASTIC_URL")
@@ -28,6 +29,19 @@ def setup(app):
     async def server_init(app_, loop):
         """Server init."""
 
+        create_index = os.getenv("ELASTIC_CREATE_INDEX", "false").lower() == "true"
+
+        log.info(f"Creating index: {create_index}")
+
+        if create_index:
+            await app.ctx.cn_searcher.es_storage.create_index(elastic_index)
+
         app_.ctx.redis = await aioredis.from_url(
             app_.config["redis"], decode_responses=True
         )
+
+        # UNSAFE: only for testing
+        with open(Path(__file__).parent.joinpath("api_keys.txt")) as f:
+            for line in f:
+                await app_.ctx.redis.set(line.strip(), 1)
+        # UNSAFE

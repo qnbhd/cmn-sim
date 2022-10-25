@@ -11,7 +11,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.utils import column_or_1d
 from unidecode import unidecode
 
-import cmnsim.spacy_wrapper as ner
+import cmnsim.misc.spacy_wrapper as ner
 
 __all__ = [
     "Spacy",

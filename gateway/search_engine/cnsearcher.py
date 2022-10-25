@@ -4,13 +4,13 @@ from functools import partial
 
 from bs4 import BeautifulSoup
 
+from cmnsim.misc.returns import Error
+from cmnsim.misc.spacy_wrapper import process_spacy
 from gateway.crawling.crawler import Crawler
 from gateway.search_engine.elasti import CNElasticStorage
 from gateway.search_engine.schemas import search_response_from_crawler
 from gateway.utils import gsearch
 from gateway.utils.merger import merge_matches
-from gateway.utils.returns import Error
-from gateway.utils.spacy_wrapper import process_spacy
 
 log = logging.getLogger(__name__)
 
@@ -64,7 +64,7 @@ class CNSearcher:
 
     TARGET_FIELDS = ["company_name", "company_url", "normalized_name", "query_string"]
 
-    def __init__(self, uri, index_name):
+    def __init__(self, uri, index_name, timeout=10):
         """
         Initialize CNSearcher.
 
@@ -74,7 +74,7 @@ class CNSearcher:
 
         """
 
-        self.es_storage = CNElasticStorage(uri)
+        self.es_storage = CNElasticStorage(uri, timeout=timeout)
         self.uri = uri
         self.index_name = index_name
 
@@ -183,3 +183,6 @@ class CNSearcher:
         """
 
         await self.es_storage.close()
+
+    async def is_ready(self):
+        return await self.es_storage.ping()

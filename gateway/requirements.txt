@@ -6,3 +6,4 @@ spacy==3.4.2
 elasticsearch[async]==8.4.3
 sanic-ext==22.9.0
 pydantic==1.10.2
+sanic-healthcheck==0.1.1

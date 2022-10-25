@@ -2,7 +2,9 @@ FROM python:3.10
 
 ENV PYTHONUNBUFFERED=1
 WORKDIR /root
-COPY . gateway
+
+COPY gateway gateway
+COPY cmnsim cmnsim
 
 RUN pip install --upgrade pip
 RUN pip install --user --no-cache-dir -r gateway/requirements.txt

@@ -1,16 +1,20 @@
 import logging
 import os
+import random
+import secrets
 
 from pydantic import BaseModel
 from sanic import Sanic
 from sanic.request import Request
 from sanic.response import json
 from sanic_ext import validate
+from sanic_healthcheck import HealthCheck
 
 from gateway.sessions import setup
 
 app = Sanic("cmnsim-search")
 setup(app)
+health_check = HealthCheck(app)
 
 logging.basicConfig(level=logging.INFO, format="[%(levelname)s]: %(message)s")
 
@@ -56,9 +60,15 @@ async def search(request, body: SearchItem):
     return json(result)
 
 
+# Define checks for the health check.
+def check_health_random():
+    return True, "Service is healthy"
+
+
 if __name__ == "__main__":
+    health_check.add_check(check_health_random)
     app.run(
-        host=os.getenv("SANIC_HOST", "0.0.0.0"),
-        port=int(os.getenv("SANIC_PORT", 5002)),
-        workers=int(os.getenv("SANIC_WORKERS", 1)),
+        host=os.getenv("CMNSIM_GATEWAY_HOST", "localhost"),
+        port=int(os.getenv("CMNSIM_GATEWAY_PORT", 5000)),
+        workers=int(os.getenv("CMNSIM_WORKERS", 1)),
     )

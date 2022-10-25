@@ -1,0 +1,67 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="author" content="colorlib.com">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,600,700" rel="stylesheet"/>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
+</head>
+<body>
+<div class="search-container" style="padding-top: 2rem;">
+    <div class="inner-form">
+        <div class="basic-search">
+            <div class="input-field">
+                <input id="search" type="text" placeholder="Type Keywords"/>
+                <div class="icon-wrap" style="width: max-content">
+                    <button class="btn-search" id="btn-search">SEARCH</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card-container">
+        {% for item in results %}
+        <div class="card" style="margin-bottom: 1rem;">
+            <div class="card-body">
+                <span class="badge rounded-pill text-bg-warning" style="padding: 0.5rem 1rem 0.5rem 1rem;">Score: {{ item['score'] }}</span>
+                <span class="badge rounded-pill text-bg-success" style="padding: 0.5rem 1rem 0.5rem 1rem;">{{ item['company_name'] }}</span>
+                <span class="badge rounded-pill text-bg-primary" style="padding: 0.5rem 1rem 0.5rem 1rem;">{{ item['normalized_name'] }}</span>
+                {% if item['company_url'] %}
+                <a href="{{ item['company_url'] }}">
+                    <button type="button" class="btn rounded-pill btn-outline-primary">Link</button>
+                </a>
+                {% endif %}
+
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+<script type="text/javascript">
+    const btn = document.getElementById('btn-search');
+    btn.addEventListener('click', function () {
+        const value = document.getElementById('search').value;
+        window.location.href = "{{ url_for('search') }}" + '/' + value;
+    });
+</script>
+    <script type="text/javascript">
+        // Get the input field
+        let input = document.getElementById("search");
+
+        input.addEventListener("keypress", function (event) {
+            if (event.key === "Enter" && input.value.length > 0) {
+                event.preventDefault();
+                document.getElementById("btn-search").click();
+            }
+        });
+    </script>
+    <script type="text/javascript" defer>
+        const url = window.location.pathname;
+        const filename = url.substring(url.lastIndexOf('/')+1);
+        document.getElementById('search').value = decodeURIComponent(filename);
+    </script>
+</body>
+</html>

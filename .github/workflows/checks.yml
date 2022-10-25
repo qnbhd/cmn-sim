@@ -25,7 +25,7 @@ jobs:
 
     - name: install checkers
       run: |
-        pip install black flake8 'black[jupyter]' isort mypy blackdoc types-PyYAML
+        pip install black flake8 'black[jupyter]' isort mypy types-PyYAML
     - name: black
       run: black . --check --diff
     - name: flake8
@@ -34,5 +34,3 @@ jobs:
       run: isort . --check --diff
     - name: mypy
       run: mypy .
-    - name: blackdoc
-      run: blackdoc . --check --diff
