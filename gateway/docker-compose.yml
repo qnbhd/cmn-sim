@@ -1,0 +1,33 @@
+version: "3.9"
+services:
+    gateway:
+        build: .
+        ports:
+            - "127.0.0.1:5001:5001"
+        environment:
+            ELASTIC_URL: 'docker.host.internal:9200'
+            ELASTIC_INDEX: test
+            REDIS_URL: redis://redis:6379
+            SANIC_HOST: 0.0.0.0
+            SANIC_PORT: 5001
+            SANIC_WORKERS: 5
+            CRAWLING: 'true'
+        restart: always
+    redis:
+        image: "redis:alpine"
+        restart: always
+        ports:
+            - "6379:6379"
+    nginx:
+        image: nginx:1.13.6-alpine
+        ports:
+            - "8000:8000"
+        depends_on:
+            - gateway
+        volumes:
+            - ./gateway.conf:/etc/nginx/conf.d/gateway.conf
+        restart: always
+
+networks:
+    default:
+        driver: bridge

@@ -1,6 +1,6 @@
 [tool.isort]
 profile = 'black'
-src_paths = ['cmnsim', 'tests']
+src_paths = ['cmnsim', 'tests', 'gateway']
 
 
 [tool.pytest.ini_options]

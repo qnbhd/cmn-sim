@@ -1,0 +1,867 @@
+{"_index":"test","_id":"wNyA_4MBn_Meu5TxUWRX","_score":1,"_source":{"company_name":"Rhino Rugby Ltd.","query_string":"Rhino Rugby France","company_url":"","normalized_name":"rhino rugby"}}
+{"_index":"test","_id":"wdyA_4MBn_Meu5TxUWSB","_score":1,"_source":{"company_name":"Bridgestone Americas Tire","query_string":"Bridgestone International Group","company_url":"","normalized_name":"bridgestone americas tire"}}
+{"_index":"test","_id":"wtyA_4MBn_Meu5TxUWSh","_score":1,"_source":{"company_name":"TOTAL BITUMEN*","query_string":"TOTAL CZECH REPUBLIC","company_url":"","normalized_name":"total bitumen"}}
+{"_index":"test","_id":"w9yA_4MBn_Meu5TxUWTX","_score":1,"_source":{"company_name":"Sumitomo Rubber Usa 10 Sheridan","query_string":"Sumitomo Rubber Industriesusa","company_url":"","normalized_name":"sumitomo rubber industriesusa"}}
+{"_index":"test","_id":"xNyA_4MBn_Meu5TxUWT0","_score":1,"_source":{"company_name":"Basf Co., Ltd.","query_string":"Basf Japan Ltd. 6 10 1 Roppongi","company_url":"","normalized_name":"basf co"}}
+{"_index":"test","_id":"xdyA_4MBn_Meu5TxUmQO","_score":1,"_source":{"company_name":"JX Nippon Oil & Gas Exploration (Brasil) Ltda","query_string":"JX Nippon Oil & Gas Exploration (Sarawak), Ltd","company_url":"","normalized_name":"jx nippon oil gas exploration"}}
+{"_index":"test","_id":"xtyA_4MBn_Meu5TxUmQv","_score":1,"_source":{"company_name":"ООО Химинвест групп","query_string":"ХИМИНВЕСТ ГРУПП, ООО","company_url":"","normalized_name":"ooo khiminvest"}}
+{"_index":"test","_id":"x9yA_4MBn_Meu5TxUmRL","_score":1,"_source":{"company_name":"Bridgestone Neumaticos De Monterreysa De Cv","query_string":"Bridgestone Ncr","company_url":"","normalized_name":"bridgestone ncr"}}
+{"_index":"test","_id":"yNyA_4MBn_Meu5TxUmRm","_score":1,"_source":{"company_name":"Zeon India Private Limited","query_string":"ZEON Corporation (TSE:4205)","company_url":"","normalized_name":"zeon india"}}
+{"_index":"test","_id":"ydyA_4MBn_Meu5TxUmSD","_score":1,"_source":{"company_name":"Dow Chemical","query_string":"Dow Chemical Pacific","company_url":"","normalized_name":"dow chemical"}}
+{"_index":"test","_id":"ytyA_4MBn_Meu5TxUmSh","_score":1,"_source":{"company_name":"Basf Bangladesh Ltd.","query_string":"Basf Sa","company_url":"","normalized_name":"basf"}}
+{"_index":"test","_id":"y9yA_4MBn_Meu5TxUmS7","_score":1,"_source":{"company_name":"Zeon Trading （Shanghai）Co. Ltd.","query_string":"Zeon Corporation","company_url":"","normalized_name":"zeon"}}
+{"_index":"test","_id":"zNyA_4MBn_Meu5TxUmTU","_score":1,"_source":{"company_name":"Bridgestone Golf (Shenzhen) Co., Ltd.","query_string":"Bridgestone （Huizhou）Synthetic Rubber Co., Ltd.","company_url":"","normalized_name":"bridgestone golf shenzhen co"}}
+{"_index":"test","_id":"zdyA_4MBn_Meu5TxUmTv","_score":1,"_source":{"company_name":"Toyo Trans Inc.","query_string":"Toyo Tire North","company_url":"","normalized_name":"toyo tire north"}}
+{"_index":"test","_id":"ztyA_4MBn_Meu5TxU2QJ","_score":1,"_source":{"company_name":"Bridgestone De Mexico S.A. De C.V.","query_string":"Bridgestone Ncr","company_url":"","normalized_name":"bridgestone ncr"}}
+{"_index":"test","_id":"z9yA_4MBn_Meu5TxU2Qj","_score":1,"_source":{"company_name":"Arlanxeo Singapore Pte., Ltd. Tearlanxeo Canada Inc. 1265 Vidal","query_string":"Arlanxeo Singapore Pte., Ltd.","company_url":"","normalized_name":"arlanxeo singapore"}}
+{"_index":"test","_id":"0NyA_4MBn_Meu5TxU2Q9","_score":1,"_source":{"company_name":"Coim S.p.A.","query_string":"C.O.I.M. S.p.A.","company_url":"","normalized_name":"coim"}}
+{"_index":"test","_id":"0dyA_4MBn_Meu5TxU2RY","_score":1,"_source":{"company_name":"Pirelli Neumaticos Sa De","query_string":"Pirelli Neumaticos Argentina Sa","company_url":"","normalized_name":"pirelli neumaticos sa de"}}
+{"_index":"test","_id":"0tyA_4MBn_Meu5TxU2Rx","_score":1,"_source":{"company_name":"ООО\"ИМПОРТ МОДА\"","query_string":"ООО\"ИМПОРТ МОДА\"","company_url":"","normalized_name":"ooo import moda"}}
+{"_index":"test","_id":"09yA_4MBn_Meu5TxU2SN","_score":1,"_source":{"company_name":"Marks And Spencer Reliance India Pvt., Ltd.","query_string":"Reliance Retail Ltd.","company_url":"","normalized_name":"reliance retail"}}
+{"_index":"test","_id":"1NyA_4MBn_Meu5TxU2Sp","_score":1,"_source":{"company_name":"Thai Bridgestone Co., Ltd.","query_string":"Bridgestone India","company_url":"","normalized_name":"bridgestone india"}}
+{"_index":"test","_id":"1dyA_4MBn_Meu5TxU2TE","_score":1,"_source":{"company_name":"Total Bitumen Deutschland GmbH","query_string":"TOTAL POLSKA","company_url":"","normalized_name":"total polska"}}
+{"_index":"test","_id":"1tyA_4MBn_Meu5TxU2Tf","_score":1,"_source":{"company_name":"Savino Del Bene Usa Inc.","query_string":"Savino Del Bene Poland Sp. Z O.O.","company_url":"","normalized_name":"savino del bene usa"}}
+{"_index":"test","_id":"19yA_4MBn_Meu5TxU2T4","_score":1,"_source":{"company_name":"SOUDAL NV","query_string":"ООО \"СОУДАЛ\"","company_url":"","normalized_name":"soudal"}}
+{"_index":"test","_id":"2NyA_4MBn_Meu5TxVGQT","_score":1,"_source":{"company_name":"Bdp International Basf Imp.","query_string":"Basf Corp.","company_url":"","normalized_name":"basf"}}
+{"_index":"test","_id":"E9yJ_4MBn_Meu5TxXWUi","_score":1,"_source":{"company_name":"Daewoo International Corp.","query_string":"Posco Daewoo America Corp. Toronto B","company_url":"","normalized_name":"daewoo international"}}
+{"_index":"test","_id":"FNyJ_4MBn_Meu5TxXWU8","_score":1,"_source":{"company_name":"API","query_string":"A.P.I. Applicazioni Plastiche Industriali SPA","company_url":"","normalized_name":"api"}}
+{"_index":"test","_id":"FdyJ_4MBn_Meu5TxXWV9","_score":1,"_source":{"company_name":"VARO ENERGY","query_string":"Varo Energy B.V.","company_url":"","normalized_name":"varo"}}
+{"_index":"test","_id":"FtyJ_4MBn_Meu5TxXWWv","_score":1,"_source":{"company_name":"Evonik Corporation C/O Stockhausen","query_string":"Evonik Cryo Llc","company_url":"","normalized_name":"evonik cryo"}}
+{"_index":"test","_id":"F9yJ_4MBn_Meu5TxXmUM","_score":1,"_source":{"company_name":"BINNE","query_string":"Binné & Sohn GmbH & Co. KG Dachbaustoffwerk","company_url":"","normalized_name":"binne"}}
+{"_index":"test","_id":"GNyJ_4MBn_Meu5TxXmVX","_score":1,"_source":{"company_name":"Showa Rekisei Industries Co.,Ltd.","query_string":"SHOWA SHELL","company_url":"","normalized_name":"showa shell"}}
+{"_index":"test","_id":"GdyJ_4MBn_Meu5TxXmV9","_score":1,"_source":{"company_name":"WAKOL","query_string":"Wakol Gmbh","company_url":"","normalized_name":"wakol"}}
+{"_index":"test","_id":"GtyJ_4MBn_Meu5TxXmXI","_score":1,"_source":{"company_name":"Yokohama Tyre","query_string":"Yokohama India Pvt., Ltd.","company_url":"","normalized_name":"yokohama"}}
+{"_index":"test","_id":"G9yJ_4MBn_Meu5TxX2VS","_score":1,"_source":{"company_name":"Evonik Cyro Llc Mobile","query_string":"Evonik Cryo Llc","company_url":"","normalized_name":"evonik cryo"}}
+{"_index":"test","_id":"HNyJ_4MBn_Meu5TxX2W0","_score":1,"_source":{"company_name":"Dupont Specialty Products Usa Llc","query_string":"Dupont Mexico","company_url":"","normalized_name":"dupont mexico"}}
+{"_index":"test","_id":"HdyJ_4MBn_Meu5TxYGUC","_score":1,"_source":{"company_name":"Fc Daewoo Textile Llc","query_string":"Posco Daewoo America Corp. Toronto B","company_url":"","normalized_name":"fc daewoo textile"}}
+{"_index":"test","_id":"HtyJ_4MBn_Meu5TxYGUy","_score":1,"_source":{"company_name":"FORD WERKE GMBH","query_string":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ФОРД СОЛЛЕРС ЕЛАБУГА\"","company_url":"","normalized_name":"ford werke"}}
+{"_index":"test","_id":"LtyJ_4MBn_Meu5TxaGXu","_score":1,"_source":{"company_name":"Probisa Productos Bituminosos S.L.U.","query_string":"Probisa Productos Bituminosos","company_url":"","normalized_name":"probisa productos bituminosos"}}
+{"_index":"test","_id":"L9yJ_4MBn_Meu5TxaWUj","_score":1,"_source":{"company_name":"Eneos Globe Corporation","query_string":"ENEOS Globe Energy Co., Ltd.","company_url":"","normalized_name":"eneos globe"}}
+{"_index":"test","_id":"MNyJ_4MBn_Meu5TxaWVn","_score":1,"_source":{"company_name":"DELTA ACM","query_string":"Delta Roofing, Inc.","company_url":"","normalized_name":"delta"}}
+{"_index":"test","_id":"MdyJ_4MBn_Meu5TxamUm","_score":1,"_source":{"company_name":"DANIŞ YAPI ","query_string":"Danis Yapi Madencilik Sanayi Ve Ticaret Anonim Sirketi","company_url":"","normalized_name":"danis yapi"}}
+{"_index":"test","_id":"MtyJ_4MBn_Meu5Txa2UP","_score":1,"_source":{"company_name":"DALPO","query_string":"Dalpo Poznan Sp Z O O SpOlka Komandytowa","company_url":"","normalized_name":"dalpo"}}
+{"_index":"test","_id":"M9yJ_4MBn_Meu5Txa2Up","_score":1,"_source":{"company_name":"LECTRA SA","query_string":"ООО\"ЛЕКТРА РУССЛАНД\"","company_url":"","normalized_name":"lectra"}}
+{"_index":"test","_id":"NNyJ_4MBn_Meu5Txa2XS","_score":1,"_source":{"company_name":"BUHLER AG","query_string":"ООО\"БЮЛЕР СЕРВИС\"","company_url":"","normalized_name":"buhler"}}
+{"_index":"test","_id":"NdyJ_4MBn_Meu5Txa2X7","_score":1,"_source":{"company_name":"Industrias Negromex ","query_string":"NEGROMEX","company_url":"","normalized_name":"negromex"}}
+{"_index":"test","_id":"H9yJ_4MBn_Meu5TxYWUX","_score":1,"_source":{"company_name":"SWISSPOR (VAPAROID)","query_string":"SWISSPOR POLSKA","company_url":"","normalized_name":"swisspor"}}
+{"_index":"test","_id":"INyJ_4MBn_Meu5TxYWWB","_score":1,"_source":{"company_name":"W. Quandt Dachbahnen und Dachstoffe GmbH","query_string":"W. Quandt Gmbh & Co. Kg","company_url":"","normalized_name":"w quandt"}}
+{"_index":"test","_id":"IdyJ_4MBn_Meu5TxYmWX","_score":1,"_source":{"company_name":"MARATHON","query_string":"Marathon Oil Corporation (NYSE:MRO)","company_url":"","normalized_name":"marathon"}}
+{"_index":"test","_id":"ItyJ_4MBn_Meu5TxY2U_","_score":1,"_source":{"company_name":"SOFTER / CELANESE","query_string":"SO.F.TER. S.r.l","company_url":"","normalized_name":"so f ter"}}
+{"_index":"test","_id":"I9yJ_4MBn_Meu5TxZGU_","_score":1,"_source":{"company_name":"C.O.I.M. S.p.A.","query_string":"C.O.I.M. S.P.A. CHIMICA ORGANICA INDUSTRIALE MILANESE","company_url":"","normalized_name":"c o i m"}}
+{"_index":"test","_id":"JNyJ_4MBn_Meu5TxZGVZ","_score":1,"_source":{"company_name":"TREMCO ILLBRUCK / RPM","query_string":"Tremco illbruck Group GmbH","company_url":"","normalized_name":"tremco illbruck rpm"}}
+{"_index":"test","_id":"JdyJ_4MBn_Meu5TxZGW2","_score":1,"_source":{"company_name":"AUTOMOTIVE PERFORMANCE MATERIAL (APM)","query_string":"Automotive Performance Material","company_url":"","normalized_name":"automotive performance material"}}
+{"_index":"test","_id":"JtyJ_4MBn_Meu5TxZWUT","_score":1,"_source":{"company_name":"HP PELZER S.R.O.","query_string":"ООО \"ХП ПЕЛЬЦЕР РУС\"","company_url":"","normalized_name":"hp pelzer"}}
+{"_index":"test","_id":"J9yJ_4MBn_Meu5TxZWWr","_score":1,"_source":{"company_name":"K Flex Usa Llc. 100 Nomaco","query_string":"L'ISOLANTE K-FLEX SPA","company_url":"","normalized_name":"l isolante k flex"}}
+{"_index":"test","_id":"KNyJ_4MBn_Meu5TxZmUe","_score":1,"_source":{"company_name":"ASSA","query_string":"ASSA Roofing Solutions","company_url":"","normalized_name":"assa"}}
+{"_index":"test","_id":"KdyJ_4MBn_Meu5TxZ2XL","_score":1,"_source":{"company_name":"ICOPAL KFT.","query_string":"ICOPAL","company_url":"","normalized_name":"icopal"}}
+{"_index":"test","_id":"KtyJ_4MBn_Meu5TxaGU5","_score":1,"_source":{"company_name":"THREE BOND EUROPE","query_string":"Three Bond Europe S.A.","company_url":"","normalized_name":"three"}}
+{"_index":"test","_id":"K9yJ_4MBn_Meu5TxaGVi","_score":1,"_source":{"company_name":"Eurovia CS","query_string":"EUROVIA POLSKA","company_url":"","normalized_name":"eurovia cs"}}
+{"_index":"test","_id":"LNyJ_4MBn_Meu5TxaGWS","_score":1,"_source":{"company_name":"Rhenocoll-Werk","query_string":"Rhenocoll-Werk E.K.","company_url":"","normalized_name":"rhenocoll werk"}}
+{"_index":"test","_id":"LdyJ_4MBn_Meu5TxaGXT","_score":1,"_source":{"company_name":"TERMOCOMPO","query_string":"Termocompo - IndUstria TermoplAstica, Lda","company_url":"","normalized_name":"termocompo"}}
+{"_index":"test","_id":"BtyI_4MBn_Meu5Txg2UP","_score":1,"_source":{"company_name":"IKO","query_string":"IKO SLOVAKIA","company_url":"","normalized_name":"iko"}}
+{"_index":"test","_id":"B9yI_4MBn_Meu5Txg2Vv","_score":1,"_source":{"company_name":"Bit-Mat Products of Indiana, Inc.","query_string":"Bit Mat. Products Of Michigan, Inc.","company_url":"","normalized_name":"bit mat products"}}
+{"_index":"test","_id":"CNyI_4MBn_Meu5Txg2Ws","_score":1,"_source":{"company_name":"IKO EU /ALL PLANTS*","query_string":"IKO Slovakia, s.r.o.","company_url":"","normalized_name":"iko"}}
+{"_index":"test","_id":"CdyI_4MBn_Meu5TxhGUP","_score":1,"_source":{"company_name":"Versalis Americas Inc.","query_string":"Versalis Sp A","company_url":"","normalized_name":"versalis sp a"}}
+{"_index":"test","_id":"CtyI_4MBn_Meu5TxhGVE","_score":1,"_source":{"company_name":"ONUR TAAHHÜT ","query_string":"Onur Taahhut Tasimacilik Insaat Ticaret ve Sanayi AS","company_url":"","normalized_name":"onur taahhut"}}
+{"_index":"test","_id":"C9yI_4MBn_Meu5TxhWU0","_score":1,"_source":{"company_name":"IKO EU /ALL PLANTS*","query_string":"IKO SLOVAKIA","company_url":"","normalized_name":"iko"}}
+{"_index":"test","_id":"AdyI_4MBn_Meu5TxfmVW","_score":1,"_source":{"company_name":"TOTAL CESKA REPUBLIKA s.r.o.","query_string":"TOTAL FRANCE (ARNAY LE DUC)","company_url":"","normalized_name":"arnay"}}
+{"_index":"test","_id":"AtyI_4MBn_Meu5TxfmWL","_score":1,"_source":{"company_name":"Carlisle Coatings & Waterproofing, Inc.","query_string":"Carlisle Coatings & Wtrprfng","company_url":"","normalized_name":"carlisle coatings wtrprfng"}}
+{"_index":"test","_id":"A9yI_4MBn_Meu5TxfmXG","_score":1,"_source":{"company_name":"Onduline Polska Sp. z o.o.","query_string":"Onduline S.A.","company_url":"","normalized_name":"onduline"}}
+{"_index":"test","_id":"BNyI_4MBn_Meu5TxgGU3","_score":1,"_source":{"company_name":"Sika India Private Ltd.","query_string":"Pt Sika Indonesia","company_url":"","normalized_name":"pt sika"}}
+{"_index":"test","_id":"BdyI_4MBn_Meu5TxgGVU","_score":1,"_source":{"company_name":"Sika S A.","query_string":"Sika Sa","company_url":"","normalized_name":"sika"}}
+{"_index":"test","_id":"D9yJ_4MBn_Meu5TxWGUk","_score":1,"_source":{"company_name":"MOGAT","query_string":"Mogat-Werke Adolf Böving Bitumen- und Dachpappen Fabrik GmbH","company_url":"","normalized_name":"mogat"}}
+{"_index":"test","_id":"ENyJ_4MBn_Meu5TxWGVM","_score":1,"_source":{"company_name":"APPIA LIANTS OUEST ( ALO)","query_string":"APPIA LIANTS OUEST","company_url":"","normalized_name":"appia"}}
+{"_index":"test","_id":"EdyJ_4MBn_Meu5TxWGWc","_score":1,"_source":{"company_name":"Trinseo Europe Gmb H Trade Register 20162359","query_string":"Trinseo Europe Gmb H Trade Register 20162359 Tax Id Be0806160466","company_url":"","normalized_name":"trinseo europe gmb h trade register"}}
+{"_index":"test","_id":"DNyI_4MBn_Meu5TxhWWB","_score":1,"_source":{"company_name":"Saint Gobain Performance Plastics","query_string":"Saint Gobain Canada Inc.","company_url":"","normalized_name":"saint gobain canada"}}
+{"_index":"test","_id":"DdyI_4MBn_Meu5TxhWXO","_score":1,"_source":{"company_name":"NIS ( GPN SUBCIDIARY)","query_string":"Naftna Industrija Srbije a.d. (BELEX:NIIS)","company_url":"","normalized_name":"nis"}}
+{"_index":"test","_id":"DtyI_4MBn_Meu5TxhmV6","_score":1,"_source":{"company_name":"Petro-Canada Denmark GmbH","query_string":"Petro-Canada Energy North Sea Limited","company_url":"","normalized_name":"petro canada denmark"}}
+{"_index":"test","_id":"EtyJ_4MBn_Meu5TxXGWD","_score":1,"_source":{"company_name":"Azienda Generale Italiana Petroli","query_string":"AGIP  ( ENI GROUP)","company_url":"","normalized_name":"agip"}}
+{"_index":"test","_id":"eNyJ_4MBn_Meu5TxoGXA","_score":1,"_source":{"company_name":"BOSTIC","query_string":"Bo9stic Co.","company_url":"","normalized_name":"bostic"}}
+{"_index":"test","_id":"edyJ_4MBn_Meu5TxoGX4","_score":1,"_source":{"company_name":"Bochem Sp. z o.o. Zakłady Chemiczne","query_string":"Zaklady Chemiczne BOCHEM Sp. z.o.o.","company_url":"","normalized_name":"zaklady chemiczne bochem"}}
+{"_index":"test","_id":"etyJ_4MBn_Meu5TxoWVf","_score":1,"_source":{"company_name":"Tope Seizo, K.K.","query_string":"Tohpe Corporation","company_url":"","normalized_name":"tope seizo"}}
+{"_index":"test","_id":"e9yJ_4MBn_Meu5TxomUN","_score":1,"_source":{"company_name":"TIM IZOLIRKA ","query_string":"Tim Izolirka D.O.O.","company_url":"","normalized_name":"tim izolirka"}}
+{"_index":"test","_id":"fNyJ_4MBn_Meu5TxomU0","_score":1,"_source":{"company_name":"MARTIN ASPHALT","query_string":"Martin Asphalt Co.","company_url":"","normalized_name":"martin"}}
+{"_index":"test","_id":"fdyJ_4MBn_Meu5TxomXl","_score":1,"_source":{"company_name":"APLIX","query_string":"Aplix S.A.","company_url":"","normalized_name":"aplix"}}
+{"_index":"test","_id":"ftyJ_4MBn_Meu5Txo2WO","_score":1,"_source":{"company_name":"NETAFIM LTD.","query_string":"ООО\"НЕТАФИМ СНГ\"","company_url":"","normalized_name":"netafim"}}
+{"_index":"test","_id":"idyJ_4MBn_Meu5TxsGVn","_score":1,"_source":{"company_name":"Eni Shipping Inc. Houston","query_string":"Eni Jr286 Inc.","company_url":"","normalized_name":"eni jr"}}
+{"_index":"test","_id":"ityJ_4MBn_Meu5TxsWV6","_score":1,"_source":{"company_name":"COCOPAVING","query_string":"Coco Paving Inc.","company_url":"","normalized_name":"cocopaving"}}
+{"_index":"test","_id":"i9yJ_4MBn_Meu5TxsWWV","_score":1,"_source":{"company_name":"ROMPETROL","query_string":"Rompetrol Rafinare S.A.","company_url":"","normalized_name":"rompetrol"}}
+{"_index":"test","_id":"jNyJ_4MBn_Meu5TxsmWw","_score":1,"_source":{"company_name":"GOLDENPLAST","query_string":"GOLDENPLAST SPA","company_url":"","normalized_name":"goldenplast"}}
+{"_index":"test","_id":"jdyJ_4MBn_Meu5TxsmXL","_score":1,"_source":{"company_name":"BITUMTEC (FORMER TOTALERG)","query_string":"Bitumtec Srl","company_url":"","normalized_name":"bitumtec"}}
+{"_index":"test","_id":"jtyJ_4MBn_Meu5TxsmXz","_score":1,"_source":{"company_name":"JOWAT SE\"","query_string":"ООО\"ЙОВАТ\"","company_url":"","normalized_name":"jowat"}}
+{"_index":"test","_id":"j9yJ_4MBn_Meu5Txs2VY","_score":1,"_source":{"company_name":"COLQUIMICA","query_string":"ColquÍmica - IndÚstria Nacional De Colas, S.A.","company_url":"","normalized_name":"colquimica"}}
+{"_index":"test","_id":"hNyJ_4MBn_Meu5TxrGVn","_score":1,"_source":{"company_name":"SOFTER / CELANESE","query_string":"P.GROUP SO.F.TER. DEUTSCHLAND GmbH","company_url":"","normalized_name":"softer"}}
+{"_index":"test","_id":"hdyJ_4MBn_Meu5TxrGWp","_score":1,"_source":{"company_name":"Korea- ERS- Korea Petroleum","query_string":"Korea Petroleum Industries Company (KOSE:A004090)","company_url":"","normalized_name":"korea"}}
+{"_index":"test","_id":"htyJ_4MBn_Meu5TxrWUY","_score":1,"_source":{"company_name":"Ондулин","query_string":"ONDULINE US PLANTS/ ONDULINE NORTH AMERICA INC","company_url":"","normalized_name":"ondulin"}}
+{"_index":"test","_id":"h9yJ_4MBn_Meu5TxrWVa","_score":1,"_source":{"company_name":"ИНТЕРТЕКС ВОРЛД РЕСУРСИС ИНК.","query_string":"Intertex World Resources Ltd.","company_url":"","normalized_name":"intertex world resources"}}
+{"_index":"test","_id":"iNyJ_4MBn_Meu5TxrmW3","_score":1,"_source":{"company_name":"Bostik A/S","query_string":"Bo9stic Co.","company_url":"","normalized_name":"bostik"}}
+{"_index":"test","_id":"gNyJ_4MBn_Meu5TxqmUJ","_score":1,"_source":{"company_name":"МИШЛЕН","query_string":"MICHELIN HUNGARIA TYRE MANUFACTURE LTD","company_url":"","normalized_name":"mishlen"}}
+{"_index":"test","_id":"gdyJ_4MBn_Meu5TxqmUp","_score":1,"_source":{"company_name":"Kumho Petrochemical","query_string":"KUMHO PETROCHEMICAL CO., LTD. (KOSE:A011780)","company_url":"","normalized_name":"kumho petrochemical"}}
+{"_index":"test","_id":"gtyJ_4MBn_Meu5Txq2UK","_score":1,"_source":{"company_name":"Duracell Distributing Inc.Duracell","query_string":"Duracell Distributing Inc.","company_url":"","normalized_name":"duracell distributing"}}
+{"_index":"test","_id":"g9yJ_4MBn_Meu5Txq2V9","_score":1,"_source":{"company_name":"ÖZŞAHIN A.Ş","query_string":"Ozsahin Suni Kosele Sanayii Ve Ticaret Anonim Sirketi","company_url":"","normalized_name":"ozsahin"}}
+{"_index":"test","_id":"a9yJ_4MBn_Meu5TxkGWk","_score":1,"_source":{"company_name":"Dynasol Elastomeros Sa De Cv","query_string":"Dynasol Llc","company_url":"","normalized_name":"dynasol"}}
+{"_index":"test","_id":"bNyJ_4MBn_Meu5TxkGXP","_score":1,"_source":{"company_name":"DowDuPont","query_string":"The Dow Chemical Company","company_url":"","normalized_name":"dowdupont"}}
+{"_index":"test","_id":"bdyJ_4MBn_Meu5TxkWWh","_score":1,"_source":{"company_name":" Alfagomma","query_string":"ALFAGOMMA INDUSTRIAL SPA","company_url":"","normalized_name":"alfagomma"}}
+{"_index":"test","_id":"btyJ_4MBn_Meu5TxkmV1","_score":1,"_source":{"company_name":"ESSO","query_string":"Eosso Brothers, Inc","company_url":"","normalized_name":"esso"}}
+{"_index":"test","_id":"b9yJ_4MBn_Meu5TxkmW7","_score":1,"_source":{"company_name":"BITUMENKA","query_string":"Bitumenka D.D.","company_url":"","normalized_name":"bitumenka"}}
+{"_index":"test","_id":"cNyJ_4MBn_Meu5TxlGUG","_score":1,"_source":{"company_name":"Nizhnekamskneftekhim","query_string":"Nizhnekamsk","company_url":"","normalized_name":"nizhnekamsk"}}
+{"_index":"test","_id":"dNyJ_4MBn_Meu5TxnWWz","_score":1,"_source":{"company_name":"MAKYOL","query_string":"Makyol Insaat Sanayi Turizm ve Ticaret A.S.","company_url":"","normalized_name":"makyol"}}
+{"_index":"test","_id":"ddyJ_4MBn_Meu5TxnWX2","_score":1,"_source":{"company_name":"Celanese Operations Mexico S De Rl De Cv","query_string":"Celanese Materials Mexico","company_url":"","normalized_name":"celanese"}}
+{"_index":"test","_id":"dtyJ_4MBn_Meu5TxnmWk","_score":1,"_source":{"company_name":"DEBOER SCHOTEN ","query_string":"De Boer Green Solutions NV","company_url":"","normalized_name":"deboer schoten"}}
+{"_index":"test","_id":"d9yJ_4MBn_Meu5Txn2UF","_score":1,"_source":{"company_name":"HEVEA B.V.","query_string":"HeveaChem International","company_url":"","normalized_name":"hevea"}}
+{"_index":"test","_id":"cdyJ_4MBn_Meu5TxlGVw","_score":1,"_source":{"company_name":"Sunflag (Nigeria) Ltd.","query_string":"Sunflag Thailand Ltd.","company_url":"","normalized_name":"sunflag thailand"}}
+{"_index":"test","_id":"ctyJ_4MBn_Meu5Txl2UO","_score":1,"_source":{"company_name":"Sumitomo Chemical Co.Ltd.","query_string":"Sumimoto","company_url":"","normalized_name":"sumimoto"}}
+{"_index":"test","_id":"c9yJ_4MBn_Meu5Txm2XT","_score":1,"_source":{"company_name":"Farmacap Industria E Comercio Ltda","query_string":"Farmacap Industries Stria E Com Rcio Ltda","company_url":"","normalized_name":"farmacap industria e"}}
+{"_index":"test","_id":"f9yJ_4MBn_Meu5TxpWWl","_score":1,"_source":{"company_name":"Mitas Tires North America","query_string":"MITAS A.S.","company_url":"","normalized_name":"mitas"}}
+{"_index":"test","_id":"0dyJ_4MBn_Meu5Tx9mVz","_score":1,"_source":{"company_name":"Dana Industrias Ltda","query_string":"Dana","company_url":"","normalized_name":"dana"}}
+{"_index":"test","_id":"0tyJ_4MBn_Meu5Tx92UZ","_score":1,"_source":{"company_name":"PETROTEKNO","query_string":"PETROTEKNO, S.A. de C.V.","company_url":"","normalized_name":"petrotekno"}}
+{"_index":"test","_id":"09yJ_4MBn_Meu5Tx92X8","_score":1,"_source":{"company_name":"ASIA PHARM PACK","query_string":"ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ASIA PHARM PACK","company_url":"","normalized_name":"asia pharm pack"}}
+{"_index":"test","_id":"1NyJ_4MBn_Meu5Tx-WU_","_score":1,"_source":{"company_name":"HUBEI GUOCHUANG HI-TECH MATERIAL","query_string":"HUBEI GUOCHUANG HI-TECH MATERIAL IN","company_url":"","normalized_name":"guochuang hi tech"}}
+{"_index":"test","_id":"1dyJ_4MBn_Meu5Tx-WV8","_score":1,"_source":{"company_name":"STE GYMAP","query_string":"Gymap Sas","company_url":"","normalized_name":"gymap"}}
+{"_index":"test","_id":"x9yJ_4MBn_Meu5Tx72VA","_score":1,"_source":{"company_name":"Pigipada Oü","query_string":"PIGIPADA Limited liability company","company_url":"","normalized_name":"pigipada ou"}}
+{"_index":"test","_id":"yNyJ_4MBn_Meu5Tx72VZ","_score":1,"_source":{"company_name":"FRANCHESCETTI ","query_string":"CALZATURIFICIO FRANCESCHETTI S.R.L.","company_url":"","normalized_name":"franchescetti"}}
+{"_index":"test","_id":"ydyJ_4MBn_Meu5Tx72X8","_score":1,"_source":{"company_name":"Total Bitumen Deutschland GmbH","query_string":"TOTAL CESKA REPUBLIKA s.r.o.","company_url":"","normalized_name":"republika"}}
+{"_index":"test","_id":"ytyJ_4MBn_Meu5Tx8GXo","_score":1,"_source":{"company_name":"DITECPESA","query_string":"Ditecpesa S.A.","company_url":"","normalized_name":"ditecpesa"}}
+{"_index":"test","_id":"y9yJ_4MBn_Meu5Tx8WV9","_score":1,"_source":{"company_name":"Avery Dennison Kunshan Co., Ltd.","query_string":"Avery Denisson (BE)","company_url":"","normalized_name":"avery denisson"}}
+{"_index":"test","_id":"wdyJ_4MBn_Meu5Tx52VO","_score":1,"_source":{"company_name":"ASFALTOS CHOVA ","query_string":"Asfaltos Chova Sa","company_url":"","normalized_name":"asfaltos chova"}}
+{"_index":"test","_id":"wtyJ_4MBn_Meu5Tx52Xb","_score":1,"_source":{"company_name":"BITOUMINA SA","query_string":"Bitoumina S.A.","company_url":"","normalized_name":"bitoumina"}}
+{"_index":"test","_id":"w9yJ_4MBn_Meu5Tx6GUd","_score":1,"_source":{"company_name":"PMI Izolacja Matizol S.A.","query_string":"Izolacja-Matizol SA Przedsiębiorstwo Materiałów Izolacyjnych","company_url":"","normalized_name":"pmi izolacja matizol"}}
+{"_index":"test","_id":"xNyJ_4MBn_Meu5Tx6GVE","_score":1,"_source":{"company_name":"PBM (BACARELLI)","query_string":"P.B.M. Polimer Bitumen Modifiers Di Leonardo Baccarelli E C. Sas","company_url":"","normalized_name":"pbm"}}
+{"_index":"test","_id":"zNyJ_4MBn_Meu5Tx82WN","_score":1,"_source":{"company_name":"Stemaco","query_string":"Stemaco USA","company_url":"","normalized_name":"stemaco"}}
+{"_index":"test","_id":"zdyJ_4MBn_Meu5Tx82Xt","_score":1,"_source":{"company_name":"DRAGON POLAND","query_string":"DRAGON POLAND Sp. z o.o. Sp.K.","company_url":"","normalized_name":"dragon poland"}}
+{"_index":"test","_id":"ztyJ_4MBn_Meu5Tx9WUz","_score":1,"_source":{"company_name":"IZOBUD","query_string":"Izobud Group of Companies","company_url":"","normalized_name":"izobud"}}
+{"_index":"test","_id":"z9yJ_4MBn_Meu5Tx9WWQ","_score":1,"_source":{"company_name":"PLASTISAVIO S.P.A","query_string":"Asphalt, tar and bitumen","company_url":"","normalized_name":"plastisavio"}}
+{"_index":"test","_id":"0NyJ_4MBn_Meu5Tx9mU4","_score":1,"_source":{"company_name":"KLEIBERIT","query_string":"Kleiberit Chimie Sarl","company_url":"","normalized_name":"kleiberit"}}
+{"_index":"test","_id":"1tyJ_4MBn_Meu5Tx_GUS","_score":1,"_source":{"company_name":"WINTERSTEIGER AG","query_string":"ООО \"ВИНТЕРШТАЙГЕР\"","company_url":"","normalized_name":"wintersteiger"}}
+{"_index":"test","_id":"19yJ_4MBn_Meu5Tx_GVI","_score":1,"_source":{"company_name":"ASPA","query_string":"ASPA GmbH","company_url":"","normalized_name":"aspa"}}
+{"_index":"test","_id":"2NyJ_4MBn_Meu5Tx_GVi","_score":1,"_source":{"company_name":"KV Rollers","query_string":"Conveyor Rollers (Bridge) Limited","company_url":"","normalized_name":"kv rollers"}}
+{"_index":"test","_id":"2dyJ_4MBn_Meu5Tx_GXz","_score":1,"_source":{"company_name":"AMOLPLASTIC LEETKOOH CO.","query_string":"Amol Plastic Leetkooh Co, Ltd","company_url":"","normalized_name":"amolplastic leetkooh"}}
+{"_index":"test","_id":"utyJ_4MBn_Meu5Tx3GVT","_score":1,"_source":{"company_name":"ООО\"ЛО ТРЕЙД\"","query_string":"ООО\"ЛО ТРЕЙД\"","company_url":"","normalized_name":"treid"}}
+{"_index":"test","_id":"u9yJ_4MBn_Meu5Tx3GWI","_score":1,"_source":{"company_name":"FORBO SIEGLING GMBH","query_string":"ООО\"ФОРБО СИГЛИНГ СНГ\"","company_url":"","normalized_name":"forbo siegling"}}
+{"_index":"test","_id":"vNyJ_4MBn_Meu5Tx3WWl","_score":1,"_source":{"company_name":"KRONES AG","query_string":"ООО \"КРОНЕС\"","company_url":"","normalized_name":"krones"}}
+{"_index":"test","_id":"vdyJ_4MBn_Meu5Tx4GWW","_score":1,"_source":{"company_name":"SAFIC ALCAN","query_string":"Safic-Alcan Polska Sp. z o.o.","company_url":"","normalized_name":"safic alcan"}}
+{"_index":"test","_id":"vtyJ_4MBn_Meu5Tx4GXL","_score":1,"_source":{"company_name":"VAPAROID","query_string":"Vaparoid AG","company_url":"","normalized_name":"vaparoid"}}
+{"_index":"test","_id":"v9yJ_4MBn_Meu5Tx4WVo","_score":1,"_source":{"company_name":"SWISSPOR (VAPAROID)","query_string":"Swisspor Polska Sp. z o.o.","company_url":"","normalized_name":"vaparoid"}}
+{"_index":"test","_id":"xdyJ_4MBn_Meu5Tx6mXb","_score":1,"_source":{"company_name":"BAXTER S.A.","query_string":"ЗАО КОМПАНИЯ \"БАКСТЕР\"","company_url":"","normalized_name":"baxter"}}
+{"_index":"test","_id":"xtyJ_4MBn_Meu5Tx62Xb","_score":1,"_source":{"company_name":"Vestas Wind Technology India Private Ltd.","query_string":"Vestas Wind Technology (China) Co., Ltd.","company_url":"","normalized_name":"vestas wind technology"}}
+{"_index":"test","_id":"wNyJ_4MBn_Meu5Tx42W2","_score":1,"_source":{"company_name":"MANITOU BF","query_string":"ООО \"МАНИТУ ВОСТОК\"","company_url":"","normalized_name":"manitou bf"}}
+{"_index":"test","_id":"SNyK_4MBn_Meu5TxRWYE","_score":1,"_source":{"company_name":"Weigong Plastic Products(Shenzhen) Co. Ltd.","query_string":"Well King Plastic Mfg. Co.","company_url":"","normalized_name":"king plastic mfg"}}
+{"_index":"test","_id":"SdyK_4MBn_Meu5TxRWZB","_score":1,"_source":{"company_name":"Mera Baba International Co.","query_string":"Mayer Laboratories Inc.","company_url":"","normalized_name":"mayer laboratories"}}
+{"_index":"test","_id":"StyK_4MBn_Meu5TxRWZe","_score":1,"_source":{"company_name":"Premier Foods Sarl","query_string":"Dws","company_url":"","normalized_name":"dws"}}
+{"_index":"test","_id":"S9yK_4MBn_Meu5TxRWZ7","_score":1,"_source":{"company_name":"Tss Corp.","query_string":"Beltservice De Mexico S De Rl De Cv","company_url":"","normalized_name":"tss"}}
+{"_index":"test","_id":"TNyK_4MBn_Meu5TxRWbI","_score":1,"_source":{"company_name":"Kana Construction (U) Ltd.","query_string":"Ttrc Inc.","company_url":"","normalized_name":"ttrc"}}
+{"_index":"test","_id":"TdyK_4MBn_Meu5TxRmYR","_score":1,"_source":{"company_name":"Vardhman Creations","query_string":"Jinn Creation","company_url":"","normalized_name":"jinn creation"}}
+{"_index":"test","_id":"TtyK_4MBn_Meu5TxRmY7","_score":1,"_source":{"company_name":"Bel Inc.","query_string":"Ube Mexico S. De R.L. De C.V.","company_url":"","normalized_name":"bel"}}
+{"_index":"test","_id":"T9yK_4MBn_Meu5TxRmaC","_score":1,"_source":{"company_name":"Impulse Wave General Trading","query_string":"Uwl Inc.","company_url":"","normalized_name":"uwl"}}
+{"_index":"test","_id":"UNyK_4MBn_Meu5TxRmbF","_score":1,"_source":{"company_name":"Zandur","query_string":"Greenchem Industries Llc","company_url":"","normalized_name":"zandur"}}
+{"_index":"test","_id":"UdyK_4MBn_Meu5TxRmbo","_score":1,"_source":{"company_name":"Sensata Technologies De Mexico","query_string":"Pv Power Technologies Pvt., Ltd.","company_url":"","normalized_name":"sensata"}}
+{"_index":"test","_id":"UtyK_4MBn_Meu5TxR2YA","_score":1,"_source":{"company_name":"Hubei Sinobase Zhonglian Trading Co., Ltd.","query_string":"Bel Inc.","company_url":"","normalized_name":"bel"}}
+{"_index":"test","_id":"U9yK_4MBn_Meu5TxR2Yy","_score":1,"_source":{"company_name":"Mudassar Traders","query_string":"Lassani Traders","company_url":"","normalized_name":"lassani traders"}}
+{"_index":"test","_id":"VNyK_4MBn_Meu5TxR2ZW","_score":1,"_source":{"company_name":"Imperalum - Sociedade Comercial de Revestimentos e Impermeabilizações, S.A.","query_string":"INDEX S.p.A.","company_url":"","normalized_name":"index"}}
+{"_index":"test","_id":"VdyK_4MBn_Meu5TxR2Zw","_score":1,"_source":{"company_name":"Sport Vision D.O.O.","query_string":"Zhuhai Cpt Precision Mold Co., Ltd.","company_url":"","normalized_name":"sport vision"}}
+{"_index":"test","_id":"VtyK_4MBn_Meu5TxR2bC","_score":1,"_source":{"company_name":"Kia Inc.","query_string":"Kang Seo Mexicana Sa De Cv","company_url":"","normalized_name":"kia"}}
+{"_index":"test","_id":"V9yK_4MBn_Meu5TxSGYN","_score":1,"_source":{"company_name":"Shenzhen Times Supply Chain Services Ltd.","query_string":"Dlg Service A/S","company_url":"","normalized_name":"dlg service"}}
+{"_index":"test","_id":"WNyK_4MBn_Meu5TxSGZO","_score":1,"_source":{"company_name":"Home Fashins Distributors Inc.","query_string":"Dws","company_url":"","normalized_name":"dws"}}
+{"_index":"test","_id":"WdyK_4MBn_Meu5TxSGZo","_score":1,"_source":{"company_name":"Skyfer Logistic Inc.","query_string":"World Trade Logistics S.A.","company_url":"","normalized_name":"skyfer logistic"}}
+{"_index":"test","_id":"I9yK_4MBn_Meu5TxOWZc","_score":1,"_source":{"company_name":"Dystar Lp","query_string":"Moresport Distribution Centre","company_url":"","normalized_name":"dystar"}}
+{"_index":"test","_id":"JNyK_4MBn_Meu5TxOWaZ","_score":1,"_source":{"company_name":"Rogers Corporation","query_string":"Impact Prowear","company_url":"","normalized_name":"impact prowear"}}
+{"_index":"test","_id":"JdyK_4MBn_Meu5TxOWa3","_score":1,"_source":{"company_name":"Betunel Industria E Comercio Ltda","query_string":"Lianda Corporation","company_url":"","normalized_name":"lianda"}}
+{"_index":"test","_id":"JtyK_4MBn_Meu5TxOWbl","_score":1,"_source":{"company_name":"Owl Transportes Internacionais Ltda","query_string":"Schenker Do Brasil Internacionais L","company_url":"","normalized_name":"schenker"}}
+{"_index":"test","_id":"J9yK_4MBn_Meu5TxOmYu","_score":1,"_source":{"company_name":"Yongguang Industry (Shaoguan) Co., Ltd.","query_string":"Ab Dogman","company_url":"","normalized_name":"ab dogman"}}
+{"_index":"test","_id":"KNyK_4MBn_Meu5TxOmZM","_score":1,"_source":{"company_name":"Dystar Lp","query_string":"B.D. Poly Styrenics","company_url":"","normalized_name":"dystar"}}
+{"_index":"test","_id":"KdyK_4MBn_Meu5TxO2Yo","_score":1,"_source":{"company_name":"Translink Shipping (Canada) Inc.","query_string":"Surishopping","company_url":"","normalized_name":"surishopping"}}
+{"_index":"test","_id":"KtyK_4MBn_Meu5TxO2ZE","_score":1,"_source":{"company_name":"Telma Telecommunication Services Private Ltd.","query_string":"Rouage Communication","company_url":"","normalized_name":"rouage communication"}}
+{"_index":"test","_id":"K9yK_4MBn_Meu5TxO2aQ","_score":1,"_source":{"company_name":"Molex De Mexico Sa De Cv","query_string":"Hexion Inc.","company_url":"","normalized_name":"hexion"}}
+{"_index":"test","_id":"LNyK_4MBn_Meu5TxO2a0","_score":1,"_source":{"company_name":"Alidot Srl .","query_string":"Quaker Chemical India Private Ltd.","company_url":"","normalized_name":"alidot"}}
+{"_index":"test","_id":"LdyK_4MBn_Meu5TxO2bZ","_score":1,"_source":{"company_name":"Fei Marketing","query_string":"T.A. Corporation Pvt., Ltd.","company_url":"","normalized_name":"fei marketing"}}
+{"_index":"test","_id":"LtyK_4MBn_Meu5TxPGYs","_score":1,"_source":{"company_name":"Goessl Flooring Inc.","query_string":"LEV THERMOPLASTICAS","company_url":"","normalized_name":"lev"}}
+{"_index":"test","_id":"L9yK_4MBn_Meu5TxPGZF","_score":1,"_source":{"company_name":"Mintech\" Llc","query_string":"Flexitech Automotive Mexico","company_url":"","normalized_name":"mintech"}}
+{"_index":"test","_id":"MNyK_4MBn_Meu5TxPGZv","_score":1,"_source":{"company_name":"Srf Ltd.","query_string":"Jts Freight Systems Llc","company_url":"","normalized_name":"srf"}}
+{"_index":"test","_id":"MdyK_4MBn_Meu5TxPGaa","_score":1,"_source":{"company_name":"SWISSPOR (VAPAROID)","query_string":"VEBEL S.R.L.","company_url":"","normalized_name":"vebel"}}
+{"_index":"test","_id":"MtyK_4MBn_Meu5TxPGbC","_score":1,"_source":{"company_name":"Brenntag Mexico S.A. De C.V.","query_string":"Ict","company_url":"","normalized_name":"ict"}}
+{"_index":"test","_id":"CdyK_4MBn_Meu5TxMWY-","_score":1,"_source":{"company_name":"Citibank Korea Inc.","query_string":"Kyor","company_url":"","normalized_name":"kyor"}}
+{"_index":"test","_id":"CtyK_4MBn_Meu5TxMWZ4","_score":1,"_source":{"company_name":"Prettl Electric Del Bajio S.A. De C.V.","query_string":"Bva Inc.","company_url":"","normalized_name":"bva"}}
+{"_index":"test","_id":"C9yK_4MBn_Meu5TxMmYs","_score":1,"_source":{"company_name":"Wynn Express Corp","query_string":"Rfe International Inc.","company_url":"","normalized_name":"wynn express"}}
+{"_index":"test","_id":"DNyK_4MBn_Meu5TxMmZc","_score":1,"_source":{"company_name":"Air Sea Transport (Chicago) Inc.","query_string":"Aspire","company_url":"","normalized_name":"aspire"}}
+{"_index":"test","_id":"DdyK_4MBn_Meu5TxMmZ-","_score":1,"_source":{"company_name":"Shanghai Scientific Instruments And Materials Co., Ltd.","query_string":"Arue","company_url":"","normalized_name":"arue"}}
+{"_index":"test","_id":"DtyK_4MBn_Meu5TxMmak","_score":1,"_source":{"company_name":"Faj International","query_string":"Fabrice","company_url":"","normalized_name":"fabrice"}}
+{"_index":"test","_id":"D9yK_4MBn_Meu5TxMmbH","_score":1,"_source":{"company_name":"Galata Chemicals Llc","query_string":"Zhangjiagang Yuansheng Chemical Industry Co., Ltd.","company_url":"","normalized_name":"galata chemicals"}}
+{"_index":"test","_id":"ENyK_4MBn_Meu5TxNGYU","_score":1,"_source":{"company_name":"Precision Adhesive Tapes Pvt., Ltd.","query_string":"Rtp Co.","company_url":"","normalized_name":"rtp"}}
+{"_index":"test","_id":"EdyK_4MBn_Meu5TxNGZS","_score":1,"_source":{"company_name":"Nri Inc.","query_string":"Waterville Tg Inc. Usine Waterville","company_url":"","normalized_name":"nri"}}
+{"_index":"test","_id":"EtyK_4MBn_Meu5TxNGZw","_score":1,"_source":{"company_name":"Guangzhou Rihang Electronics Co., Ltd.","query_string":"Elmec Sa","company_url":"","normalized_name":"elmec"}}
+{"_index":"test","_id":"E9yK_4MBn_Meu5TxNGaK","_score":1,"_source":{"company_name":"Vc Imp.","query_string":"Shanghai Songjiang Angstroms Chi Automotive Carpet Acoustic Components Ltd.","company_url":"","normalized_name":"vc imp"}}
+{"_index":"test","_id":"FNyK_4MBn_Meu5TxNGa0","_score":1,"_source":{"company_name":"Bpi Brake Mfg. Juarez Sa De Cv","query_string":"G B Corporation","company_url":"","normalized_name":"g b"}}
+{"_index":"test","_id":"FdyK_4MBn_Meu5TxNGbg","_score":1,"_source":{"company_name":"Giltec Lda","query_string":"O.O.Johnson Logistic International","company_url":"","normalized_name":"giltec"}}
+{"_index":"test","_id":"FtyK_4MBn_Meu5TxNWYJ","_score":1,"_source":{"company_name":"Elite Int.Engineering And Trading L","query_string":"Taeil Engineering","company_url":"","normalized_name":"taeil engineering"}}
+{"_index":"test","_id":"M9yK_4MBn_Meu5TxPWZf","_score":1,"_source":{"company_name":"Kap Cones Private Ltd.","query_string":"Dura Build Care Private Ltd.","company_url":"","normalized_name":"kap cones"}}
+{"_index":"test","_id":"NNyK_4MBn_Meu5TxPWaM","_score":1,"_source":{"company_name":"Oun Corporation","query_string":"Suzhou New Huamei Plastic Co., Ltd.","company_url":"","normalized_name":"oun"}}
+{"_index":"test","_id":"NdyK_4MBn_Meu5TxPmbJ","_score":1,"_source":{"company_name":"Dvw Commercial Inc.","query_string":"C P Commercial Packaging Corp","company_url":"","normalized_name":"dvw commercial"}}
+{"_index":"test","_id":"NtyK_4MBn_Meu5TxPmbm","_score":1,"_source":{"company_name":"Lexmark International Sa De Cv","query_string":"George P. Alexandris S.A.","company_url":"","normalized_name":"george p alexandris"}}
+{"_index":"test","_id":"N9yK_4MBn_Meu5TxP2YW","_score":1,"_source":{"company_name":"Insa Llc","query_string":"Professional's Choice Sports","company_url":"","normalized_name":"insa"}}
+{"_index":"test","_id":"ONyK_4MBn_Meu5TxP2ZC","_score":1,"_source":{"company_name":"Sparton Enterprises Inc.","query_string":"Divinity Glory Enterprises","company_url":"","normalized_name":"sparton enterprises"}}
+{"_index":"test","_id":"OdyK_4MBn_Meu5TxP2aq","_score":1,"_source":{"company_name":"Quelaris Peru S.A.C.","query_string":"Prt Ltd. Inc.","company_url":"","normalized_name":"prt"}}
+{"_index":"test","_id":"OtyK_4MBn_Meu5TxP2bF","_score":1,"_source":{"company_name":"Parade Sas","query_string":"Ningbo Su Fa International Trade Co., Ltd.","company_url":"","normalized_name":"parade"}}
+{"_index":"test","_id":"O9yK_4MBn_Meu5TxQGYO","_score":1,"_source":{"company_name":"Hangzhou Zhi Sheng Precision Plastic Industrial Co., Ltd.","query_string":"Guangzhou City.,Zhengxin Rubber Plastic Co., Ltd.","company_url":"","normalized_name":"guangzhou city"}}
+{"_index":"test","_id":"PNyK_4MBn_Meu5TxQGY-","_score":1,"_source":{"company_name":"Lionheart Sports","query_string":"Lb4 Sport","company_url":"","normalized_name":"lbsport"}}
+{"_index":"test","_id":"PdyK_4MBn_Meu5TxQGZ2","_score":1,"_source":{"company_name":"Crowther & Wood Ltd.","query_string":"Protex S.A.","company_url":"","normalized_name":"protex"}}
+{"_index":"test","_id":"PtyK_4MBn_Meu5TxQGa_","_score":1,"_source":{"company_name":"Pt Sinar Central Sandang","query_string":"Insa Llc","company_url":"","normalized_name":"insa"}}
+{"_index":"test","_id":"F9yK_4MBn_Meu5TxNWYl","_score":1,"_source":{"company_name":"Dsi","query_string":"Logistics Solutions Ltd.","company_url":"","normalized_name":"dsi"}}
+{"_index":"test","_id":"GNyK_4MBn_Meu5TxNWZZ","_score":1,"_source":{"company_name":"Pt Pulcra Chemicals Indonesia","query_string":"Espa","company_url":"","normalized_name":"espa"}}
+{"_index":"test","_id":"GdyK_4MBn_Meu5TxNWaW","_score":1,"_source":{"company_name":"Esterline Defense Technologies","query_string":"The Home Fashion Technologies","company_url":"","normalized_name":"the home fashion technologies"}}
+{"_index":"test","_id":"GtyK_4MBn_Meu5TxNWbH","_score":1,"_source":{"company_name":"Parker Hannifin India Pvt., Ltd.","query_string":"Fns Inc.","company_url":"","normalized_name":"fns"}}
+{"_index":"test","_id":"G9yK_4MBn_Meu5TxNmYd","_score":1,"_source":{"company_name":"Shanghai Longchou Plastic Mould Co., Ltd.","query_string":"Sto Corp","company_url":"","normalized_name":"sto"}}
+{"_index":"test","_id":"HNyK_4MBn_Meu5TxNmZu","_score":1,"_source":{"company_name":"Golden Fortune Stan Philippine","query_string":"Stp Ltd.","company_url":"","normalized_name":"stp"}}
+{"_index":"test","_id":"HdyK_4MBn_Meu5TxNmaj","_score":1,"_source":{"company_name":"Industrias Cadi S.A.","query_string":"Conwell Industries Inc.","company_url":"","normalized_name":"cadi"}}
+{"_index":"test","_id":"HtyK_4MBn_Meu5TxN2YR","_score":1,"_source":{"company_name":"Industrias Negromex S.A. De C.V.","query_string":"Riclan Sa","company_url":"","normalized_name":"riclan"}}
+{"_index":"test","_id":"H9yK_4MBn_Meu5TxN2Ys","_score":1,"_source":{"company_name":"Cbol Corp","query_string":"Quelaris Colombia S.A.S.","company_url":"","normalized_name":"cbol"}}
+{"_index":"test","_id":"INyK_4MBn_Meu5TxN2ZH","_score":1,"_source":{"company_name":"Mrf Corporation","query_string":"Parafoods Mexico S.A. De C.V.","company_url":"","normalized_name":"mrf"}}
+{"_index":"test","_id":"IdyK_4MBn_Meu5TxN2aq","_score":1,"_source":{"company_name":"Stp Ltd.","query_string":"Parts Distributing Co. O","company_url":"","normalized_name":"stp"}}
+{"_index":"test","_id":"ItyK_4MBn_Meu5TxN2bS","_score":1,"_source":{"company_name":"Albaraka Bank Pakistan ( Ltd.)","query_string":"Llc Itc","company_url":"","normalized_name":"llc itc"}}
+{"_index":"test","_id":"P9yK_4MBn_Meu5TxQGbj","_score":1,"_source":{"company_name":"Anand Nvh Products Pvt., Ltd.","query_string":"Anabond Ltd.","company_url":"","normalized_name":"anabond"}}
+{"_index":"test","_id":"QNyK_4MBn_Meu5TxQWYH","_score":1,"_source":{"company_name":"Proquimil Produtos Quimicos Ltda","query_string":"Ilg","company_url":"","normalized_name":"ilg"}}
+{"_index":"test","_id":"QdyK_4MBn_Meu5TxQWYh","_score":1,"_source":{"company_name":"Sperian Hearing Protection De Mexico S.A. De C.V.","query_string":"Pin.Up Srl","company_url":"","normalized_name":"pin up"}}
+{"_index":"test","_id":"QtyK_4MBn_Meu5TxQWY5","_score":1,"_source":{"company_name":"Chandras Chemical Enterprises (Pvt.) Ltd.","query_string":"Aldison Enterprise","company_url":"","normalized_name":"aldison enterprise"}}
+{"_index":"test","_id":"Q9yK_4MBn_Meu5TxQWZ1","_score":1,"_source":{"company_name":"American Woolen Co.","query_string":"America Auto Body Supplies Inc.","company_url":"","normalized_name":"american woolen"}}
+{"_index":"test","_id":"RNyK_4MBn_Meu5TxQmY6","_score":1,"_source":{"company_name":"Chetto","query_string":"Chem Trend Comercial Sa De Cv","company_url":"","normalized_name":"chetto"}}
+{"_index":"test","_id":"RdyK_4MBn_Meu5TxQmZl","_score":1,"_source":{"company_name":"Daksma S.A. De C.V.","query_string":"Run Tire Co., Ltd. Qingdao Mau","company_url":"","normalized_name":"daksma"}}
+{"_index":"test","_id":"RtyK_4MBn_Meu5TxQmau","_score":1,"_source":{"company_name":"Upl Do Brasil Industria E Comercio","query_string":"Prolit Industry Corporation","company_url":"","normalized_name":"prolit industry"}}
+{"_index":"test","_id":"R9yK_4MBn_Meu5TxRGa6","_score":1,"_source":{"company_name":"Xiamen C & D Light Industry Co., Ltd.","query_string":"Prolit Industry Corporation","company_url":"","normalized_name":"prolit industry"}}
+{"_index":"test","_id":"BNyK_4MBn_Meu5TxLWbf","_score":1,"_source":{"company_name":"Turmerleim Gmbh","query_string":"TÜRMERLEIM GmbH","company_url":"","normalized_name":"turmerleim"}}
+{"_index":"test","_id":"BdyK_4MBn_Meu5TxLmYb","_score":1,"_source":{"company_name":"DUKT","query_string":"Dukt Sp. Z O.o.","company_url":"","normalized_name":"dukt"}}
+{"_index":"test","_id":"BtyK_4MBn_Meu5TxMGa7","_score":1,"_source":{"company_name":"Rishichem Distributors Pvt., Ltd.","query_string":"Dsa","company_url":"","normalized_name":"dsa"}}
+{"_index":"test","_id":"B9yK_4MBn_Meu5TxMGbZ","_score":1,"_source":{"company_name":"Powermax Rubber Factory","query_string":"Co. One","company_url":"","normalized_name":"one"}}
+{"_index":"test","_id":"CNyK_4MBn_Meu5TxMGb6","_score":1,"_source":{"company_name":"Tress A/S","query_string":"Longyou Industries Park Zhejiang","company_url":"","normalized_name":"tress"}}
+{"_index":"test","_id":"_tyK_4MBn_Meu5TxJ2WQ","_score":1,"_source":{"company_name":"A. WESTENSEE & PARTNER ROHSTOFF GMBH","query_string":"awp-rohstoffe","company_url":"","normalized_name":"awp rohstoffe"}}
+{"_index":"test","_id":"_9yK_4MBn_Meu5TxJ2W8","_score":1,"_source":{"company_name":"FOURNY","query_string":"Fourny NV","company_url":"","normalized_name":"fourny"}}
+{"_index":"test","_id":"ANyK_4MBn_Meu5TxKWYS","_score":1,"_source":{"company_name":"ROTOFLEX AG","query_string":"АО \"РОТОФЛЕКС\"","company_url":"","normalized_name":"rotoflex"}}
+{"_index":"test","_id":"AdyK_4MBn_Meu5TxKWZt","_score":1,"_source":{"company_name":"Helm U.S. Corporation","query_string":"Helm AG","company_url":"","normalized_name":"helm"}}
+{"_index":"test","_id":"AtyK_4MBn_Meu5TxKWac","_score":1,"_source":{"company_name":"DANOSA","query_string":"DANOSA FRANCE","company_url":"","normalized_name":"danosa"}}
+{"_index":"test","_id":"A9yK_4MBn_Meu5TxK2Z0","_score":1,"_source":{"company_name":"BRAAS GMBH","query_string":"ООО \"БРААС-ДСК 1\"","company_url":"","normalized_name":"braas"}}
+{"_index":"test","_id":"1tyK_4MBn_Meu5Txg2a8","_score":1,"_source":{"company_name":"D.S International","query_string":"Acvila Sport Sa","company_url":"","normalized_name":"acvila"}}
+{"_index":"test","_id":"19yK_4MBn_Meu5Txg2bV","_score":1,"_source":{"company_name":"W.A. International","query_string":"Awa Food Solution","company_url":"","normalized_name":"awa food solution"}}
+{"_index":"test","_id":"2NyK_4MBn_Meu5Txg2bu","_score":1,"_source":{"company_name":"Genesco Inc.","query_string":"Esko, Inc.","company_url":"","normalized_name":"esko"}}
+{"_index":"test","_id":"2dyK_4MBn_Meu5TxhGYb","_score":1,"_source":{"company_name":"Chelna Inc.","query_string":"Shenzhen Cheng Li Da Co., Ltd.","company_url":"","normalized_name":"chelna"}}
+{"_index":"test","_id":"2tyK_4MBn_Meu5TxhGZI","_score":1,"_source":{"company_name":"Gralco S.A.","query_string":"Ajc International Inc.","company_url":"","normalized_name":"gralco"}}
+{"_index":"test","_id":"29yK_4MBn_Meu5TxhGZi","_score":1,"_source":{"company_name":"Iko Industries Ltd.","query_string":"Starkist","company_url":"","normalized_name":"starkist"}}
+{"_index":"test","_id":"3NyK_4MBn_Meu5TxhGaz","_score":1,"_source":{"company_name":"Dongguan Xu Ke Electronic Products Co., Ltd.","query_string":"Wp Produce","company_url":"","normalized_name":"wp produce"}}
+{"_index":"test","_id":"3dyK_4MBn_Meu5TxhGbO","_score":1,"_source":{"company_name":"Parker Hannifin Industria E Comercio Ltda","query_string":"Derco S.A.","company_url":"","normalized_name":"derco"}}
+{"_index":"test","_id":"3tyK_4MBn_Meu5TxhWbH","_score":1,"_source":{"company_name":"Pt Primayudha Mandirijaya","query_string":"Nad International S A De C V","company_url":"","normalized_name":"primayudha mandirijaya"}}
+{"_index":"test","_id":"39yK_4MBn_Meu5TxhWbk","_score":1,"_source":{"company_name":"Hsbc Ltd.","query_string":"Bsc S.A.","company_url":"","normalized_name":"bsc"}}
+{"_index":"test","_id":"4NyK_4MBn_Meu5TxhmYU","_score":1,"_source":{"company_name":"Flexilis Private Ltd.","query_string":"Pci Materials Private Ltd.","company_url":"","normalized_name":"flexilis"}}
+{"_index":"test","_id":"4dyK_4MBn_Meu5TxhmY9","_score":1,"_source":{"company_name":"Qingdao Xinhongtai Logistics Co., Ltd.","query_string":"Qingdao Xinye International Logistics Co., Ltd.","company_url":"","normalized_name":"qingdao"}}
+{"_index":"test","_id":"4tyK_4MBn_Meu5Txhma4","_score":1,"_source":{"company_name":"Uab Danspin","query_string":"Misr Amreya Spinning & Weaving Co.","company_url":"","normalized_name":"uab danspin"}}
+{"_index":"test","_id":"49yK_4MBn_Meu5Txhmbh","_score":1,"_source":{"company_name":"Qingdao Huateng International Logistics Co., Ltd.","query_string":"Al Huda","company_url":"","normalized_name":"al huda"}}
+{"_index":"test","_id":"5NyK_4MBn_Meu5Txh2YJ","_score":1,"_source":{"company_name":"Ibm","query_string":"Dongguan City Friends Of Public Imp. & Exp. . Trade Co., Ltd.","company_url":"","normalized_name":"ibm"}}
+{"_index":"test","_id":"5dyK_4MBn_Meu5Txh2ZH","_score":1,"_source":{"company_name":"Trackon Promotional","query_string":"Promano Ltda","company_url":"","normalized_name":"promano"}}
+{"_index":"test","_id":"5tyK_4MBn_Meu5Txh2Zs","_score":1,"_source":{"company_name":"Main Colombia S.A.","query_string":"Ternium Colombia","company_url":"","normalized_name":"ternium colombia"}}
+{"_index":"test","_id":"oNyK_4MBn_Meu5TxbGaT","_score":1,"_source":{"company_name":"Dahnay Logistics Canada","query_string":"Quantum Logistica Ltda","company_url":"","normalized_name":"quantum"}}
+{"_index":"test","_id":"odyK_4MBn_Meu5TxbGbf","_score":1,"_source":{"company_name":"Chanda","query_string":"Canterbury Canada","company_url":"","normalized_name":"chanda"}}
+{"_index":"test","_id":"otyK_4MBn_Meu5TxbWYa","_score":1,"_source":{"company_name":"Fujian Jinjiang Imp. And. Exp.Co. Ltd.","query_string":"Yota (Shanghai) Imp. & Exp. Co., Ltd.","company_url":"","normalized_name":"yota"}}
+{"_index":"test","_id":"o9yK_4MBn_Meu5TxbWY2","_score":1,"_source":{"company_name":"Servicios Condumex S.A De C.V","query_string":"Vivion Inc.","company_url":"","normalized_name":"vivion"}}
+{"_index":"test","_id":"pNyK_4MBn_Meu5TxbWZU","_score":1,"_source":{"company_name":"Krishna Sports Industries","query_string":"Iguasport Ltd.","company_url":"","normalized_name":"iguasport"}}
+{"_index":"test","_id":"pdyK_4MBn_Meu5TxbWaa","_score":1,"_source":{"company_name":"T.A. Corporation Pvt., Ltd.","query_string":"Art & Still Handicrafts","company_url":"","normalized_name":"art still handicrafts"}}
+{"_index":"test","_id":"ptyK_4MBn_Meu5TxbWbW","_score":1,"_source":{"company_name":"Gates Corporation","query_string":"Warehouse Associates Inc.","company_url":"","normalized_name":"gates"}}
+{"_index":"test","_id":"p9yK_4MBn_Meu5TxbmbH","_score":1,"_source":{"company_name":"United Rubber Industries (India) Pvt., Ltd.","query_string":"Sherin","company_url":"","normalized_name":"sherin"}}
+{"_index":"test","_id":"qNyK_4MBn_Meu5Txbmbf","_score":1,"_source":{"company_name":"КОНИМПЕКС","query_string":"Soprema S.A.","company_url":"","normalized_name":"konimpeks"}}
+{"_index":"test","_id":"qdyK_4MBn_Meu5Txbmb3","_score":1,"_source":{"company_name":"Sparkasse Dortmund","query_string":"Sparkasse Niederbayern Mitte","company_url":"","normalized_name":"sparkasse"}}
+{"_index":"test","_id":"qtyK_4MBn_Meu5Txb2YP","_score":1,"_source":{"company_name":"Total Petrochemicals (Foshan) Co., Ltd.","query_string":"Posh365 Inc.","company_url":"","normalized_name":"posh"}}
+{"_index":"test","_id":"q9yK_4MBn_Meu5Txb2Yw","_score":1,"_source":{"company_name":"Link Cargo","query_string":"Global Cargo Organizati","company_url":"","normalized_name":"link cargo"}}
+{"_index":"test","_id":"rNyK_4MBn_Meu5Txb2ZT","_score":1,"_source":{"company_name":"HYDROTECH MEMBRANES","query_string":"nokian tires","company_url":"","normalized_name":"nokian"}}
+{"_index":"test","_id":"rdyK_4MBn_Meu5Txb2ar","_score":1,"_source":{"company_name":"HYDROTECH MEMBRANES","query_string":"POLYMERTEAM","company_url":"","normalized_name":"polymerteam"}}
+{"_index":"test","_id":"xNyK_4MBn_Meu5TxfGZU","_score":1,"_source":{"company_name":"Ace International Ag","query_string":"Redachem Egypt Ltd.","company_url":"","normalized_name":"redachem egypt"}}
+{"_index":"test","_id":"xdyK_4MBn_Meu5TxfGbY","_score":1,"_source":{"company_name":"Construcciones Urales Sa De Cv","query_string":"Extrusiones S.A.","company_url":"","normalized_name":"extrusiones"}}
+{"_index":"test","_id":"xtyK_4MBn_Meu5TxfWZs","_score":1,"_source":{"company_name":"Lauren S A","query_string":"Aburnet Lanka Pvt., Ltd.","company_url":"","normalized_name":"lauren s"}}
+{"_index":"test","_id":"x9yK_4MBn_Meu5TxfWbe","_score":1,"_source":{"company_name":"Seamates Intermodal Inc.","query_string":"Intermatic Inc.","company_url":"","normalized_name":"intermatic"}}
+{"_index":"test","_id":"yNyK_4MBn_Meu5TxfmYV","_score":1,"_source":{"company_name":"Svg Exp. Private Ltd.","query_string":"Associated Ceat (Private) Ltd.","company_url":"","normalized_name":"svg exp"}}
+{"_index":"test","_id":"ydyK_4MBn_Meu5TxfmYu","_score":1,"_source":{"company_name":"Dsl","query_string":"Mpi Polyester Industries Sdn.Bhd","company_url":"","normalized_name":"dsl"}}
+{"_index":"test","_id":"ytyK_4MBn_Meu5TxfmZG","_score":1,"_source":{"company_name":"Harbour Warehouse","query_string":"Toyo Wharf & Warehouse Co., Ltd.","company_url":"","normalized_name":"harbour warehouse"}}
+{"_index":"test","_id":"y9yK_4MBn_Meu5Txfmaq","_score":1,"_source":{"company_name":"Impexa Aussenhandels/Gmbh","query_string":"Desi","company_url":"","normalized_name":"desi"}}
+{"_index":"test","_id":"zNyK_4MBn_Meu5TxfmbZ","_score":1,"_source":{"company_name":"Bayer Philippines Inc.","query_string":"Danam Philippines Inc.","company_url":"","normalized_name":"danam philippines"}}
+{"_index":"test","_id":"zdyK_4MBn_Meu5Txfmby","_score":1,"_source":{"company_name":"Lear Corporation","query_string":"Saurav Footwear Private Ltd.","company_url":"","normalized_name":"lear"}}
+{"_index":"test","_id":"ztyK_4MBn_Meu5Txf2aL","_score":1,"_source":{"company_name":"Chongqing General Trading Chemical Co., Ltd.","query_string":"Audi Ag","company_url":"","normalized_name":"audi"}}
+{"_index":"test","_id":"s9yK_4MBn_Meu5TxdGYJ","_score":1,"_source":{"company_name":"Taraki S.A.S","query_string":"Quicktrail Marketing","company_url":"","normalized_name":"taraki"}}
+{"_index":"test","_id":"tNyK_4MBn_Meu5TxdGZI","_score":1,"_source":{"company_name":"Ballester Hermanos Inc.","query_string":"Fermaq Srl .","company_url":"","normalized_name":"fermaq"}}
+{"_index":"test","_id":"tdyK_4MBn_Meu5TxdGa9","_score":1,"_source":{"company_name":"Equipment Engineers Inc.","query_string":"Viking Life Saving Equipment Trading (Shanghai) Co.","company_url":"","normalized_name":"equipment engineers"}}
+{"_index":"test","_id":"ttyK_4MBn_Meu5TxdGbv","_score":1,"_source":{"company_name":"Intl Paint Llc.","query_string":"Pro Expert International Tradin","company_url":"","normalized_name":"intl paint"}}
+{"_index":"test","_id":"t9yK_4MBn_Meu5TxdWYi","_score":1,"_source":{"company_name":"Cilikem S.A. De C.V.","query_string":"Uci Inc.","company_url":"","normalized_name":"uci"}}
+{"_index":"test","_id":"uNyK_4MBn_Meu5TxdWY_","_score":1,"_source":{"company_name":"The Master Of M V Torrente","query_string":"Master Of Mvcap Beatrice","company_url":"","normalized_name":"mvcap beatrice"}}
+{"_index":"test","_id":"udyK_4MBn_Meu5TxdWas","_score":1,"_source":{"company_name":"Ceat Ltd.","query_string":"Dongguan Shilong Kyocera Optical Co., Ltd.","company_url":"","normalized_name":"ceat"}}
+{"_index":"test","_id":"utyK_4MBn_Meu5TxdmYX","_score":1,"_source":{"company_name":"210 Brands Inc.","query_string":"Kamers Brasil Importacao E Exportacao Ltda","company_url":"","normalized_name":"brands"}}
+{"_index":"test","_id":"u9yK_4MBn_Meu5Txd2Zz","_score":1,"_source":{"company_name":"Upl Ltd.","query_string":"Zylog Plastalloys Pvt., Ltd.","company_url":"","normalized_name":"upl"}}
+{"_index":"test","_id":"vNyK_4MBn_Meu5Txd2bG","_score":1,"_source":{"company_name":"We Ef Lighting Usa Llc","query_string":"Ktn","company_url":"","normalized_name":"ktn"}}
+{"_index":"test","_id":"59yK_4MBn_Meu5TxiGYK","_score":1,"_source":{"company_name":"Tireco Inc.","query_string":"Martin Colombia S.A.S.","company_url":"","normalized_name":"tireco"}}
+{"_index":"test","_id":"6NyK_4MBn_Meu5TxiGZP","_score":1,"_source":{"company_name":"Cargex Sas","query_string":"Intl Carpets Co.","company_url":"","normalized_name":"cargex"}}
+{"_index":"test","_id":"6dyK_4MBn_Meu5TxiGZq","_score":1,"_source":{"company_name":"Nu Vu Conair Pvt., Ltd.","query_string":"Stolt Tank Containers","company_url":"","normalized_name":"stolt tank containers"}}
+{"_index":"test","_id":"6tyK_4MBn_Meu5TxiGbq","_score":1,"_source":{"company_name":"Thai Malleable Iron","query_string":"Blk International (Pty) Ltd.","company_url":"","normalized_name":"thai"}}
+{"_index":"test","_id":"69yK_4MBn_Meu5TxiWZP","_score":1,"_source":{"company_name":"Ta Chen International","query_string":"Bauchrieh Car Center","company_url":"","normalized_name":"bauchrieh car center"}}
+{"_index":"test","_id":"7NyK_4MBn_Meu5TxiWZ5","_score":1,"_source":{"company_name":"EUROBIT d.o.o.","query_string":"ХИМИНВЕСТ ГРУПП, ООО","company_url":"","normalized_name":"eurobit"}}
+{"_index":"test","_id":"7dyK_4MBn_Meu5TxiWaV","_score":1,"_source":{"company_name":"Oshin Synthetic Yarn Ltd.","query_string":"Nivia Synthetics Pvt., Ltd.","company_url":"","normalized_name":"synthetic yarn"}}
+{"_index":"test","_id":"7tyK_4MBn_Meu5TxiWaw","_score":1,"_source":{"company_name":"Linia","query_string":"Helvoet Rubber And Plastic Technologies India P.L.","company_url":"","normalized_name":"linia"}}
+{"_index":"test","_id":"79yK_4MBn_Meu5Txi2YP","_score":1,"_source":{"company_name":"Oblimax Sac","query_string":"Blade Sac","company_url":"","normalized_name":"blade sac"}}
+{"_index":"test","_id":"8NyK_4MBn_Meu5Txi2Zn","_score":1,"_source":{"company_name":"Sac Sartori Srl","query_string":"S.R. International","company_url":"","normalized_name":"sac sartori"}}
+{"_index":"test","_id":"z9yK_4MBn_Meu5TxgGYa","_score":1,"_source":{"company_name":"Crc Sports Co., Ltd.","query_string":"Charmers Sportswear","company_url":"","normalized_name":"charmers sportswear"}}
+{"_index":"test","_id":"0NyK_4MBn_Meu5TxgWZu","_score":1,"_source":{"company_name":"Industrial Panda S.A.C","query_string":"Industrias En Servicios Plasticos","company_url":"","normalized_name":"panda"}}
+{"_index":"test","_id":"0dyK_4MBn_Meu5TxgWa9","_score":1,"_source":{"company_name":"Arihant Gold Plast Private Ltd.","query_string":"Chennai Elastomer And Plastics Private Ltd.","company_url":"","normalized_name":"arihant gold plast"}}
+{"_index":"test","_id":"0tyK_4MBn_Meu5TxgmYT","_score":1,"_source":{"company_name":"Shakti Cords Private Ltd.","query_string":"Empirical Chemical Solutions Private Ltd.","company_url":"","normalized_name":"shakti cords"}}
+{"_index":"test","_id":"09yK_4MBn_Meu5TxgmaH","_score":1,"_source":{"company_name":"Solar Soles Private Ltd.","query_string":"Surendraelastomers Private Ltd.","company_url":"","normalized_name":"solar soles"}}
+{"_index":"test","_id":"1NyK_4MBn_Meu5Txg2Y3","_score":1,"_source":{"company_name":"PolyOne Corporation (NYSE:POL)","query_string":"SUNCOR","company_url":"","normalized_name":"suncor"}}
+{"_index":"test","_id":"1dyK_4MBn_Meu5Txg2Zz","_score":1,"_source":{"company_name":"Intertrans Express (Ny) Inc.","query_string":"Eterna S.A.","company_url":"","normalized_name":"eterna"}}
+{"_index":"test","_id":"vdyK_4MBn_Meu5Txd2bi","_score":1,"_source":{"company_name":"Supra Textiles Ltd.","query_string":"Arya Tab Kashan Textile Co.","company_url":"","normalized_name":"supra textiles"}}
+{"_index":"test","_id":"vtyK_4MBn_Meu5TxeGY-","_score":1,"_source":{"company_name":"A T C Tecnoval Sociedad Anonima","query_string":"Dideval Sociedad Comercial Ltd.","company_url":"","normalized_name":"dideval sociedad comercial"}}
+{"_index":"test","_id":"v9yK_4MBn_Meu5TxeGam","_score":1,"_source":{"company_name":"Well Mark Ltd.(Textile Unit)","query_string":"Textrip Ltd.","company_url":"","normalized_name":"textrip"}}
+{"_index":"test","_id":"wNyK_4MBn_Meu5TxeGb0","_score":1,"_source":{"company_name":"Lile Ltd.","query_string":"Cardolite Corporation","company_url":"","normalized_name":"lile"}}
+{"_index":"test","_id":"wdyK_4MBn_Meu5TxeWbb","_score":1,"_source":{"company_name":"Zhongshan Rongnan Machinery Industry Co., Ltd.","query_string":"Qnergy Inc.","company_url":"","normalized_name":"qnergy"}}
+{"_index":"test","_id":"wtyK_4MBn_Meu5Txembd","_score":1,"_source":{"company_name":"Ram","query_string":"Softer Brasil Compostos Termoplasti","company_url":"","normalized_name":"ram"}}
+{"_index":"test","_id":"w9yK_4MBn_Meu5Txe2YZ","_score":1,"_source":{"company_name":"Wilmington Industrial (Shenzhen) Co., Ltd.","query_string":"Pulidos Industriales Sa De Cv","company_url":"","normalized_name":"pulidos industriales"}}
+{"_index":"test","_id":"8dyK_4MBn_Meu5Txi2ay","_score":1,"_source":{"company_name":"Ups Ocean Freight Services Inc.102","query_string":"Distriservices Sa","company_url":"","normalized_name":"distriservices"}}
+{"_index":"test","_id":"8tyK_4MBn_Meu5Txi2bm","_score":1,"_source":{"company_name":"N J International Inc.","query_string":"Acton Sales Llc","company_url":"","normalized_name":"acton sales"}}
+{"_index":"test","_id":"89yK_4MBn_Meu5TxjGY4","_score":1,"_source":{"company_name":"SOJITZ","query_string":"Wakol Gmbh","company_url":"","normalized_name":"sojitz"}}
+{"_index":"test","_id":"9NyK_4MBn_Meu5TxjWYM","_score":1,"_source":{"company_name":"BULMARKET DM ","query_string":"SOJITZ","company_url":"","normalized_name":"sojitz"}}
+{"_index":"test","_id":"9dyK_4MBn_Meu5TxjWZm","_score":1,"_source":{"company_name":"Sertrading Br Ltda.","query_string":"Guangzhou Ouyumei Trading Co., Ltd.","company_url":"","normalized_name":"sertrading br"}}
+{"_index":"test","_id":"9tyK_4MBn_Meu5TxjWbZ","_score":1,"_source":{"company_name":"BINDERS","query_string":"Wakol Gmbh","company_url":"","normalized_name":"binders"}}
+{"_index":"test","_id":"rtyK_4MBn_Meu5TxcmbF","_score":1,"_source":{"company_name":"In To Parts And Accessories","query_string":"Sadiq Associates","company_url":"","normalized_name":"sadiq associates"}}
+{"_index":"test","_id":"r9yK_4MBn_Meu5Txcmbv","_score":1,"_source":{"company_name":"Abc Project Wll","query_string":"Orotec S.A.","company_url":"","normalized_name":"orotec"}}
+{"_index":"test","_id":"sNyK_4MBn_Meu5Txc2YO","_score":1,"_source":{"company_name":"Direct Leisure#1160","query_string":"Suyen Corporation","company_url":"","normalized_name":"suyen"}}
+{"_index":"test","_id":"sdyK_4MBn_Meu5Txc2ZN","_score":1,"_source":{"company_name":"Cephas Medical Private Ltd.","query_string":"Valeo Friction Materials India Private Ltd.","company_url":"","normalized_name":"cephas medical"}}
+{"_index":"test","_id":"styK_4MBn_Meu5Txc2ac","_score":1,"_source":{"company_name":"Lord Fine Chemical (Shanghai) Co., Ltd.","query_string":"Jsh Ltd. (Hk)","company_url":"","normalized_name":"jsh"}}
+{"_index":"test","_id":"d9yK_4MBn_Meu5Tx5Wf8","_score":1,"_source":{"company_name":"Quimica Iberoamericana Sa De Cv","query_string":"Quintia S.A.","company_url":"","normalized_name":"quintia"}}
+{"_index":"test","_id":"eNyK_4MBn_Meu5Tx5mdM","_score":1,"_source":{"company_name":"Binex Line New Jersey","query_string":"Minelli Sa","company_url":"","normalized_name":"minelli"}}
+{"_index":"test","_id":"edyK_4MBn_Meu5Tx52cO","_score":1,"_source":{"company_name":"Tlss Inc.","query_string":"Big Into Electronic Products (Shenzhen) Co., Ltd.","company_url":"","normalized_name":"tlss"}}
+{"_index":"test","_id":"etyK_4MBn_Meu5Tx52d-","_score":1,"_source":{"company_name":"Adere Produtos Auto Adesivos Ltda","query_string":"No Address","company_url":"","normalized_name":"no address"}}
+{"_index":"test","_id":"e9yK_4MBn_Meu5Tx52ei","_score":1,"_source":{"company_name":"Dana Industrias Ltda","query_string":"Arvind Ltd.","company_url":"","normalized_name":"arvind"}}
+{"_index":"test","_id":"fNyK_4MBn_Meu5Tx52fS","_score":1,"_source":{"company_name":"COLAS CZ, a.s.","query_string":"LOTOS Asfalt Sp. z o.o.","company_url":"","normalized_name":"colas cz"}}
+{"_index":"test","_id":"fdyK_4MBn_Meu5Tx6GeQ","_score":1,"_source":{"company_name":"Jingmu （Zhuhai） C0. Ltd.","query_string":"Zhejiang Zhanghai Imp. & Exp.","company_url":"","normalized_name":"jingmu zhuhai"}}
+{"_index":"test","_id":"ftyK_4MBn_Meu5Tx6Ge4","_score":1,"_source":{"company_name":"Asz Venture General Trading","query_string":"Kuresa Sa","company_url":"","normalized_name":"kuresa"}}
+{"_index":"test","_id":"f9yK_4MBn_Meu5Tx6GfS","_score":1,"_source":{"company_name":"Synthos rubber","query_string":"VAYA7","company_url":"","normalized_name":"vaya"}}
+{"_index":"test","_id":"gNyK_4MBn_Meu5Tx6Gf2","_score":1,"_source":{"company_name":"Visual Promotions","query_string":"H.R. International","company_url":"","normalized_name":"visual promotions"}}
+{"_index":"test","_id":"gdyK_4MBn_Meu5Tx6WcZ","_score":1,"_source":{"company_name":"Banco Economico S.A","query_string":"Conica Corp.","company_url":"","normalized_name":"conica"}}
+{"_index":"test","_id":"ityK_4MBn_Meu5Tx8mdh","_score":1,"_source":{"company_name":"Ling Zhen Trading (Shanghai) Co., Ltd.","query_string":"Kin Sang (Shanghai) Ltd.","company_url":"","normalized_name":"kin sang"}}
+{"_index":"test","_id":"i9yK_4MBn_Meu5Tx8mez","_score":1,"_source":{"company_name":"Robles Sa","query_string":"Robertsonindustries Inc.","company_url":"","normalized_name":"robles"}}
+{"_index":"test","_id":"jNyK_4MBn_Meu5Tx8mfL","_score":1,"_source":{"company_name":"Fermod S.A.","query_string":"Shanghai Jaour Adhesive Products Co., Ltd.","company_url":"","normalized_name":"fermod"}}
+{"_index":"test","_id":"jdyK_4MBn_Meu5Tx82cX","_score":1,"_source":{"company_name":"Cpg","query_string":"Gc Rugby Super Schools Cup","company_url":"","normalized_name":"cpg"}}
+{"_index":"test","_id":"jtyK_4MBn_Meu5Tx9GcY","_score":1,"_source":{"company_name":"Cole Haan Llc","query_string":"Evolve Brands Managment Ltd.","company_url":"","normalized_name":"cole haan"}}
+{"_index":"test","_id":"j9yK_4MBn_Meu5Tx9Gda","_score":1,"_source":{"company_name":"Intersport Srl","query_string":"Lindsports Co., Ltd.","company_url":"","normalized_name":"intersport"}}
+{"_index":"test","_id":"kNyK_4MBn_Meu5Tx9GfU","_score":1,"_source":{"company_name":"Shenzhen The Well Leatherware Manufactory Ltd.","query_string":"Manduka, Llc","company_url":"","normalized_name":"manduka"}}
+{"_index":"test","_id":"kdyK_4MBn_Meu5Tx9Wct","_score":1,"_source":{"company_name":"Bullmark Distributors Ltd.","query_string":"Orso International (Pty) . Ltd.","company_url":"","normalized_name":"bullmark distributors"}}
+{"_index":"test","_id":"ktyK_4MBn_Meu5Tx9WeC","_score":1,"_source":{"company_name":"Bo9stic Co.","query_string":"Shield Membranes Limited","company_url":"","normalized_name":"bo stic"}}
+{"_index":"test","_id":"k9yK_4MBn_Meu5Tx9mfi","_score":1,"_source":{"company_name":"Compucage International Inc.","query_string":"The Bell Simons Companies","company_url":"","normalized_name":"bell simons"}}
+{"_index":"test","_id":"lNyK_4MBn_Meu5Tx92cn","_score":1,"_source":{"company_name":"Clear Industria De Papeis Ltda","query_string":"Mapei Corporation","company_url":"","normalized_name":"mapei"}}
+{"_index":"test","_id":"ldyK_4MBn_Meu5Tx92df","_score":1,"_source":{"company_name":"D. R. Home Appliances Pvt., Ltd.","query_string":"Apll","company_url":"","normalized_name":"apll"}}
+{"_index":"test","_id":"ltyK_4MBn_Meu5Tx92eg","_score":1,"_source":{"company_name":"Kunshan Yonglain Electronics&Plasti","query_string":"Jast Srl","company_url":"","normalized_name":"jast"}}
+{"_index":"test","_id":"l9yK_4MBn_Meu5Tx-GeN","_score":1,"_source":{"company_name":"Anaerobia S.A.De C.V.","query_string":"Danzar Sa","company_url":"","normalized_name":"danzar"}}
+{"_index":"test","_id":"mNyK_4MBn_Meu5Tx-Gfr","_score":1,"_source":{"company_name":"Pvc Tecnocom S.A.","query_string":"Commscope Technologies Llc","company_url":"","normalized_name":"pvc tecnocom"}}
+{"_index":"test","_id":"cdyK_4MBn_Meu5Tx4meR","_score":1,"_source":{"company_name":"Remanso Srl .","query_string":"Pacific Transformers De Mexicosa De Cv","company_url":"","normalized_name":"remanso"}}
+{"_index":"test","_id":"ctyK_4MBn_Meu5Tx42c3","_score":1,"_source":{"company_name":"Craft Argentina S.A.","query_string":"Pirelli Neumaticos Argentina Sa","company_url":"","normalized_name":"craft argentina"}}
+{"_index":"test","_id":"c9yK_4MBn_Meu5Tx5GcQ","_score":1,"_source":{"company_name":"Delvin Plastics (P) Ltd.","query_string":"Plastcon Lda","company_url":"","normalized_name":"plastcon"}}
+{"_index":"test","_id":"dNyK_4MBn_Meu5Tx5GdU","_score":1,"_source":{"company_name":"The Shanghai Commercial","query_string":"Intl Trade (Shanghai) Co., Ltd.","company_url":"","normalized_name":"shanghai"}}
+{"_index":"test","_id":"ddyK_4MBn_Meu5Tx5GeG","_score":1,"_source":{"company_name":"Mondelez India Foods Private Ltd.","query_string":"Decor India","company_url":"","normalized_name":"decor"}}
+{"_index":"test","_id":"dtyK_4MBn_Meu5Tx5Geg","_score":1,"_source":{"company_name":"Logistics Zeal Express","query_string":"Fexpro Inc.","company_url":"","normalized_name":"fexpro"}}
+{"_index":"test","_id":"a9yK_4MBn_Meu5Tx3mcm","_score":1,"_source":{"company_name":"Coco Paving Inc.","query_string":"Termcotank S.A.","company_url":"","normalized_name":"termcotank"}}
+{"_index":"test","_id":"bNyK_4MBn_Meu5Tx32dW","_score":1,"_source":{"company_name":"Dispersiones Plasticas, S.A. De C.V.","query_string":"JOHNS MANSVILLE","company_url":"","normalized_name":"johns mansville"}}
+{"_index":"test","_id":"bdyK_4MBn_Meu5Tx32eF","_score":1,"_source":{"company_name":"Mobicool Electronics(Shenzhen) Co., Ltd.","query_string":"Biscom","company_url":"","normalized_name":"biscom"}}
+{"_index":"test","_id":"btyK_4MBn_Meu5Tx4GeL","_score":1,"_source":{"company_name":"Craft Multimodal Ltda","query_string":"Drf Sa","company_url":"","normalized_name":"drf"}}
+{"_index":"test","_id":"b9yK_4MBn_Meu5Tx4Wcq","_score":1,"_source":{"company_name":"PETROTEKNO, S.A. de C.V.","query_string":"Repsol, S.A.","company_url":"","normalized_name":"repsol"}}
+{"_index":"test","_id":"cNyK_4MBn_Meu5Tx4Wdf","_score":1,"_source":{"company_name":"Fia Sha","query_string":"Quadro Chemicals (Shanghai) Co., Ltd.","company_url":"","normalized_name":"fia"}}
+{"_index":"test","_id":"gtyK_4MBn_Meu5Tx6mcq","_score":1,"_source":{"company_name":"Cah Contratistas Generales S.A.","query_string":"Federal Corp.","company_url":"","normalized_name":"federal"}}
+{"_index":"test","_id":"g9yK_4MBn_Meu5Tx6mer","_score":1,"_source":{"company_name":"Mafer Ind E Com De Artefatos De Borracha Ltda","query_string":"Gabbor Industria E Comercio De Borrachas Ltda","company_url":"","normalized_name":"borrachas"}}
+{"_index":"test","_id":"hNyK_4MBn_Meu5Tx62e0","_score":1,"_source":{"company_name":"Thermodyn Global","query_string":"Rayzon Global Llp","company_url":"","normalized_name":"thermodyn global"}}
+{"_index":"test","_id":"hdyK_4MBn_Meu5Tx7Gcd","_score":1,"_source":{"company_name":"Navyug Rubber Industries","query_string":"Rdis Srl","company_url":"","normalized_name":"rdis"}}
+{"_index":"test","_id":"htyK_4MBn_Meu5Tx7Ge-","_score":1,"_source":{"company_name":"Khl","query_string":"Khamis Mbarak Bilal","company_url":"","normalized_name":"khl"}}
+{"_index":"test","_id":"YdyK_4MBn_Meu5Tx12em","_score":1,"_source":{"company_name":"Bedi Investments Ltd.","query_string":"Beijing Tian Hong Cheng Invstment Conesultng Co., Ltd.","company_url":"","normalized_name":"bedi investments"}}
+{"_index":"test","_id":"YtyK_4MBn_Meu5Tx2Gdi","_score":1,"_source":{"company_name":"Australian Rugby Union","query_string":"Stalori Sa","company_url":"","normalized_name":"stalori"}}
+{"_index":"test","_id":"Y9yK_4MBn_Meu5Tx2Gek","_score":1,"_source":{"company_name":"Ge Global Sourcing India Private Ltd.","query_string":"Inarco Private Ltd.","company_url":"","normalized_name":"inarco"}}
+{"_index":"test","_id":"ZNyK_4MBn_Meu5Tx2Wct","_score":1,"_source":{"company_name":"Xiamen Xiangyu Golden Festival","query_string":"Snf","company_url":"","normalized_name":"snf"}}
+{"_index":"test","_id":"ZdyK_4MBn_Meu5Tx2WeA","_score":1,"_source":{"company_name":"Zamotronics Investment Ltd.","query_string":"Trent Ltd.","company_url":"","normalized_name":"trent"}}
+{"_index":"test","_id":"ZtyK_4MBn_Meu5Tx2mcc","_score":1,"_source":{"company_name":"Seth International Corporation","query_string":"Saehawk Ecobaby Aps","company_url":"","normalized_name":"saehawk ecobaby"}}
+{"_index":"test","_id":"Z9yK_4MBn_Meu5Tx2mdh","_score":1,"_source":{"company_name":"Main Tape Co.","query_string":"Suzhou Yingfu Basi Trade Co., Ltd.","company_url":"","normalized_name":"main tape"}}
+{"_index":"test","_id":"aNyK_4MBn_Meu5Tx2md8","_score":1,"_source":{"company_name":"Ulitex Sole Peru Sociedad Anonima Cerrad","query_string":"Linex","company_url":"","normalized_name":"linex"}}
+{"_index":"test","_id":"adyK_4MBn_Meu5Tx3Ges","_score":1,"_source":{"company_name":"Swapnil Enterprise","query_string":"Wpk Llc","company_url":"","normalized_name":"wpk"}}
+{"_index":"test","_id":"atyK_4MBn_Meu5Tx3Wff","_score":1,"_source":{"company_name":"Delta Electronics India Private Ltd.","query_string":"Capris S.A.","company_url":"","normalized_name":"capris"}}
+{"_index":"test","_id":"h9yK_4MBn_Meu5Tx7mfY","_score":1,"_source":{"company_name":"K & C Logistics Co., Ltd.","query_string":"Trancy Logis. Americ.","company_url":"","normalized_name":"trancy logis"}}
+{"_index":"test","_id":"iNyK_4MBn_Meu5Tx8GeV","_score":1,"_source":{"company_name":"Fabrication Enterprises Inc.","query_string":"Qrri Inc.","company_url":"","normalized_name":"qrri"}}
+{"_index":"test","_id":"idyK_4MBn_Meu5Tx8Ge6","_score":1,"_source":{"company_name":"Kraemer Pferdesport Versandhaus","query_string":"Kosana","company_url":"","normalized_name":"kosana"}}
+{"_index":"test","_id":"89yL_4MBn_Meu5TxNWcm","_score":1,"_source":{"company_name":"Tega Acotec S.A.","query_string":"Acs International Sa De Cv","company_url":"","normalized_name":"tega acotec"}}
+{"_index":"test","_id":"9NyL_4MBn_Meu5TxNWdB","_score":1,"_source":{"company_name":"Commercial Packaging","query_string":"Rusco Packaging Co.","company_url":"","normalized_name":"rusco packaging"}}
+{"_index":"test","_id":"9dyL_4MBn_Meu5TxNWe-","_score":1,"_source":{"company_name":"Implus Corp.","query_string":"Get Impressed Srl","company_url":"","normalized_name":"implus"}}
+{"_index":"test","_id":"9tyL_4MBn_Meu5TxNmcg","_score":1,"_source":{"company_name":"Creative Profiles Inc.","query_string":"Cofle","company_url":"","normalized_name":"cofle"}}
+{"_index":"test","_id":"99yL_4MBn_Meu5TxNmd9","_score":1,"_source":{"company_name":"Anil Inc.","query_string":"Manuli Hydraulics (Suzhou) Co., Ltd.","company_url":"","normalized_name":"anil"}}
+{"_index":"test","_id":"-NyL_4MBn_Meu5TxNmel","_score":1,"_source":{"company_name":"Cempaka Importcao Exportao","query_string":"Comercial Importadora Y Exportadora De Hules Sa De Cv","company_url":"","normalized_name":"cempaka importcao exportao"}}
+{"_index":"test","_id":"-dyL_4MBn_Meu5TxNme_","_score":1,"_source":{"company_name":"Tiba International","query_string":"Facet Analytical","company_url":"","normalized_name":"facet analytical"}}
+{"_index":"test","_id":"-tyL_4MBn_Meu5TxN2d2","_score":1,"_source":{"company_name":"Ricoh Corp.","query_string":"Pintura Y Ensambles De Mexico S.A. De C.V.","company_url":"","normalized_name":"ricoh"}}
+{"_index":"test","_id":"-9yL_4MBn_Meu5TxOGcB","_score":1,"_source":{"company_name":"Golden Tech Research Inc.","query_string":"Mga Research Corp.","company_url":"","normalized_name":"mga research"}}
+{"_index":"test","_id":"2tyL_4MBn_Meu5TxIWdk","_score":1,"_source":{"company_name":"Allsop","query_string":"Emp.D/Desarrollo Pesq.D/Chile","company_url":"","normalized_name":"allsop"}}
+{"_index":"test","_id":"29yL_4MBn_Meu5TxImcU","_score":1,"_source":{"company_name":"Quality Latex Products (Pvt) Ltd.","query_string":"Quality Sleep Shop Inc.","company_url":"","normalized_name":"quality sleep shop"}}
+{"_index":"test","_id":"3NyL_4MBn_Meu5TxImes","_score":1,"_source":{"company_name":"Insumos Para Invernaderos De Mexico","query_string":"Pou Chen Mexico Sa De Cv","company_url":"","normalized_name":"pou chen"}}
+{"_index":"test","_id":"3dyL_4MBn_Meu5TxI2d9","_score":1,"_source":{"company_name":"Produits Rlc Inc.","query_string":"Honeywell Productos Automotrices Sa De Cv","company_url":"","normalized_name":"produits rlc"}}
+{"_index":"test","_id":"3tyL_4MBn_Meu5TxI2e_","_score":1,"_source":{"company_name":"Seal & Design Inc.","query_string":"Weisa Lisi Commercial & Trading (Shanghai) Co., Ltd.","company_url":"","normalized_name":"seal design"}}
+{"_index":"test","_id":"39yL_4MBn_Meu5TxJGdN","_score":1,"_source":{"company_name":"Corporacion De Occidente S.A. De C.V.","query_string":"Scintex","company_url":"","normalized_name":"scintex"}}
+{"_index":"test","_id":"4NyL_4MBn_Meu5TxJWcm","_score":1,"_source":{"company_name":"Wesco Seeds Ltd.","query_string":"D S International","company_url":"","normalized_name":"wesco seeds"}}
+{"_index":"test","_id":"4dyL_4MBn_Meu5TxJWdO","_score":1,"_source":{"company_name":"Trio Petrochem Private Ltd.","query_string":"Nikhil Petro Chem Private Ltd.","company_url":"","normalized_name":"trio petrochem"}}
+{"_index":"test","_id":"4tyL_4MBn_Meu5TxJWew","_score":1,"_source":{"company_name":"Bright Star Energy Inc.","query_string":"Rene","company_url":"","normalized_name":"rene"}}
+{"_index":"test","_id":"49yL_4MBn_Meu5TxJWf8","_score":1,"_source":{"company_name":"Nesto Hypermarket Llc","query_string":"Primark","company_url":"","normalized_name":"primark"}}
+{"_index":"test","_id":"5NyL_4MBn_Meu5TxJmf9","_score":1,"_source":{"company_name":"Michelin tires","query_string":"UBE INDUSTRIES","company_url":"","normalized_name":"ube"}}
+{"_index":"test","_id":"5dyL_4MBn_Meu5TxJ2co","_score":1,"_source":{"company_name":"Dhl Global Forwarding Gmb H","query_string":"Gefco Forwarding Uk Ltd.","company_url":"","normalized_name":"gefco forwarding"}}
+{"_index":"test","_id":"5tyL_4MBn_Meu5TxJ2dF","_score":1,"_source":{"company_name":"Rotra Forwarding Bv (Ocean)","query_string":"Longyuan Forwarding Inc.","company_url":"","normalized_name":"longyuan forwarding"}}
+{"_index":"test","_id":"1NyL_4MBn_Meu5TxHGfc","_score":1,"_source":{"company_name":"Smk Electronica Sa De Cv","query_string":"Lg Electronics India Pvt., Ltd.","company_url":"","normalized_name":"smk electronica"}}
+{"_index":"test","_id":"1dyL_4MBn_Meu5TxHGf2","_score":1,"_source":{"company_name":"Enkay (India) Rubber Co. Pvt., Ltd.","query_string":"Xiamen Zhengxin Rubber Industry Co., Ltd.","company_url":"","normalized_name":"enkay"}}
+{"_index":"test","_id":"1tyL_4MBn_Meu5TxHWcQ","_score":1,"_source":{"company_name":"Mesto Australia Ltd.","query_string":"T.A. Corporation Pvt., Ltd.","company_url":"","normalized_name":"mesto australia"}}
+{"_index":"test","_id":"19yL_4MBn_Meu5TxH2c6","_score":1,"_source":{"company_name":"Acomon Srl","query_string":"German Antonio Olague Almonasi","company_url":"","normalized_name":"acomon"}}
+{"_index":"test","_id":"2NyL_4MBn_Meu5TxIGdD","_score":1,"_source":{"company_name":"Comi","query_string":"Cumi Abrasive And Ceramics Co.","company_url":"","normalized_name":"comi"}}
+{"_index":"test","_id":"2dyL_4MBn_Meu5TxIGeU","_score":1,"_source":{"company_name":"Acmos Do Brasil Quimica Ltda","query_string":"Polirim Do Brasil Industria De Pecas Ltda","company_url":"","normalized_name":"acmos"}}
+{"_index":"test","_id":"7tyL_4MBn_Meu5TxMWfP","_score":1,"_source":{"company_name":"Gti International Pvt., Ltd.","query_string":"Teva Pharmaceutical Works","company_url":"","normalized_name":"teva pharmaceutical works"}}
+{"_index":"test","_id":"79yL_4MBn_Meu5TxMmeQ","_score":1,"_source":{"company_name":"Industria Mecanica Vogt S.A.","query_string":"Polytech Netting Industries De Mexico Sa De Cv","company_url":"","normalized_name":"mecanica vogt"}}
+{"_index":"test","_id":"8NyL_4MBn_Meu5TxMmet","_score":1,"_source":{"company_name":"Onguard Fire Protection Services","query_string":"Precision Ice","company_url":"","normalized_name":"precision ice"}}
+{"_index":"test","_id":"8dyL_4MBn_Meu5TxMmfW","_score":1,"_source":{"company_name":"JEBRO","query_string":"ORZEŁ S.A. ","company_url":"","normalized_name":"jebro"}}
+{"_index":"test","_id":"8tyL_4MBn_Meu5TxM2dB","_score":1,"_source":{"company_name":"Suinsa Industrial Supplysa De Cv","query_string":"Sapin Srl .","company_url":"","normalized_name":"sapin"}}
+{"_index":"test","_id":"_NyL_4MBn_Meu5TxOWfT","_score":1,"_source":{"company_name":"Biya Bags (Shenzhen) Co., Ltd.","query_string":"Chinese Union Metal & Plastic (Shenzhen) Co., Ltd.","company_url":"","normalized_name":"biya bags"}}
+{"_index":"test","_id":"_dyL_4MBn_Meu5TxOmdR","_score":1,"_source":{"company_name":"Whitchem Ltd.","query_string":"Supreme Bituchem India Private Ltd.","company_url":"","normalized_name":"whitchem"}}
+{"_index":"test","_id":"_tyL_4MBn_Meu5TxOmf1","_score":1,"_source":{"company_name":"Halikon Kumipalvelu Oy","query_string":"Mizpa S.A","company_url":"","normalized_name":"mizpa"}}
+{"_index":"test","_id":"_9yL_4MBn_Meu5TxO2eJ","_score":1,"_source":{"company_name":"KVK Corporation (JASDAQ:6484)","query_string":"ROSNEFT DEUTSCHLAND","company_url":"","normalized_name":"rosneft"}}
+{"_index":"test","_id":"ANyL_4MBn_Meu5TxO2jR","_score":1,"_source":{"company_name":"Shock Doctor","query_string":"Trb International","company_url":"","normalized_name":"shock doctor"}}
+{"_index":"test","_id":"AdyL_4MBn_Meu5TxPGjB","_score":1,"_source":{"company_name":"D&Y Textile (Malaysia) Sdn Bhd","query_string":"Rulmeca (Malaysia) Sdn Bhd","company_url":"","normalized_name":"rulmeca malaysia"}}
+{"_index":"test","_id":"AtyL_4MBn_Meu5TxPWjN","_score":1,"_source":{"company_name":"Altius Sports And Leisure Private Ltd.","query_string":"Sport4 Kids","company_url":"","normalized_name":"sportkids"}}
+{"_index":"test","_id":"A9yL_4MBn_Meu5TxPWjn","_score":1,"_source":{"company_name":"Adar Usman","query_string":"Omid Usman Trade Co.","company_url":"","normalized_name":"adar usman"}}
+{"_index":"test","_id":"BNyL_4MBn_Meu5TxPmhz","_score":1,"_source":{"company_name":"Printex Ltd.","query_string":"Minda Tg Rubber Private Ltd.","company_url":"","normalized_name":"printex"}}
+{"_index":"test","_id":"59yL_4MBn_Meu5TxKWcy","_score":1,"_source":{"company_name":"Polylex Inc.","query_string":"Bds Polychem","company_url":"","normalized_name":"bds polychem"}}
+{"_index":"test","_id":"6NyL_4MBn_Meu5TxKmc4","_score":1,"_source":{"company_name":"Hilaturas Arnau S.L.","query_string":"Acs International Sa De Cv","company_url":"","normalized_name":"hilaturas arnau"}}
+{"_index":"test","_id":"6dyL_4MBn_Meu5TxKmde","_score":1,"_source":{"company_name":"Fras Le","query_string":"Hilanderias De Exportacion","company_url":"","normalized_name":"fras le"}}
+{"_index":"test","_id":"6tyL_4MBn_Meu5TxK2fI","_score":1,"_source":{"company_name":"Roko Linings (India) Private Ltd.","query_string":"Tenjinak Private Ltd.","company_url":"","normalized_name":"tenjinak"}}
+{"_index":"test","_id":"69yL_4MBn_Meu5TxLWdL","_score":1,"_source":{"company_name":"Kcc Transport Systems Inc.","query_string":"Gcl Transportation Inc.","company_url":"","normalized_name":"gcl transportation"}}
+{"_index":"test","_id":"7NyL_4MBn_Meu5TxLWeY","_score":1,"_source":{"company_name":"Colly International B.V.","query_string":"Amtecol Inc.","company_url":"","normalized_name":"amtecol"}}
+{"_index":"test","_id":"7dyL_4MBn_Meu5TxLWfQ","_score":1,"_source":{"company_name":"Great Eastern Resins (Philippines) Industries Co Inc.","query_string":"Greating Shipping Co.","company_url":"","normalized_name":"greating shipping"}}
+{"_index":"test","_id":"2dyA_4MBn_Meu5TxVWTd","_score":1,"_source":{"company_name":"Soprema S.A.","query_string":"SOPREMA DRUMMONDVILLE","company_url":"","normalized_name":"soprema"}}
+{"_index":"test","_id":"2tyA_4MBn_Meu5TxVmQN","_score":1,"_source":{"company_name":"Midland Asphalt Materials Inc","query_string":"Midland Asphalt","company_url":"","normalized_name":"midland asphalt"}}
+{"_index":"test","_id":"29yA_4MBn_Meu5TxVmRl","_score":1,"_source":{"company_name":"Michelin Espana Portugal Sa","query_string":"Michelin Group","company_url":"","normalized_name":"michelin group"}}
+{"_index":"test","_id":"3NyA_4MBn_Meu5TxVmSn","_score":1,"_source":{"company_name":"Brenntag Chile Comercial E Industrial Ltda","query_string":"Brenntag Peru S.A.C.","company_url":"","normalized_name":"brenntag peru"}}
+{"_index":"test","_id":"3dyA_4MBn_Meu5TxVmTT","_score":1,"_source":{"company_name":"GOTER","query_string":"Goter Thermoplastic Compounds Spa","company_url":"","normalized_name":"goter"}}
+{"_index":"test","_id":"3tyA_4MBn_Meu5TxVmTx","_score":1,"_source":{"company_name":"Owens Corning","query_string":"Owens Corning Sales Llc","company_url":"","normalized_name":"owens corning"}}
+{"_index":"test","_id":"39yA_4MBn_Meu5TxV2SI","_score":1,"_source":{"company_name":"POWER ADHESIVES","query_string":"Power Adhesives Ltd","company_url":"","normalized_name":"power adhesives"}}
+{"_index":"test","_id":"4NyA_4MBn_Meu5TxV2S2","_score":1,"_source":{"company_name":"Kraton Polymers Nederland Bv","query_string":"Kraton Polymers Japan Ltd.","company_url":"","normalized_name":"kraton polymers japan"}}
+{"_index":"test","_id":"4dyA_4MBn_Meu5TxWGQH","_score":1,"_source":{"company_name":"ALPHA TRADING","query_string":"Alpha Trading S.p.a","company_url":"","normalized_name":"alpha trading"}}
+{"_index":"test","_id":"4tyA_4MBn_Meu5TxWGRO","_score":1,"_source":{"company_name":"Gestion Soprema Canada Inc.","query_string":"SOPREMA SOURGES","company_url":"","normalized_name":"soprema sourges"}}
+{"_index":"test","_id":"49yA_4MBn_Meu5TxWGRu","_score":1,"_source":{"company_name":"Synthomer Llc C Oterminal Warehouse","query_string":"Synthomer Llc","company_url":"","normalized_name":"synthomer"}}
+{"_index":"test","_id":"6tyA_4MBn_Meu5TxXGS3","_score":1,"_source":{"company_name":"Paul Bauder GmbH & Co. KG","query_string":"Paul Bauder ag","company_url":"","normalized_name":"paul bauder"}}
+{"_index":"test","_id":"69yA_4MBn_Meu5TxXWQA","_score":1,"_source":{"company_name":"PAVIMENTAL","query_string":"Pavimental S.p.A.","company_url":"","normalized_name":"pavimental"}}
+{"_index":"test","_id":"7NyA_4MBn_Meu5TxX2Q0","_score":1,"_source":{"company_name":"Beijing Oriental Yuhong Waterproof Technology Co., Ltd. (SZSE:002271) - 北京东方雨虹防水技术股份有限公司","query_string":"Oriental Yuhong","company_url":"","normalized_name":"oriental"}}
+{"_index":"test","_id":"7dyA_4MBn_Meu5TxX2Sa","_score":1,"_source":{"company_name":"ANKARA INSAAT","query_string":"ANKARA INSAAT TICARET ve SANAYI LIMITED SIRKETI","company_url":"","normalized_name":"ankara"}}
+{"_index":"test","_id":"7tyA_4MBn_Meu5TxYGRe","_score":1,"_source":{"company_name":"Contitech Antriebssysteme Gmb H","query_string":"Contitech Chile S.A.","company_url":"","normalized_name":"contitech chile"}}
+{"_index":"test","_id":"5NyA_4MBn_Meu5TxWGSn","_score":1,"_source":{"company_name":"Soprema S.A.","query_string":"SOPREMA SOURGES","company_url":"","normalized_name":"soprema"}}
+{"_index":"test","_id":"5dyA_4MBn_Meu5TxWmSD","_score":1,"_source":{"company_name":"Fenner Dunlop Americas","query_string":"Dunlop Slazenger International Inc.","company_url":"","normalized_name":"fenner dunlop"}}
+{"_index":"test","_id":"5tyA_4MBn_Meu5TxW2RC","_score":1,"_source":{"company_name":"SOPREMA ALPIARCA","query_string":"SOPREMA SALGAREDA","company_url":"","normalized_name":"alpiarca"}}
+{"_index":"test","_id":"59yA_4MBn_Meu5TxW2So","_score":1,"_source":{"company_name":"SOPREMA ALPIARCA","query_string":"Soprema Polska Sp Z O O","company_url":"","normalized_name":"alpiarca"}}
+{"_index":"test","_id":"6NyA_4MBn_Meu5TxW2Ty","_score":1,"_source":{"company_name":"Lohmann GmbH & Co. KG","query_string":"Lohmann GmbH & Co. KG","company_url":"","normalized_name":"lohmann"}}
+{"_index":"test","_id":"6dyA_4MBn_Meu5TxXGRV","_score":1,"_source":{"company_name":"Exxonmobil Chemical Americas Po Box 4549 Houston","query_string":"Exxonmobil Quimica Ltda","company_url":"","normalized_name":"exxonmobil quimica"}}
+{"_index":"test","_id":"_NyF_4MBn_Meu5Txy2T6","_score":1,"_source":{"company_name":"Synthos","query_string":"Synthos Kralupy","company_url":"","normalized_name":"synthos"}}
+{"_index":"test","_id":"_dyF_4MBn_Meu5TxzGQl","_score":1,"_source":{"company_name":"Japan Synthetic Rubber Co","query_string":"Jsr Bst Elastomer","company_url":"","normalized_name":"jsr bst elastomer"}}
+{"_index":"test","_id":"_tyF_4MBn_Meu5TxzGRM","_score":1,"_source":{"company_name":"BITUFA","query_string":"Bitufa Waterproofing B.V.","company_url":"","normalized_name":"bitufa"}}
+{"_index":"test","_id":"_9yF_4MBn_Meu5TxzGR0","_score":1,"_source":{"company_name":"MONDI","query_string":"Mondi Limited","company_url":"","normalized_name":"mondi"}}
+{"_index":"test","_id":"ANyF_4MBn_Meu5TxzGWn","_score":1,"_source":{"company_name":"Lcy Elastomers Lp","query_string":"Huizhou Lcy Elastomers Corp.","company_url":"","normalized_name":"lcy elastomers"}}
+{"_index":"test","_id":"79yA_4MBn_Meu5TxYmTw","_score":1,"_source":{"company_name":"TUERMERLEIM","query_string":"TÜRMERLEIM GmbH","company_url":"","normalized_name":"tuermerleim"}}
+{"_index":"test","_id":"8NyA_4MBn_Meu5TxY2Sn","_score":1,"_source":{"company_name":"ФИЛИАЛ КОМПАНИИ ЭКСОН НЕФТЕГАЗ ЛИМИТЕД","query_string":"ФИЛИАЛ КОМПАНИИ\"ЭКСОН НЕФТЕГАЗ ЛИМИТЕД\"","company_url":"","normalized_name":"filial kompanii ekson neftegaz limited"}}
+{"_index":"test","_id":"8dyA_4MBn_Meu5TxZGQS","_score":1,"_source":{"company_name":"Polyglass America (MAPEI)","query_string":"ПОЛИГЛАС","company_url":"","normalized_name":"poliglas"}}
+{"_index":"test","_id":"-NyF_4MBn_Meu5TxTmS4","_score":1,"_source":{"company_name":"OMV ALL PLANTS","query_string":"OMV Aktiengesellschaft (WBAG:OMV)","company_url":"","normalized_name":"omv all plants"}}
+{"_index":"test","_id":"-dyF_4MBn_Meu5TxTmTR","_score":1,"_source":{"company_name":"Pt Sika Indonesia","query_string":"Sika (China) Ltd.","company_url":"","normalized_name":"china"}}
+{"_index":"test","_id":"-tyF_4MBn_Meu5TxT2Qq","_score":1,"_source":{"company_name":"Freudenberg Nok Pvt., Ltd.","query_string":"Freudenberg Nok Componentes Brasil Ltda","company_url":"","normalized_name":"freudenberg nok pvt"}}
+{"_index":"test","_id":"89yE_4MBn_Meu5TxD2Tw","_score":1,"_source":{"company_name":"Makyol insaat Sanayi Turizm Ve Ticaret A S","query_string":"Makyol Insaat Sanayi Turizm ve Ticaret A.S.","company_url":"","normalized_name":"sanayi turizm"}}
+{"_index":"test","_id":"9NyE_4MBn_Meu5TxEGRz","_score":1,"_source":{"company_name":"KIMBERLY-CLARK","query_string":"ООО\"КИМБЕРЛИ-КЛАРК\"","company_url":"","normalized_name":"kimberly clark"}}
+{"_index":"test","_id":"9dyE_4MBn_Meu5TxEGTs","_score":1,"_source":{"company_name":"Compogal","query_string":"КОМПОГАЛ","company_url":"","normalized_name":"kompogal"}}
+{"_index":"test","_id":"9tyE_4MBn_Meu5TxEWQL","_score":1,"_source":{"company_name":"SUPERBETON","query_string":"SUPERBETON S.P.A.","company_url":"","normalized_name":"superbeton"}}
+{"_index":"test","_id":"99yE_4MBn_Meu5TxEWRY","_score":1,"_source":{"company_name":"VEDAG GMBH (BAMBERG)","query_string":"VEDAG","company_url":"","normalized_name":"vedag"}}
+{"_index":"test","_id":"-9yF_4MBn_Meu5Txy2Sy","_score":1,"_source":{"company_name":"Maxwell","query_string":"Maxwell Polymers Llp","company_url":"","normalized_name":"maxwell"}}
+{"_index":"test","_id":"8tyA_4MBn_Meu5TxZGRp","_score":1,"_source":{"company_name":"JOSS","query_string":"Joss Elastomers & Chemicals B.V.","company_url":"","normalized_name":"joss"}}
+{"_index":"test","_id":"QdyJ_4MBn_Meu5TxdGWv","_score":1,"_source":{"company_name":"BITUVER","query_string":"Saint-Gobain Isover Austria GmbH","company_url":"","normalized_name":"bituver"}}
+{"_index":"test","_id":"QtyJ_4MBn_Meu5TxdWVg","_score":1,"_source":{"company_name":"Sabic Innovative Plastics Us Llc","query_string":"Sabic Innovative Plastics Mexico S.","company_url":"","normalized_name":"sabic innovative plastics us"}}
+{"_index":"test","_id":"Q9yJ_4MBn_Meu5TxdWV5","_score":1,"_source":{"company_name":"Ikea Distribution Services","query_string":"Ikea Distribution Service(Shanghai)","company_url":"","normalized_name":"ikea distribution services"}}
+{"_index":"test","_id":"RNyJ_4MBn_Meu5TxdWXE","_score":1,"_source":{"company_name":"GRISARD","query_string":"GRISARD AG","company_url":"","normalized_name":"grisard"}}
+{"_index":"test","_id":"RdyJ_4MBn_Meu5TxdmUN","_score":1,"_source":{"company_name":"Technonikol","query_string":"TechnoNikol Ltd.","company_url":"","normalized_name":"technonikol"}}
+{"_index":"test","_id":"RtyJ_4MBn_Meu5TxdmVo","_score":1,"_source":{"company_name":"Sabic Innovative Plastics Mexico S.","query_string":"Sabic Innovative Plastics Us Llc","company_url":"","normalized_name":"sabic innovative plastics us"}}
+{"_index":"test","_id":"R9yJ_4MBn_Meu5Txd2V5","_score":1,"_source":{"company_name":"PORR","query_string":"porr ag","company_url":"","normalized_name":"porr"}}
+{"_index":"test","_id":"SNyJ_4MBn_Meu5Txd2Ww","_score":1,"_source":{"company_name":"ISOLAGO S.A.","query_string":"Isolago - Indústria de Plásticos S.A.","company_url":"","normalized_name":"isolago"}}
+{"_index":"test","_id":"SdyJ_4MBn_Meu5TxeGVp","_score":1,"_source":{"company_name":"SELENA FM S.A.","query_string":"ООО \"СЕЛЕНА ВОСТОК\"","company_url":"","normalized_name":"selena fm"}}
+{"_index":"test","_id":"OdyJ_4MBn_Meu5TxcGXm","_score":1,"_source":{"company_name":"Jiangsu Canlon Building Materials Co., Ltd.","query_string":"Jiangsu Canlon Building Materials","company_url":"","normalized_name":"jiangsu"}}
+{"_index":"test","_id":"OtyJ_4MBn_Meu5TxcWWB","_score":1,"_source":{"company_name":"Ravago Distribution Sa","query_string":"Ravago Ltd. (Hk)","company_url":"","normalized_name":"ravago"}}
+{"_index":"test","_id":"O9yJ_4MBn_Meu5TxcWXd","_score":1,"_source":{"company_name":"Auriquimica Ltda Filial","query_string":"Auriquimica Ltda","company_url":"","normalized_name":"auriquimica"}}
+{"_index":"test","_id":"PNyJ_4MBn_Meu5TxcmUX","_score":1,"_source":{"company_name":"LOTOS ASFALT","query_string":"LOTOS Asfalt Sp. z o.o.","company_url":"","normalized_name":"lotos asfalt"}}
+{"_index":"test","_id":"PdyJ_4MBn_Meu5Txc2Ws","_score":1,"_source":{"company_name":"konimpex","query_string":"КОНИМПЕКС","company_url":"","normalized_name":"konimpex"}}
+{"_index":"test","_id":"PtyJ_4MBn_Meu5Txc2XR","_score":1,"_source":{"company_name":"VEBEL S.R.L.","query_string":"Verel Srl","company_url":"","normalized_name":"verel"}}
+{"_index":"test","_id":"P9yJ_4MBn_Meu5TxdGUb","_score":1,"_source":{"company_name":"Ceva Freight Management Mexico","query_string":"Ceva Freight Management","company_url":"","normalized_name":"ceva freight management"}}
+{"_index":"test","_id":"QNyJ_4MBn_Meu5TxdGVq","_score":1,"_source":{"company_name":"Adriatica Bitumi Spa","query_string":"ADRIATICA BITUMI S.P.A.","company_url":"","normalized_name":"adriatica bitumi"}}
+{"_index":"test","_id":"UtyJ_4MBn_Meu5TxfWUW","_score":1,"_source":{"company_name":"Kuraray Mexico S. De R.L. De C.V.","query_string":"Kuraray America Inc.","company_url":"","normalized_name":"kuraray america"}}
+{"_index":"test","_id":"U9yJ_4MBn_Meu5TxfWXq","_score":1,"_source":{"company_name":"INRECO EMULSJE","query_string":"INRECO - EMULSJA SP. Z O.O.","company_url":"","normalized_name":"inreco emulsje"}}
+{"_index":"test","_id":"VNyJ_4MBn_Meu5TxfmVA","_score":1,"_source":{"company_name":"Kuraray America Inc.","query_string":"Kuraray India Private Ltd.","company_url":"","normalized_name":"kuraray america"}}
+{"_index":"test","_id":"VdyJ_4MBn_Meu5TxfmWH","_score":1,"_source":{"company_name":"«ГК Полипласт» ","query_string":"ООО «Полипласт Северо-запад»","company_url":"","normalized_name":"gk poliplast"}}
+{"_index":"test","_id":"VtyJ_4MBn_Meu5TxfmX2","_score":1,"_source":{"company_name":"ÖMÜR TABAN","query_string":"OMÜR TABAN","company_url":"","normalized_name":"omur taban"}}
+{"_index":"test","_id":"V9yJ_4MBn_Meu5Txf2UV","_score":1,"_source":{"company_name":"BODO MOLLER CHEMIE GMBH","query_string":"ООО \"БОДО МЕЛЛЕР ХЕМИ РУССИЯ\"","company_url":"","normalized_name":"bodo"}}
+{"_index":"test","_id":"WNyJ_4MBn_Meu5Txf2Vn","_score":1,"_source":{"company_name":"Goodyear ","query_string":"The Goodyear Tire and Rubber Company","company_url":"","normalized_name":"goodyear"}}
+{"_index":"test","_id":"StyJ_4MBn_Meu5TxeGXA","_score":1,"_source":{"company_name":"KERABIT","query_string":"KerabitPro Oy","company_url":"","normalized_name":"kerabit"}}
+{"_index":"test","_id":"S9yJ_4MBn_Meu5TxeGXY","_score":1,"_source":{"company_name":"POLYGLASS","query_string":"POLYGLASS S.P.A.","company_url":"","normalized_name":"polyglass"}}
+{"_index":"test","_id":"TNyJ_4MBn_Meu5TxeWWA","_score":1,"_source":{"company_name":"BULMARKET DM ","query_string":"Bulmarket DM Ltd.","company_url":"","normalized_name":"bulmarket dm"}}
+{"_index":"test","_id":"TdyJ_4MBn_Meu5TxemUr","_score":1,"_source":{"company_name":"SPC Spain ","query_string":"SPC-JEVSA SLU","company_url":"","normalized_name":"spain"}}
+{"_index":"test","_id":"TtyJ_4MBn_Meu5Txe2UM","_score":1,"_source":{"company_name":"Danisco (China) Co., Ltd.","query_string":"Danisco (India) Pvt., Ltd.","company_url":"","normalized_name":"danisco"}}
+{"_index":"test","_id":"T9yJ_4MBn_Meu5Txe2Wg","_score":1,"_source":{"company_name":"Bharat Electronics Ltd.","query_string":"Bharat Heavy Electricals Ltd.","company_url":"","normalized_name":"bharat electronics"}}
+{"_index":"test","_id":"UNyJ_4MBn_Meu5TxfGUc","_score":1,"_source":{"company_name":"EIFFAGE","query_string":"Eiffage SA (ENXTPA:FGR)","company_url":"","normalized_name":"eiffage"}}
+{"_index":"test","_id":"UdyJ_4MBn_Meu5TxfGVh","_score":1,"_source":{"company_name":"Indian Oxides And Chemicals Private Ltd.","query_string":"Indian Overseas Bank","company_url":"","normalized_name":"indian overseas bank"}}
+{"_index":"test","_id":"ZtyJ_4MBn_Meu5TxjGXI","_score":1,"_source":{"company_name":"ALFA LAVAL LUND AB","query_string":"ОАО \"АЛЬФА ЛАВАЛЬ ПОТОК\"","company_url":"","normalized_name":"alfa laval lund"}}
+{"_index":"test","_id":"Z9yJ_4MBn_Meu5TxjWUd","_score":1,"_source":{"company_name":"YALTEKS YALITIM MALZEMELERI SAN. VE TIC. A.Ş","query_string":"AS TEKNİK MÜHENDİSLİK YAPI VE YALITIM MALZEMELERİ ALÜMİNYUM VE PLASTİK SAN. TİC. A.Ş.","company_url":"","normalized_name":"yalteks yalitim malzemeleri"}}
+{"_index":"test","_id":"aNyJ_4MBn_Meu5TxjWVH","_score":1,"_source":{"company_name":"PLASTAY GROUP","query_string":"Plastay Kimya","company_url":"","normalized_name":"plastay kimya"}}
+{"_index":"test","_id":"adyJ_4MBn_Meu5TxjmWM","_score":1,"_source":{"company_name":"СОДЕКС АГ","query_string":"Sodex Ag","company_url":"","normalized_name":"sodex"}}
+{"_index":"test","_id":"atyJ_4MBn_Meu5TxjmXv","_score":1,"_source":{"company_name":"Taiwan Synthetic Rubber Corp. ","query_string":"Tsrc Corporation","company_url":"","normalized_name":"tsrc"}}
+{"_index":"test","_id":"YdyJ_4MBn_Meu5TxiWXz","_score":1,"_source":{"company_name":"OLD CASTLE","query_string":"Oldcastle Building Products, Inc.","company_url":"","normalized_name":"castle"}}
+{"_index":"test","_id":"YtyJ_4MBn_Meu5TximUw","_score":1,"_source":{"company_name":"PROBIGALP","query_string":"Probigalp - Ligantes Betuminosos, S.A.","company_url":"","normalized_name":"probigalp"}}
+{"_index":"test","_id":"Y9yJ_4MBn_Meu5TximX0","_score":1,"_source":{"company_name":"Ashland Inc.","query_string":"Ashland Specialty Ingredients Gp","company_url":"","normalized_name":"ashland"}}
+{"_index":"test","_id":"ZNyJ_4MBn_Meu5Txi2VS","_score":1,"_source":{"company_name":"JOHNS MANSVILLE","query_string":"ДЖОНС МАНСВИЛ","company_url":"","normalized_name":"dzhons mansvil"}}
+{"_index":"test","_id":"ZdyJ_4MBn_Meu5Txi2XP","_score":1,"_source":{"company_name":"NEXEO SOLUTIONS EUROPE B.V.","query_string":"ООО\"НЕКСЕО СОЛЮШЕНС РУС\"","company_url":"","normalized_name":"soliushens"}}
+{"_index":"test","_id":"WdyJ_4MBn_Meu5TxgGWY","_score":1,"_source":{"company_name":"WRGRACE","query_string":"Wrgrace & Co. Of Canada Ltd.","company_url":"","normalized_name":"wrgrace"}}
+{"_index":"test","_id":"WtyJ_4MBn_Meu5TxgWVC","_score":1,"_source":{"company_name":"SUPER BETON","query_string":"Super Beton Ltd.","company_url":"","normalized_name":"super beton"}}
+{"_index":"test","_id":"W9yJ_4MBn_Meu5TxgmUx","_score":1,"_source":{"company_name":"Binex Line Corp. Chicago","query_string":"Binex Line Corp. Vancouver","company_url":"","normalized_name":"binex line"}}
+{"_index":"test","_id":"XNyJ_4MBn_Meu5TxgmXM","_score":1,"_source":{"company_name":"FRAGMAT","query_string":"Fragmat TIM d.o.o.","company_url":"","normalized_name":"fragmat"}}
+{"_index":"test","_id":"XdyJ_4MBn_Meu5Txg2Vd","_score":1,"_source":{"company_name":"ISOLIERERZEUGNISSE GROSSRÖHRSDORF GMBH","query_string":"Isoliererzeugnisse GroBrohrsdorf Gmbh","company_url":"","normalized_name":"isoliererzeugnisse grobrohrsdorf"}}
+{"_index":"test","_id":"NtyJ_4MBn_Meu5Txb2WX","_score":1,"_source":{"company_name":"ООО\"ЭССИЭЙ ХАЙДЖИН ПРОДАКТС РАША СВЕТОГОРСКИЙ ФИЛИАЛ","query_string":"ООО\"ЭССИЭЙ ХАЙДЖИН ПРОДАКТС РАША\"","company_url":"","normalized_name":"khaidzhin"}}
+{"_index":"test","_id":"N9yJ_4MBn_Meu5Txb2W_","_score":1,"_source":{"company_name":"Reliance Chemical Products Ltd.","query_string":"Reliance Spg Mills Ltd.","company_url":"","normalized_name":"spg mills"}}
+{"_index":"test","_id":"ONyJ_4MBn_Meu5TxcGWK","_score":1,"_source":{"company_name":"SANYHOT","query_string":"Sanyhot Adhesivos","company_url":"","normalized_name":"sanyhot"}}
+{"_index":"test","_id":"XtyJ_4MBn_Meu5TxhWUq","_score":1,"_source":{"company_name":"MULTIBASE","query_string":"Multibase Inc.","company_url":"","normalized_name":"multibase"}}
+{"_index":"test","_id":"X9yJ_4MBn_Meu5TxhWVV","_score":1,"_source":{"company_name":"ANSER Sp.z o.o","query_string":"Zaklady Chemiczne Anser Sp. z o.o.","company_url":"","normalized_name":"anser"}}
+{"_index":"test","_id":"YNyJ_4MBn_Meu5TxhmWd","_score":1,"_source":{"company_name":"PARKER HANNIFIN USA","query_string":"PARKER HANNIFIN","company_url":"","normalized_name":"parker"}}
+{"_index":"test","_id":"kNyJ_4MBn_Meu5Txs2V_","_score":1,"_source":{"company_name":"ADI commerce ltd","query_string":"ADI COMMERCE","company_url":"","normalized_name":"adi"}}
+{"_index":"test","_id":"kdyJ_4MBn_Meu5TxtGUe","_score":1,"_source":{"company_name":"Gardner Gibson ","query_string":"ГАРДНЕР ГИБСОН","company_url":"","normalized_name":"gardner gibson"}}
+{"_index":"test","_id":"ktyJ_4MBn_Meu5TxtGV1","_score":1,"_source":{"company_name":"ROGITEX","query_string":"Rogitex International Inc.","company_url":"","normalized_name":"rogitex"}}
+{"_index":"test","_id":"k9yJ_4MBn_Meu5TxtGWN","_score":1,"_source":{"company_name":"ORZEŁ S.A. ","query_string":"Orzel Spolka Akcyjna (WSE:ORL)","company_url":"","normalized_name":"orzel"}}
+{"_index":"test","_id":"lNyJ_4MBn_Meu5TxtWUr","_score":1,"_source":{"company_name":"ALBEMARLE GREEN CREST ","query_string":"Albemarle Corporation","company_url":"","normalized_name":"albemarle"}}
+{"_index":"test","_id":"ldyJ_4MBn_Meu5TxtmVb","_score":1,"_source":{"company_name":"kkpc","query_string":"KUMHO PETROCHEMICAL CO., LTD. (KOSE:A011780)","company_url":"","normalized_name":"kkpc"}}
+{"_index":"test","_id":"ltyJ_4MBn_Meu5TxtmXE","_score":1,"_source":{"company_name":"ALIBESA","query_string":"Andaluza de Ligante Bituminosos y Betunes S.A.","company_url":"","normalized_name":"alibesa"}}
+{"_index":"test","_id":"l9yJ_4MBn_Meu5Txt2Ui","_score":1,"_source":{"company_name":"LGChem ","query_string":"LG Chem","company_url":"","normalized_name":"lg chem"}}
+{"_index":"test","_id":"rNyJ_4MBn_Meu5Txz2U2","_score":1,"_source":{"company_name":"COPERNIT S.P.A.","query_string":"ООО\"КОПЕРНИТ И К\"","company_url":"","normalized_name":"copernit"}}
+{"_index":"test","_id":"rdyJ_4MBn_Meu5Txz2W5","_score":1,"_source":{"company_name":"FATIH ÖKÇE","query_string":"Fatih Okce Sanayi Ve Ticaret Anonim Sirketi","company_url":"","normalized_name":"fatih okce"}}
+{"_index":"test","_id":"rtyJ_4MBn_Meu5Txz2XV","_score":1,"_source":{"company_name":"Hexpol Compounding","query_string":"Hexpol Compounding (Uk) Ltd.","company_url":"","normalized_name":"hexpol compounding"}}
+{"_index":"test","_id":"r9yJ_4MBn_Meu5Txz2Xx","_score":1,"_source":{"company_name":"VETROASFALTO","query_string":"Vetroasfalto S.p.a.","company_url":"","normalized_name":"vetroasfalto"}}
+{"_index":"test","_id":"sNyJ_4MBn_Meu5Tx0GU4","_score":1,"_source":{"company_name":"Youngnam Spinning Co., Ltd.","query_string":"Youngnam Spinning","company_url":"","normalized_name":"youngnam spinning"}}
+{"_index":"test","_id":"sdyJ_4MBn_Meu5Tx0GX_","_score":1,"_source":{"company_name":"Hexpol Compounding (Uk) Ltd.","query_string":"Hexpol Compounding","company_url":"","normalized_name":"hexpol compounding"}}
+{"_index":"test","_id":"styJ_4MBn_Meu5Tx0WVr","_score":1,"_source":{"company_name":"COPERNIT ag","query_string":"copernit spa","company_url":"","normalized_name":"copernit"}}
+{"_index":"test","_id":"mNyJ_4MBn_Meu5Txt2WQ","_score":1,"_source":{"company_name":"GENERAL MEMBRANE","query_string":"GENERAL MEMBRANE S.P.A.","company_url":"","normalized_name":"general membrane"}}
+{"_index":"test","_id":"mdyJ_4MBn_Meu5Txt2XB","_score":1,"_source":{"company_name":"TOA ROAD","query_string":"Toa Road Corporation (TSE:1882)","company_url":"","normalized_name":"toa road"}}
+{"_index":"test","_id":"mtyJ_4MBn_Meu5Txt2XZ","_score":1,"_source":{"company_name":"CTS","query_string":"CTS Corporation (NYSE:CTS)","company_url":"","normalized_name":"cts"}}
+{"_index":"test","_id":"m9yJ_4MBn_Meu5TxuGWy","_score":1,"_source":{"company_name":"Avebe","query_string":"Avebe Nederland B.V.","company_url":"","normalized_name":"avebe"}}
+{"_index":"test","_id":"nNyJ_4MBn_Meu5TxuWVQ","_score":1,"_source":{"company_name":"RTL-INDUCTIVES OY","query_string":"RTL-INDUCTIVES OY","company_url":"","normalized_name":"rtl inductives"}}
+{"_index":"test","_id":"ndyJ_4MBn_Meu5TxumWs","_score":1,"_source":{"company_name":"Gongguan Heartychem Co., Ltd.","query_string":"Heartychem Corp","company_url":"","normalized_name":"heartychem"}}
+{"_index":"test","_id":"o9yJ_4MBn_Meu5TxxWVE","_score":1,"_source":{"company_name":"GEORG BOERNER","query_string":"Georg Borner Chemisches Werk Fur Dach- Und Bautenschutz Gmbh & Co. Kg","company_url":"","normalized_name":"georg"}}
+{"_index":"test","_id":"pNyJ_4MBn_Meu5TxxmVm","_score":1,"_source":{"company_name":"EMULBIT","query_string":"EMULBIT Sp. z o.o.","company_url":"","normalized_name":"emulbit"}}
+{"_index":"test","_id":"pdyJ_4MBn_Meu5TxxmV-","_score":1,"_source":{"company_name":"Denka Company","query_string":"Denka Kabushiki-gaisha","company_url":"","normalized_name":"denka"}}
+{"_index":"test","_id":"ptyJ_4MBn_Meu5TxxmWc","_score":1,"_source":{"company_name":"FAMOS GMBH","query_string":"FAMOS GmbH & Co. KG","company_url":"","normalized_name":"famos"}}
+{"_index":"test","_id":"p9yJ_4MBn_Meu5TxxmXF","_score":1,"_source":{"company_name":"Daramic, Llc, Zweigniederlassung Norderstedt","query_string":"Daramic, LLC","company_url":"","normalized_name":"daramic"}}
+{"_index":"test","_id":"qNyJ_4MBn_Meu5Txx2Ux","_score":1,"_source":{"company_name":"GARLAND","query_string":"The Garland Company, Inc.","company_url":"","normalized_name":"garland"}}
+{"_index":"test","_id":"qdyJ_4MBn_Meu5Txx2VN","_score":1,"_source":{"company_name":"Cardiac Science Holdings (UK) Limited","query_string":"Cardiac Science Corporation","company_url":"","normalized_name":"cardiac science"}}
+{"_index":"test","_id":"qtyJ_4MBn_Meu5TxyGVe","_score":1,"_source":{"company_name":"NORDENIA","query_string":"Nordenia deutschland osterburken gmbh","company_url":"","normalized_name":"nordenia"}}
+{"_index":"test","_id":"q9yJ_4MBn_Meu5TxymW-","_score":1,"_source":{"company_name":"Cengiz Insaat Sanayi ve Ticaret A.S.","query_string":"Cengiz insaat Sanayi Ve Ticaret A S","company_url":"","normalized_name":"cengiz"}}
+{"_index":"test","_id":"s9yJ_4MBn_Meu5Tx02Vk","_score":1,"_source":{"company_name":"TAKATA AG\"","query_string":"ООО \"ТАКАТА РУС\"","company_url":"","normalized_name":"takata"}}
+{"_index":"test","_id":"tNyJ_4MBn_Meu5Tx1GVd","_score":1,"_source":{"company_name":"MCT GMBH & CO. KG","query_string":"MCT Misch & Compoundier Technik GmbH","company_url":"","normalized_name":"mct"}}
+{"_index":"test","_id":"tdyJ_4MBn_Meu5Tx1mUo","_score":1,"_source":{"company_name":"ESHA","query_string":"Esha Strasse GmbH","company_url":"","normalized_name":"esha"}}
+{"_index":"test","_id":"ttyJ_4MBn_Meu5Tx1mW1","_score":1,"_source":{"company_name":"ERGON ASPHALT","query_string":"Ergon Asphalt & Emulsions, Inc.","company_url":"","normalized_name":"ergon"}}
+{"_index":"test","_id":"t9yJ_4MBn_Meu5Tx12XP","_score":1,"_source":{"company_name":"SERVICOM (OFF-SPEC)","query_string":"Servicom S.A. (BVMT:SERVI) - سرفيكوم","company_url":"","normalized_name":"servicom off spec"}}
+{"_index":"test","_id":"uNyJ_4MBn_Meu5Tx2GX6","_score":1,"_source":{"company_name":"LGChem ","query_string":"LG Chem Ltd.","company_url":"","normalized_name":"lgchem"}}
+{"_index":"test","_id":"udyJ_4MBn_Meu5Tx2WV4","_score":1,"_source":{"company_name":"IZOBIT (HEMPRO)","query_string":"Hempro a.d. (BELEX:HMBG)","company_url":"","normalized_name":"izobit hempro"}}
+{"_index":"test","_id":"ntyJ_4MBn_Meu5TxvGUo","_score":1,"_source":{"company_name":"TOTAL CESKA REPUBLIKA s.r.o.","query_string":"TOTAL PETROCHEMICALS FRANCE","company_url":"","normalized_name":"petrochemicals"}}
+{"_index":"test","_id":"n9yJ_4MBn_Meu5TxvGWQ","_score":1,"_source":{"company_name":"АО\"ЕГОРЬЕВСК-ОБУВЬ\"","query_string":"АО\"ЕГОРЬЕВСК-ОБУВЬ\"","company_url":"","normalized_name":"egor evsk obuv"}}
+{"_index":"test","_id":"oNyJ_4MBn_Meu5Txv2Xm","_score":1,"_source":{"company_name":"GYMAP GROUP","query_string":"STE GYMAP","company_url":"","normalized_name":"ste"}}
+{"_index":"test","_id":"odyJ_4MBn_Meu5TxwWUY","_score":1,"_source":{"company_name":"BITUMIX","query_string":"BITUMIX S.A.","company_url":"","normalized_name":"bitumix"}}
+{"_index":"test","_id":"otyJ_4MBn_Meu5TxwmWg","_score":1,"_source":{"company_name":"Soprema Polska Sp Z O O","query_string":"SOPREMA CASTELLBISBAL","company_url":"","normalized_name":"castellbisbal"}}
+{"_index":"test","_id":"2tyJ_4MBn_Meu5Tx_2VW","_score":1,"_source":{"company_name":"RASCO BITUMENTECHNIC GMBH","query_string":"Rasco Bitumentechnik Gmbh","company_url":"","normalized_name":"rasco bitumentechnik"}}
+{"_index":"test","_id":"29yJ_4MBn_Meu5Tx_2WI","_score":1,"_source":{"company_name":"Chevron Phillips Chemical Co. Lp","query_string":"Phillips Tuftex Ltd.","company_url":"","normalized_name":"phillips tuftex"}}
+{"_index":"test","_id":"3NyK_4MBn_Meu5TxAGXp","_score":1,"_source":{"company_name":"Zeon do Brasil Ltda","query_string":"ZEON Corporation (TSE:4205)","company_url":"","normalized_name":"brasil"}}
+{"_index":"test","_id":"3dyK_4MBn_Meu5TxAWUA","_score":1,"_source":{"company_name":"Exel Logistics Warehouse","query_string":"Exel Logistics Inc.","company_url":"","normalized_name":"exel logistics"}}
+{"_index":"test","_id":"3tyK_4MBn_Meu5TxAWUY","_score":1,"_source":{"company_name":"Recron (Malaysia) Sdn Bhd","query_string":"Recron (Malaysia) Sdn.Bhd.","company_url":"","normalized_name":"recron"}}
+{"_index":"test","_id":"5dyK_4MBn_Meu5TxCGXZ","_score":1,"_source":{"company_name":"Marangoni Retreading Systems Deutschland GmbH ","query_string":"MARANGONI RETREADING SYSTEMS DEUTSCHLAND","company_url":"","normalized_name":"marangoni retreading systems"}}
+{"_index":"test","_id":"5tyK_4MBn_Meu5TxCWV-","_score":1,"_source":{"company_name":"KAWASAKI HEAVY INDUSTRIES, LTD.","query_string":"ООО\"КАВАСАКИ ГАЗ ТУРБИН СЕРВИС РУС\"","company_url":"","normalized_name":"kawasaki heavy industries"}}
+{"_index":"test","_id":"59yK_4MBn_Meu5TxCWXR","_score":1,"_source":{"company_name":"SIEMENS AKTIENGESELLSCHAFT","query_string":"ООО\"СИМЕНС ТЕХНОЛОГИИ ГАЗОВЫХ ТУРБИН\"","company_url":"","normalized_name":"siemens aktiengesellschaft"}}
+{"_index":"test","_id":"-dyK_4MBn_Meu5TxIWWF","_score":1,"_source":{"company_name":"Sherwin-Williams ","query_string":"The Sherwin-Williams Company (NYSE:SHW)","company_url":"","normalized_name":"sherwin williams"}}
+{"_index":"test","_id":"-tyK_4MBn_Meu5TxImVU","_score":1,"_source":{"company_name":"Bit-Mat Products of Indiana, Inc.","query_string":"klink group","company_url":"","normalized_name":"klink"}}
+{"_index":"test","_id":"-9yK_4MBn_Meu5TxImWX","_score":1,"_source":{"company_name":"HIRA Middle East","query_string":"Hira Industries L.L.C.","company_url":"","normalized_name":"middle east"}}
+{"_index":"test","_id":"_NyK_4MBn_Meu5TxJGWq","_score":1,"_source":{"company_name":"APS Paving Stone Inc","query_string":"APS Paving&Stone Inc","company_url":"","normalized_name":"aps paving stone"}}
+{"_index":"test","_id":"_dyK_4MBn_Meu5TxJWVF","_score":1,"_source":{"company_name":"lusocopla","query_string":"Lusocopla - Fábrica de Colas Industriais, Lda","company_url":"","normalized_name":"lusocopla"}}
+{"_index":"test","_id":"8NyK_4MBn_Meu5TxFmV-","_score":1,"_source":{"company_name":"Dsv Air & Sea S.A. De C.V.","query_string":"Dsv Air & Sea Inc.","company_url":"","normalized_name":"dsv air sea"}}
+{"_index":"test","_id":"8dyK_4MBn_Meu5TxFmW8","_score":1,"_source":{"company_name":"BITBAU","query_string":"Bitbau Dörr","company_url":"","normalized_name":"bitbau"}}
+{"_index":"test","_id":"8tyK_4MBn_Meu5TxGGUI","_score":1,"_source":{"company_name":"Malarkey Roofing Products","query_string":"MALARKEY","company_url":"","normalized_name":"malarkey"}}
+{"_index":"test","_id":"89yK_4MBn_Meu5TxGGVA","_score":1,"_source":{"company_name":"CABOPOL","query_string":"Cabopol - Polymer Compounds, S.A","company_url":"","normalized_name":"cabopol"}}
+{"_index":"test","_id":"9NyK_4MBn_Meu5TxGGX3","_score":1,"_source":{"company_name":"Crafco","query_string":"CRAFCO, INC.","company_url":"","normalized_name":"crafco"}}
+{"_index":"test","_id":"9dyK_4MBn_Meu5TxGWVs","_score":1,"_source":{"company_name":"PEREL OY","query_string":"ООО\"ПЕРЕЛ РАША\"","company_url":"","normalized_name":"perel"}}
+{"_index":"test","_id":"39yK_4MBn_Meu5TxAmUF","_score":1,"_source":{"company_name":"CLOPAY","query_string":"CLOPAY BUILDING PRODUCTS","company_url":"","normalized_name":"clopay"}}
+{"_index":"test","_id":"4NyK_4MBn_Meu5TxAmV3","_score":1,"_source":{"company_name":"COBALT HOLDINGS","query_string":"Cobalt Holdings, Llc","company_url":"","normalized_name":"cobalt"}}
+{"_index":"test","_id":"4dyK_4MBn_Meu5TxA2U0","_score":1,"_source":{"company_name":"Zeon Shinhwa (Zeshin) Inc.","query_string":"ZEON Corporation (TSE:4205)","company_url":"","normalized_name":"zeshin"}}
+{"_index":"test","_id":"4tyK_4MBn_Meu5TxA2WT","_score":1,"_source":{"company_name":"CASALI","query_string":"CASALI Spa","company_url":"","normalized_name":"casali"}}
+{"_index":"test","_id":"49yK_4MBn_Meu5TxBWUT","_score":1,"_source":{"company_name":"KVK Corporation (JASDAQ:6484)","query_string":"KVK Corporation","company_url":"","normalized_name":"kvk"}}
+{"_index":"test","_id":"5NyK_4MBn_Meu5TxBWXD","_score":1,"_source":{"company_name":"BLUFIXX","query_string":"Blufixx GmbH","company_url":"","normalized_name":"blufixx"}}
+{"_index":"test","_id":"6NyK_4MBn_Meu5TxCmX4","_score":1,"_source":{"company_name":"TETRA PAK INTERNATIONAL SA","query_string":"АО\"ТЕТРА ПАК\"","company_url":"","normalized_name":"tetra pak"}}
+{"_index":"test","_id":"6dyK_4MBn_Meu5TxC2Wu","_score":1,"_source":{"company_name":"TERMOPRENE POLYMERS","query_string":"Thermoprene, Inc.","company_url":"","normalized_name":"thermoprene"}}
+{"_index":"test","_id":"6tyK_4MBn_Meu5TxDWVt","_score":1,"_source":{"company_name":"BAZALT GROUP (DORTMUNDER GUSSASPHALT GMBH & CO. KG, DGA)","query_string":"Dortmunder Gussasphalt Gmbh & Co. Kg","company_url":"","normalized_name":"dortmunder gussasphalt"}}
+{"_index":"test","_id":"69yK_4MBn_Meu5TxDmUi","_score":1,"_source":{"company_name":"КОНТИНЕНТАЛ МАТАДОР ТРАК ТАЕРЗ СРО","query_string":"Continental Matador Rubber, s.r.o. ","company_url":"","normalized_name":"matador"}}
+{"_index":"test","_id":"7NyK_4MBn_Meu5TxD2UP","_score":1,"_source":{"company_name":"TECNOFILM","query_string":"Tecnofilm Spa","company_url":"","normalized_name":"tecnofilm"}}
+{"_index":"test","_id":"7dyK_4MBn_Meu5TxD2Vd","_score":1,"_source":{"company_name":"Indian Synthetic Rubber Ltd","query_string":"ISRL","company_url":"","normalized_name":"isrl"}}
+{"_index":"test","_id":"9tyK_4MBn_Meu5TxGmVN","_score":1,"_source":{"company_name":"PİKASAN","query_string":"Pikasan Plastik Kauçuk Sanayi A.Ş.","company_url":"","normalized_name":"pikasan"}}
+{"_index":"test","_id":"99yK_4MBn_Meu5TxHGW8","_score":1,"_source":{"company_name":"Double Coin Holding","query_string":"Double Coin","company_url":"","normalized_name":"double coin"}}
+{"_index":"test","_id":"-NyK_4MBn_Meu5TxHWUH","_score":1,"_source":{"company_name":"WERNER JANIKOWO","query_string":"Werner Janikowo Sp Z O O","company_url":"","normalized_name":"werner janikowo"}}
+{"_index":"test","_id":"7tyK_4MBn_Meu5TxE2Wl","_score":1,"_source":{"company_name":"Nizhnekamskneftekhim","query_string":"NKNH","company_url":"","normalized_name":"nknh"}}
+{"_index":"test","_id":"79yK_4MBn_Meu5TxFGXU","_score":1,"_source":{"company_name":"POLYONE","query_string":"PolyOne Corporation (NYSE:POL)","company_url":"","normalized_name":"polyone"}}
+{"_index":"test","_id":"YNyK_4MBn_Meu5TxUGa6","_score":1,"_source":{"company_name":"Mti Llc","query_string":"Speciality Con. Chemicals Pvt., Ltd.","company_url":"","normalized_name":"mti"}}
+{"_index":"test","_id":"YdyK_4MBn_Meu5TxUGbb","_score":1,"_source":{"company_name":"Erbus Industrial Eireli","query_string":"Industrias Estra Sa","company_url":"","normalized_name":"industrias estra"}}
+{"_index":"test","_id":"YtyK_4MBn_Meu5TxUGb5","_score":1,"_source":{"company_name":"Zamoung Textile Co.","query_string":"Kmu Corp. S.A.","company_url":"","normalized_name":"kmu corp"}}
+{"_index":"test","_id":"Y9yK_4MBn_Meu5TxUWYU","_score":1,"_source":{"company_name":"Changzhou Yisuo Woer Synthetic Material Co., Ltd.","query_string":"Masterlat Srl","company_url":"","normalized_name":"masterlat"}}
+{"_index":"test","_id":"ZNyK_4MBn_Meu5TxUWYz","_score":1,"_source":{"company_name":"Greca Distribuidora De Asfaltos Ltda","query_string":"Distribuidora San Rafael Ltda","company_url":"","normalized_name":"distribuidora san rafael"}}
+{"_index":"test","_id":"ZdyK_4MBn_Meu5TxUWaJ","_score":1,"_source":{"company_name":"Friendship Transport Inc.","query_string":"Infinity Transportation Inc.","company_url":"","normalized_name":"friendship transport"}}
+{"_index":"test","_id":"ZtyK_4MBn_Meu5TxUWal","_score":1,"_source":{"company_name":"Mcl","query_string":"Wynnum Rugby Club","company_url":"","normalized_name":"mcl"}}
+{"_index":"test","_id":"Z9yK_4MBn_Meu5TxUWbL","_score":1,"_source":{"company_name":"Teleflex Automotive De Mexico Sa De Cv","query_string":"Kraft Foods De Mexico Sa De Cv","company_url":"","normalized_name":"kraft foods"}}
+{"_index":"test","_id":"aNyK_4MBn_Meu5TxUWbx","_score":1,"_source":{"company_name":"Craine Freight&Cartage","query_string":"Mainfreight Uk Ltd.","company_url":"","normalized_name":"mainfreight"}}
+{"_index":"test","_id":"adyK_4MBn_Meu5TxUmYW","_score":1,"_source":{"company_name":"Pan Electric Ind Eletroeletronica Imp. E Exp. Ltda","query_string":"Weiler","company_url":"","normalized_name":"weiler"}}
+{"_index":"test","_id":"atyK_4MBn_Meu5TxUmZG","_score":1,"_source":{"company_name":"Pgm As","query_string":"Enrich Equipment Ltd.","company_url":"","normalized_name":"pgm"}}
+{"_index":"test","_id":"a9yK_4MBn_Meu5TxUmai","_score":1,"_source":{"company_name":"Huntsman International Llc","query_string":"Qtm","company_url":"","normalized_name":"qtm"}}
+{"_index":"test","_id":"bNyK_4MBn_Meu5TxUmbX","_score":1,"_source":{"company_name":"Specialty Packaging Inc.","query_string":"Eih Ltd.","company_url":"","normalized_name":"eih"}}
+{"_index":"test","_id":"bdyK_4MBn_Meu5TxU2YA","_score":1,"_source":{"company_name":"Interchemica S.A. De C. V.","query_string":"Subensambles Internacionales","company_url":"","normalized_name":"interchemica"}}
+{"_index":"test","_id":"btyK_4MBn_Meu5TxU2Yf","_score":1,"_source":{"company_name":"Inferno Sports","query_string":"Shenzhen Fluent Sports Technology Co., Ltd.","company_url":"","normalized_name":"inferno sports"}}
+{"_index":"test","_id":"b9yK_4MBn_Meu5TxU2Y6","_score":1,"_source":{"company_name":"Delphi Powertrain Systems","query_string":"Vibrasystems Inc.","company_url":"","normalized_name":"vibrasystems"}}
+{"_index":"test","_id":"cNyK_4MBn_Meu5TxVGYR","_score":1,"_source":{"company_name":"Isuzu Motors India Private Ltd.","query_string":"Captivate","company_url":"","normalized_name":"captivate"}}
+{"_index":"test","_id":"ldyK_4MBn_Meu5TxaGZV","_score":1,"_source":{"company_name":"Productos Alimenticios Super S. De","query_string":"Prodicauchos Ltda","company_url":"","normalized_name":"prodicauchos"}}
+{"_index":"test","_id":"ltyK_4MBn_Meu5TxaGbl","_score":1,"_source":{"company_name":"United Chemical Industries","query_string":"Mova Industrial S.A.C.","company_url":"","normalized_name":"mova"}}
+{"_index":"test","_id":"l9yK_4MBn_Meu5TxaWYp","_score":1,"_source":{"company_name":"Segaduanca Usa. Corp.","query_string":"Asun (Usa.) Inc.","company_url":"","normalized_name":"asun"}}
+{"_index":"test","_id":"mNyK_4MBn_Meu5TxaWZC","_score":1,"_source":{"company_name":"Retail Brokerage Solutions Inc.","query_string":"Arkema Inc.","company_url":"","normalized_name":"arkema"}}
+{"_index":"test","_id":"mdyK_4MBn_Meu5TxaWaE","_score":1,"_source":{"company_name":"Fairmate Chemicals Pvt., Ltd.","query_string":"Arkema Inc.","company_url":"","normalized_name":"arkema"}}
+{"_index":"test","_id":"mtyK_4MBn_Meu5TxaWbz","_score":1,"_source":{"company_name":"Gupta H.C. Overseas (I) Pvt., Ltd.","query_string":"Convermat Corporation","company_url":"","normalized_name":"convermat"}}
+{"_index":"test","_id":"m9yK_4MBn_Meu5TxamZJ","_score":1,"_source":{"company_name":"Gateway Ware Houses 3","query_string":"Gti International Pvt., Ltd.","company_url":"","normalized_name":"gateway ware houses"}}
+{"_index":"test","_id":"nNyK_4MBn_Meu5Txamab","_score":1,"_source":{"company_name":"Garments Co., Ltd., Dongguan Changsheng Gloves","query_string":"Gap2","company_url":"","normalized_name":"gap"}}
+{"_index":"test","_id":"ndyK_4MBn_Meu5Txama3","_score":1,"_source":{"company_name":"Segurindustria Sa","query_string":"Polirim Do Brasil Industria De Pecas Ltda","company_url":"","normalized_name":"segurindustria"}}
+{"_index":"test","_id":"ntyK_4MBn_Meu5Txa2ZW","_score":1,"_source":{"company_name":"Spin Knit Ltd.","query_string":"Esquire Knit Composite Ltd.","company_url":"","normalized_name":"spin knit"}}
+{"_index":"test","_id":"n9yK_4MBn_Meu5Txa2aA","_score":1,"_source":{"company_name":"Hmt Inc.","query_string":"Earth Materials Co., Ltd. Of Zhuhai","company_url":"","normalized_name":"hmt"}}
+{"_index":"test","_id":"cdyK_4MBn_Meu5TxVWZZ","_score":1,"_source":{"company_name":"Qsr Inc.","query_string":"Sri Lanka Rugby Football Union","company_url":"","normalized_name":"qsr"}}
+{"_index":"test","_id":"ctyK_4MBn_Meu5TxVWaO","_score":1,"_source":{"company_name":"Zhangjiagang Bonded Port Area Port Co., Ltd.","query_string":"Bnx","company_url":"","normalized_name":"bnx"}}
+{"_index":"test","_id":"c9yK_4MBn_Meu5TxVWav","_score":1,"_source":{"company_name":"Profit Great Inc.","query_string":"Lof Inc.","company_url":"","normalized_name":"lof"}}
+{"_index":"test","_id":"dNyK_4MBn_Meu5TxVWbY","_score":1,"_source":{"company_name":"Ktm Ag","query_string":"Azhr Al Madina Hyper Market Llc","company_url":"","normalized_name":"ktm"}}
+{"_index":"test","_id":"ddyK_4MBn_Meu5TxVmYD","_score":1,"_source":{"company_name":"Mane Sa","query_string":"Tecnologia De Materiales Colombia S.A.S","company_url":"","normalized_name":"mane"}}
+{"_index":"test","_id":"dtyK_4MBn_Meu5TxVmYx","_score":1,"_source":{"company_name":"Waqas Traders","query_string":"Al Tawail Trad.Est","company_url":"","normalized_name":"waqas"}}
+{"_index":"test","_id":"d9yK_4MBn_Meu5TxVmbV","_score":1,"_source":{"company_name":"Tricab Inc.","query_string":"Parts Distributing Co. O","company_url":"","normalized_name":"tricab"}}
+{"_index":"test","_id":"eNyK_4MBn_Meu5TxVmb5","_score":1,"_source":{"company_name":"CEPSA","query_string":"W. Quandt Gmbh & Co. Kg","company_url":"","normalized_name":"cepsa"}}
+{"_index":"test","_id":"edyK_4MBn_Meu5TxV2Yc","_score":1,"_source":{"company_name":"Creative Arts","query_string":"S.R. International","company_url":"","normalized_name":"creative arts"}}
+{"_index":"test","_id":"etyK_4MBn_Meu5TxV2ai","_score":1,"_source":{"company_name":"Exodus Sdn Bhd","query_string":"Polyone De Mexicosa De Cv","company_url":"","normalized_name":"exodus"}}
+{"_index":"test","_id":"e9yK_4MBn_Meu5TxV2bG","_score":1,"_source":{"company_name":"Abb Mexico S.A. De C.V.","query_string":"Icvo S.A.S","company_url":"","normalized_name":"icvo"}}
+{"_index":"test","_id":"fNyK_4MBn_Meu5TxV2bf","_score":1,"_source":{"company_name":"Goodyear ","query_string":"IZOHAN","company_url":"","normalized_name":"izohan"}}
+{"_index":"test","_id":"fdyK_4MBn_Meu5TxWGZc","_score":1,"_source":{"company_name":"Fung Llc","query_string":"Hwa Fong Rubber Ind","company_url":"","normalized_name":"fung"}}
+{"_index":"test","_id":"ftyK_4MBn_Meu5TxWGbk","_score":1,"_source":{"company_name":"Nusrat Corporation","query_string":"Srf Industries (Thailand) Ltd.","company_url":"","normalized_name":"nusrat"}}
+{"_index":"test","_id":"f9yK_4MBn_Meu5TxWWZB","_score":1,"_source":{"company_name":"Asics India Private Ltd.","query_string":"Dimaro Srl","company_url":"","normalized_name":"dimaro"}}
+{"_index":"test","_id":"gNyK_4MBn_Meu5TxWWar","_score":1,"_source":{"company_name":"Mactex Corporation","query_string":"Valeo Friction Materials India Private Ltd.","company_url":"","normalized_name":"mactex"}}
+{"_index":"test","_id":"gdyK_4MBn_Meu5TxWWb1","_score":1,"_source":{"company_name":"E Freight Solutions Inc.","query_string":"Halo Branded Solutions","company_url":"","normalized_name":"halo branded solutions"}}
+{"_index":"test","_id":"gtyK_4MBn_Meu5TxW2aU","_score":1,"_source":{"company_name":"Reda Industrial Materials Pakistan","query_string":"Versum Materials","company_url":"","normalized_name":"versum materials"}}
+{"_index":"test","_id":"g9yK_4MBn_Meu5TxW2bD","_score":1,"_source":{"company_name":"D. Sadi","query_string":"Anurun Trading","company_url":"","normalized_name":"d sadi"}}
+{"_index":"test","_id":"hNyK_4MBn_Meu5TxW2bu","_score":1,"_source":{"company_name":"Fujian Shunda Sport Goods Co., Ltd.","query_string":"Tag Corporation","company_url":"","normalized_name":"tag"}}
+{"_index":"test","_id":"hdyK_4MBn_Meu5TxXGYa","_score":1,"_source":{"company_name":"Comercializadora De Productos Del L","query_string":"Gct","company_url":"","normalized_name":"gct"}}
+{"_index":"test","_id":"htyK_4MBn_Meu5TxXGZT","_score":1,"_source":{"company_name":"Dongguan Rui Ding Trading Co., Ltd.","query_string":"Rointrade","company_url":"","normalized_name":"rointrade"}}
+{"_index":"test","_id":"h9yK_4MBn_Meu5TxXGbM","_score":1,"_source":{"company_name":"Zhongshan Baikede Electromechanical Co., Ltd.","query_string":"Psa Corporation","company_url":"","normalized_name":"psa"}}
+{"_index":"test","_id":"iNyK_4MBn_Meu5TxXWYV","_score":1,"_source":{"company_name":"Nprotrade (Shanghai) Trading C","query_string":"Marubeni (Shanghai) Co.， Ltd.","company_url":"","normalized_name":"marubeni"}}
+{"_index":"test","_id":"idyK_4MBn_Meu5TxXWZV","_score":1,"_source":{"company_name":"Servicios Y Maquilados Internacionales Sa De Cv","query_string":"Adhesivos Internacionales S.A.S.","company_url":"","normalized_name":"adhesivos internacionales"}}
+{"_index":"test","_id":"ityK_4MBn_Meu5TxXWbS","_score":1,"_source":{"company_name":"Quimopren Industria Quimica Ltda","query_string":"Dynal Industrial S.A.","company_url":"","normalized_name":"dynal industrial"}}
+{"_index":"test","_id":"i9yK_4MBn_Meu5TxXmY7","_score":1,"_source":{"company_name":"Tianjin Port Free Trade Zone Star P","query_string":"Lincor Sas","company_url":"","normalized_name":"lincor"}}
+{"_index":"test","_id":"jNyK_4MBn_Meu5TxXmbe","_score":1,"_source":{"company_name":"Best Stock S.A.S","query_string":"Bsl Ltd.","company_url":"","normalized_name":"bsl"}}
+{"_index":"test","_id":"jdyK_4MBn_Meu5TxYWZD","_score":1,"_source":{"company_name":"Hui To (Xiamen) Sports Equipment Co., Ltd.","query_string":"Efenmo (Xiamen) Fitness Equipment Co., Ltd.","company_url":"","normalized_name":"hui"}}
+{"_index":"test","_id":"jtyK_4MBn_Meu5TxYmYN","_score":1,"_source":{"company_name":"Transglobal Representaciones S.A.C.","query_string":"Keen Inc.","company_url":"","normalized_name":"keen"}}
+{"_index":"test","_id":"j9yK_4MBn_Meu5TxYmZ8","_score":1,"_source":{"company_name":"Sami Abd Alatif Abo Alrup","query_string":"Nad International S A De C V","company_url":"","normalized_name":"sami abd alatif abo alrup"}}
+{"_index":"test","_id":"kNyK_4MBn_Meu5TxY2Z-","_score":1,"_source":{"company_name":"Amster S.A.","query_string":"Just Perfect","company_url":"","normalized_name":"amster"}}
+{"_index":"test","_id":"kdyK_4MBn_Meu5TxY2bp","_score":1,"_source":{"company_name":"Intl Construction","query_string":"Conistics Inc.","company_url":"","normalized_name":"conistics"}}
+{"_index":"test","_id":"WtyK_4MBn_Meu5TxSGbL","_score":1,"_source":{"company_name":"Point 7","query_string":"Xuhuacheng (Suzhou) Composite Plastic Co., Ltd.","company_url":"","normalized_name":"point"}}
+{"_index":"test","_id":"W9yK_4MBn_Meu5TxSWYD","_score":1,"_source":{"company_name":"Same As","query_string":"Hutchinson Autopartes Mexico","company_url":"","normalized_name":"same"}}
+{"_index":"test","_id":"XNyK_4MBn_Meu5TxS2YI","_score":1,"_source":{"company_name":"Supply Solutions De Mexico Sa De Cv","query_string":"Utc","company_url":"","normalized_name":"utc"}}
+{"_index":"test","_id":"XdyK_4MBn_Meu5TxTGaU","_score":1,"_source":{"company_name":"Dunnes Stores","query_string":"Trb International","company_url":"","normalized_name":"dunnes stores"}}
+{"_index":"test","_id":"ktyK_4MBn_Meu5TxZ2Yk","_score":1,"_source":{"company_name":"Jama","query_string":"Productores De Envases Farmaceuticos S A S Proenfar S A S","company_url":"","normalized_name":"jama"}}
+{"_index":"test","_id":"k9yK_4MBn_Meu5TxZ2Zm","_score":1,"_source":{"company_name":"Sumitomo Corporation Of America","query_string":"Daricia Ltd.","company_url":"","normalized_name":"daricia"}}
+{"_index":"test","_id":"lNyK_4MBn_Meu5TxaGYb","_score":1,"_source":{"company_name":"Ambica Corp","query_string":"Vietnam Bank For","company_url":"","normalized_name":"ambica"}}
+{"_index":"test","_id":"XtyK_4MBn_Meu5TxTWbt","_score":1,"_source":{"company_name":"Sportstop S.A.","query_string":"Professional's Choice Sports","company_url":"","normalized_name":"sportstop"}}
+{"_index":"test","_id":"X9yK_4MBn_Meu5TxTmZs","_score":1,"_source":{"company_name":"Pcs (Pty) Ltd.","query_string":"Qingdao Binjie International Logistics Co., Ltd.","company_url":"","normalized_name":"pcs pty"}}
+{"_index":"test","_id":"I9yK_4MBn_Meu5Txq2c9","_score":1,"_source":{"company_name":"Mars Llc","query_string":"Mark Thomas Mfg. Co.","company_url":"","normalized_name":"mars"}}
+{"_index":"test","_id":"JNyK_4MBn_Meu5Txq2fq","_score":1,"_source":{"company_name":"Psa Corporation","query_string":"Usaid Haiti","company_url":"","normalized_name":"usaid"}}
+{"_index":"test","_id":"JdyK_4MBn_Meu5TxrGdO","_score":1,"_source":{"company_name":"LION COPOLYMER HOLDINGS LLC","query_string":"NICHIREKI    ","company_url":"","normalized_name":"nichireki"}}
+{"_index":"test","_id":"JtyK_4MBn_Meu5TxrGe7","_score":1,"_source":{"company_name":"Societe General Paris T","query_string":"Soccer International Pvt., Ltd.","company_url":"","normalized_name":"societe"}}
+{"_index":"test","_id":"J9yK_4MBn_Meu5TxrWcQ","_score":1,"_source":{"company_name":"S K International","query_string":"Smyths Toys Hq","company_url":"","normalized_name":"smyths toys hq"}}
+{"_index":"test","_id":"KNyK_4MBn_Meu5TxrWex","_score":1,"_source":{"company_name":"Bulmarket DM Ltd.","query_string":"RENIA","company_url":"","normalized_name":"renia"}}
+{"_index":"test","_id":"KdyK_4MBn_Meu5Txrmcs","_score":1,"_source":{"company_name":"Roots Multiclean","query_string":"Multiflex Srl .","company_url":"","normalized_name":"multiflex"}}
+{"_index":"test","_id":"KtyK_4MBn_Meu5TxrmdJ","_score":1,"_source":{"company_name":"Shenzhen Shun Hongle Trade Co., Ltd.","query_string":"Henkel Ltda","company_url":"","normalized_name":"henkel"}}
+{"_index":"test","_id":"K9yK_4MBn_Meu5Txrmdl","_score":1,"_source":{"company_name":"Den And Will Synthetic Turf","query_string":"Ft Synthetics Inc.","company_url":"","normalized_name":"ft synthetics"}}
+{"_index":"test","_id":"LNyK_4MBn_Meu5TxrmeE","_score":1,"_source":{"company_name":"Farmacap Industries Stria E Com Rcio Ltda","query_string":"Tes Uk","company_url":"","normalized_name":"tes"}}
+{"_index":"test","_id":"CNyK_4MBn_Meu5Txm2d-","_score":1,"_source":{"company_name":"Sh Hitech Corporation","query_string":"The Home Fashion Technologies","company_url":"","normalized_name":"sh hitech"}}
+{"_index":"test","_id":"CdyK_4MBn_Meu5Txm2e2","_score":1,"_source":{"company_name":"IES/BATEC","query_string":"KVK Corporation","company_url":"","normalized_name":"ies batec"}}
+{"_index":"test","_id":"CtyK_4MBn_Meu5Txm2f8","_score":1,"_source":{"company_name":"Industrias Cazel S De Rl De Cv","query_string":"Industrias Lember Ltda","company_url":"","normalized_name":"lember"}}
+{"_index":"test","_id":"C9yK_4MBn_Meu5TxnWc_","_score":1,"_source":{"company_name":"D3 Tape","query_string":"Shanghai Type & Rubber Co., Ltd.","company_url":"","normalized_name":"dtape"}}
+{"_index":"test","_id":"DNyK_4MBn_Meu5TxnWd8","_score":1,"_source":{"company_name":"Dura Build Care Private Ltd.","query_string":"Nu Vu Conair Private Ltd.","company_url":"","normalized_name":"nu vu conair"}}
+{"_index":"test","_id":"DdyK_4MBn_Meu5TxnWfV","_score":1,"_source":{"company_name":"Byte Trading","query_string":"Brothers Trading Co.","company_url":"","normalized_name":"byte"}}
+{"_index":"test","_id":"DtyK_4MBn_Meu5TxnmcJ","_score":1,"_source":{"company_name":"Seko Worldwide","query_string":"Catwalk Worldwide Pvt., Ltd.","company_url":"","normalized_name":"seko worldwide"}}
+{"_index":"test","_id":"D9yK_4MBn_Meu5Txnmdh","_score":1,"_source":{"company_name":"Ab Decor Llc","query_string":"Escorts","company_url":"","normalized_name":"escorts"}}
+{"_index":"test","_id":"ENyK_4MBn_Meu5Txnmd9","_score":1,"_source":{"company_name":"Soft Walk Shoes","query_string":"K. J. International","company_url":"","normalized_name":"soft walk shoes"}}
+{"_index":"test","_id":"AdyK_4MBn_Meu5Txl2dJ","_score":1,"_source":{"company_name":"Fortunatekstil Llc","query_string":"Altek International (Pvt) Ltd.","company_url":"","normalized_name":"fortunatekstil"}}
+{"_index":"test","_id":"AtyK_4MBn_Meu5TxmGdN","_score":1,"_source":{"company_name":"Prince International","query_string":"Spicejet Ltd.","company_url":"","normalized_name":"spicejet"}}
+{"_index":"test","_id":"A9yK_4MBn_Meu5TxmGeD","_score":1,"_source":{"company_name":"Global Transportation Service Se","query_string":"Ege Trans","company_url":"","normalized_name":"ege trans"}}
+{"_index":"test","_id":"BNyK_4MBn_Meu5TxmWcf","_score":1,"_source":{"company_name":"Wenzhou Jiatai Latex","query_string":"Africatex Sa","company_url":"","normalized_name":"africatex"}}
+{"_index":"test","_id":"BdyK_4MBn_Meu5TxmWeC","_score":1,"_source":{"company_name":"Klinge Corporation","query_string":"Linea De Seguridad S.L.","company_url":"","normalized_name":"klinge"}}
+{"_index":"test","_id":"BtyK_4MBn_Meu5TxmWfZ","_score":1,"_source":{"company_name":"Vulcaflex Industria E Comercio Ltda","query_string":"Vulco S.A.","company_url":"","normalized_name":"vulco"}}
+{"_index":"test","_id":"B9yK_4MBn_Meu5Txm2cB","_score":1,"_source":{"company_name":"Al Rashed Tires Co. Llc","query_string":"Faisal Rashid L.T.D.","company_url":"","normalized_name":"faisal rashid"}}
+{"_index":"test","_id":"FtyK_4MBn_Meu5Txo2ff","_score":1,"_source":{"company_name":"365 Incorprated","query_string":"Ram International","company_url":"","normalized_name":"incorprated"}}
+{"_index":"test","_id":"F9yK_4MBn_Meu5TxpGdV","_score":1,"_source":{"company_name":"Mitsubishi Logistics America","query_string":"Subsino Inc.","company_url":"","normalized_name":"subsino"}}
+{"_index":"test","_id":"GNyK_4MBn_Meu5TxpGe-","_score":1,"_source":{"company_name":"Royal Tex","query_string":"Otsuka Materials Technology (Shanghai) Co., Ltd.","company_url":"","normalized_name":"royal tex"}}
+{"_index":"test","_id":"GdyK_4MBn_Meu5TxpWfy","_score":1,"_source":{"company_name":"Hisvima S.L","query_string":"Divyanshi Aviation Services Pvt., Ltd.","company_url":"","normalized_name":"hisvima"}}
+{"_index":"test","_id":"GtyK_4MBn_Meu5Txpmdm","_score":1,"_source":{"company_name":"ATAB ","query_string":"Oldcastle Building Products, Inc.","company_url":"","normalized_name":"atab"}}
+{"_index":"test","_id":"G9yK_4MBn_Meu5Txpme4","_score":1,"_source":{"company_name":"Millenium Papers Pvt., Ltd.","query_string":"Molten Corporation","company_url":"","normalized_name":"molten"}}
+{"_index":"test","_id":"HNyK_4MBn_Meu5Txpmff","_score":1,"_source":{"company_name":"Maltacourt (Canada) Ltd. 6300 No","query_string":"Alzico Ltd.","company_url":"","normalized_name":"alzico"}}
+{"_index":"test","_id":"HdyK_4MBn_Meu5Txp2cy","_score":1,"_source":{"company_name":"Kolora Ink And Chemical Corp.","query_string":"Kink Co.","company_url":"","normalized_name":"kink"}}
+{"_index":"test","_id":"HtyK_4MBn_Meu5Txp2dw","_score":1,"_source":{"company_name":"Dalpo Poznan Sp Z O O SpOlka Komandytowa","query_string":"STRABAG ","company_url":"","normalized_name":"strabag"}}
+{"_index":"test","_id":"H9yK_4MBn_Meu5TxqGc-","_score":1,"_source":{"company_name":"Wurfbain Polymer B.V.","query_string":"Kratonpolymers","company_url":"","normalized_name":"kratonpolymers"}}
+{"_index":"test","_id":"INyK_4MBn_Meu5TxqGex","_score":1,"_source":{"company_name":"Sgws Indiana","query_string":"Echo Engineering Indianapolis","company_url":"","normalized_name":"sgws"}}
+{"_index":"test","_id":"IdyK_4MBn_Meu5Txqmc1","_score":1,"_source":{"company_name":"Hilanderia Y Textiles Urcos Empresa Indi","query_string":"Textiles Omnes S.A.","company_url":"","normalized_name":"omnes"}}
+{"_index":"test","_id":"ItyK_4MBn_Meu5Txqme0","_score":1,"_source":{"company_name":"Rfe International Inc.","query_string":"Gazebo Restaurant","company_url":"","normalized_name":"gazebo restaurant"}}
+{"_index":"test","_id":"EdyK_4MBn_Meu5Txn2c1","_score":1,"_source":{"company_name":"Trimac Products Private Ltd.","query_string":"Fospak Private Ltd.","company_url":"","normalized_name":"fospak"}}
+{"_index":"test","_id":"EtyK_4MBn_Meu5Txn2dO","_score":1,"_source":{"company_name":"Iigm Private Ltd.","query_string":"Lomex India Private Ltd.","company_url":"","normalized_name":"iigm"}}
+{"_index":"test","_id":"E9yK_4MBn_Meu5Txn2d0","_score":1,"_source":{"company_name":"Zhangjiagang Bonded Area Shunchang International Logistics Co., Ltd.","query_string":"Nangang (Zhangjiagang Bonded Area) Rubber Industry Co., Ltd.","company_url":"","normalized_name":"nangang"}}
+{"_index":"test","_id":"FNyK_4MBn_Meu5TxoGcZ","_score":1,"_source":{"company_name":"Hossain And Co.","query_string":"Jiangsu Sainty International Group Machinery Imp. & Exp. Co., Ltd.","company_url":"","normalized_name":"hossain and"}}
+{"_index":"test","_id":"FdyK_4MBn_Meu5TxoGeL","_score":1,"_source":{"company_name":"EIFFAGE","query_string":"IMPER","company_url":"","normalized_name":"imper"}}
+{"_index":"test","_id":"-9yK_4MBn_Meu5Txk2bN","_score":1,"_source":{"company_name":"Pacific Cup Inc.","query_string":"Versalis Pacific Trading (Shanghai)","company_url":"","normalized_name":"pacific cup"}}
+{"_index":"test","_id":"_NyK_4MBn_Meu5TxlGYg","_score":1,"_source":{"company_name":"Omron Automative Electronics Inc.","query_string":"Eet","company_url":"","normalized_name":"eet"}}
+{"_index":"test","_id":"_dyK_4MBn_Meu5TxlGY7","_score":1,"_source":{"company_name":"Ningbo Hemei Plastic Co., Ltd.","query_string":"Smtc","company_url":"","normalized_name":"smtc"}}
+{"_index":"test","_id":"_tyK_4MBn_Meu5TxlmZ7","_score":1,"_source":{"company_name":"Latexa Co. Sa De Cv","query_string":"Zhejiang Hailide New Material Co.","company_url":"","normalized_name":"latexa"}}
+{"_index":"test","_id":"_9yK_4MBn_Meu5Txlma3","_score":1,"_source":{"company_name":"Dip Plc","query_string":"Terra Nova Trading Ltda","company_url":"","normalized_name":"dip"}}
+{"_index":"test","_id":"ANyK_4MBn_Meu5Txlmf7","_score":1,"_source":{"company_name":"Anki Inc.","query_string":"Banistmo Bank","company_url":"","normalized_name":"anki"}}
+{"_index":"test","_id":"99yK_4MBn_Meu5TxkWYD","_score":1,"_source":{"company_name":"Malaya Rub Tech Industries","query_string":"Indus \"Rti\" Llc","company_url":"","normalized_name":"indus rti"}}
+{"_index":"test","_id":"-NyK_4MBn_Meu5TxkWY8","_score":1,"_source":{"company_name":"Nisar Spinning Mills Pvt., Ltd.","query_string":"Sina Tab Kashan Spinning Co.","company_url":"","normalized_name":"sina tab"}}
+{"_index":"test","_id":"-dyK_4MBn_Meu5TxkWZv","_score":1,"_source":{"company_name":"Xplasts.A","query_string":"Idt Plastic Co., Ltd. In Guangzhou","company_url":"","normalized_name":"xplasts"}}
+{"_index":"test","_id":"-tyK_4MBn_Meu5Txk2Yg","_score":1,"_source":{"company_name":"Rainco Ltda","query_string":"Shipco Transport (Bayonne) Inc.","company_url":"","normalized_name":"rainco"}}
+{"_index":"test","_id":"LdyK_4MBn_Meu5TxsGd7","_score":1,"_source":{"company_name":"Athena Multitrade Private Ltd.","query_string":"Oliveplanet Private Ltd.","company_url":"","normalized_name":"oliveplanet"}}
+{"_index":"test","_id":"LtyK_4MBn_Meu5TxsmdQ","_score":1,"_source":{"company_name":"IZOLACJA - JAROCIN SPÓŁKA AKCYJNA","query_string":"avery dennison","company_url":"","normalized_name":"dennison"}}
+{"_index":"test","_id":"L9yK_4MBn_Meu5Txsmef","_score":1,"_source":{"company_name":"Charmers Sportswear","query_string":"Prome Port Ltda","company_url":"","normalized_name":"prome port"}}
+{"_index":"test","_id":"TdyK_4MBn_Meu5Txxmdf","_score":1,"_source":{"company_name":"Clipper Transportes Internacionais","query_string":"Ipex Inc.","company_url":"","normalized_name":"ipex"}}
+{"_index":"test","_id":"TtyK_4MBn_Meu5Txx2cF","_score":1,"_source":{"company_name":"Classic Furniture","query_string":"Philippine Bed & Furniture Mfg. Corp","company_url":"","normalized_name":"classic furniture"}}
+{"_index":"test","_id":"T9yK_4MBn_Meu5Txx2dk","_score":1,"_source":{"company_name":"Aymod Ayakkabi Tekstil Ve Malzemeleri Sanayi Ve Ticaret A S","query_string":"LION COPOLYMER HOLDINGS LLC","company_url":"","normalized_name":"copolymer holdings"}}
+{"_index":"test","_id":"UNyK_4MBn_Meu5Txx2d9","_score":1,"_source":{"company_name":"Geodis","query_string":"China Wonderland Nurserygoods Co., Ltd.","company_url":"","normalized_name":"geodis"}}
+{"_index":"test","_id":"UdyK_4MBn_Meu5Txx2eb","_score":1,"_source":{"company_name":"Geodis","query_string":"Produits Rlc Inc.","company_url":"","normalized_name":"geodis"}}
+{"_index":"test","_id":"UtyK_4MBn_Meu5TxyGcC","_score":1,"_source":{"company_name":"Baluja Shoe Co.","query_string":"D.S International","company_url":"","normalized_name":"baluja shoe"}}
+{"_index":"test","_id":"U9yK_4MBn_Meu5TxyGfK","_score":1,"_source":{"company_name":"G B Corporation","query_string":"Lepan Baft Co.","company_url":"","normalized_name":"lepan baft"}}
+{"_index":"test","_id":"VNyK_4MBn_Meu5TxyWdx","_score":1,"_source":{"company_name":"Pardhan Rubbers","query_string":"S.R. International","company_url":"","normalized_name":"pardhan rubbers"}}
+{"_index":"test","_id":"M9yK_4MBn_Meu5Txtmf5","_score":1,"_source":{"company_name":"Polimeros Especiales Y Trabajos De Restauracion Arquitectonicasa De Cv","query_string":"Linmot S.C","company_url":"","normalized_name":"linmot"}}
+{"_index":"test","_id":"NNyK_4MBn_Meu5TxuGcV","_score":1,"_source":{"company_name":"S.R. International","query_string":"Nsw Packcentre","company_url":"","normalized_name":"nsw packcentre"}}
+{"_index":"test","_id":"NdyK_4MBn_Meu5TxuGdR","_score":1,"_source":{"company_name":"Guangzhou Liang Food Co., Ltd.","query_string":"Quanzhou C And D Co., Ltd.","company_url":"","normalized_name":"quanzhou"}}
+{"_index":"test","_id":"NtyK_4MBn_Meu5TxuGdy","_score":1,"_source":{"company_name":"Prosper Inc.","query_string":"American Foods Peru Eirl","company_url":"","normalized_name":"prosper"}}
+{"_index":"test","_id":"N9yK_4MBn_Meu5TxuGek","_score":1,"_source":{"company_name":"Madesal Sa","query_string":"Worldwide Logistics (Usa) Ltd.","company_url":"","normalized_name":"madesal"}}
+{"_index":"test","_id":"ONyK_4MBn_Meu5TxuWdL","_score":1,"_source":{"company_name":"Silver Limitada","query_string":"Tata International","company_url":"","normalized_name":"silver limitada"}}
+{"_index":"test","_id":"OdyK_4MBn_Meu5Txumce","_score":1,"_source":{"company_name":"Nilit Ltd.","query_string":"Xiamen Sunlit Corporation Ltd.","company_url":"","normalized_name":"nilit"}}
+{"_index":"test","_id":"OtyK_4MBn_Meu5TxumeN","_score":1,"_source":{"company_name":"Driscoll's","query_string":"Saco","company_url":"","normalized_name":"saco"}}
+{"_index":"test","_id":"P9yK_4MBn_Meu5Txv2cJ","_score":1,"_source":{"company_name":"Acs International Sa De Cv","query_string":"Applied Machining Corp","company_url":"","normalized_name":"applied machining"}}
+{"_index":"test","_id":"QNyK_4MBn_Meu5Txv2c4","_score":1,"_source":{"company_name":"Hayden Real Estate","query_string":"Al Tec International","company_url":"","normalized_name":"hayden real estate"}}
+{"_index":"test","_id":"QdyK_4MBn_Meu5Txv2dV","_score":1,"_source":{"company_name":"Mass D.O.O.","query_string":"Mashad Spinning Co.","company_url":"","normalized_name":"mass"}}
+{"_index":"test","_id":"QtyK_4MBn_Meu5Txv2dz","_score":1,"_source":{"company_name":"Schlumberger Surenco S.A","query_string":"Berger","company_url":"","normalized_name":"berger"}}
+{"_index":"test","_id":"Q9yK_4MBn_Meu5TxwGeD","_score":1,"_source":{"company_name":"Nathan Gremmo Community Fund Inc.","query_string":"Cathay","company_url":"","normalized_name":"cathay"}}
+{"_index":"test","_id":"RNyK_4MBn_Meu5TxwWd9","_score":1,"_source":{"company_name":"Meditec Devices","query_string":"Devik International Inc.","company_url":"","normalized_name":"meditec devices"}}
+{"_index":"test","_id":"RdyK_4MBn_Meu5TxwWfd","_score":1,"_source":{"company_name":"Audio Co., Ltd., Dongguan Lifeng","query_string":"Dong Quang Spining Corporation","company_url":"","normalized_name":"dong quang spining"}}
+{"_index":"test","_id":"RtyK_4MBn_Meu5TxwmdF","_score":1,"_source":{"company_name":"Psa Corporation","query_string":"Plastronics","company_url":"","normalized_name":"plastronics"}}
+{"_index":"test","_id":"R9yK_4MBn_Meu5Txwme1","_score":1,"_source":{"company_name":"Kisco Ltd.","query_string":"Almacen Criscolit S A S","company_url":"","normalized_name":"kisco"}}
+{"_index":"test","_id":"SNyK_4MBn_Meu5Txw2cF","_score":1,"_source":{"company_name":"Cota S.A.","query_string":"Ningbo Talent Trading Co., Ltd.","company_url":"","normalized_name":"cota"}}
+{"_index":"test","_id":"SdyK_4MBn_Meu5Txw2dM","_score":1,"_source":{"company_name":"Agencias Pya De Repres.Sa","query_string":"Rogers Corp.","company_url":"","normalized_name":"rogers"}}
+{"_index":"test","_id":"StyK_4MBn_Meu5TxxWd0","_score":1,"_source":{"company_name":"Polichemi S.L.","query_string":"Zhongshan Chengtai Chemical Technology Co., Ltd.","company_url":"","normalized_name":"polichemi"}}
+{"_index":"test","_id":"S9yK_4MBn_Meu5TxxmcD","_score":1,"_source":{"company_name":"Fazeel Enterprises","query_string":"Iturri Sa","company_url":"","normalized_name":"iturri"}}
+{"_index":"test","_id":"TNyK_4MBn_Meu5Txxmc_","_score":1,"_source":{"company_name":"Kami Corp.","query_string":"Cempaka Importacao Exportacao Comercial Ltda Epp","company_url":"","normalized_name":"kami"}}
+{"_index":"test","_id":"WdyK_4MBn_Meu5Txz2cF","_score":1,"_source":{"company_name":"Saint-Gobain Corporation","query_string":"Perretti Petroli S.p.a.","company_url":"","normalized_name":"petroli"}}
+{"_index":"test","_id":"WtyK_4MBn_Meu5Tx0Gcp","_score":1,"_source":{"company_name":"Blk International (Pty) Ltd.","query_string":"C7 Global","company_url":"","normalized_name":"cglobal"}}
+{"_index":"test","_id":"W9yK_4MBn_Meu5Tx0Ge7","_score":1,"_source":{"company_name":"Bushra Trading","query_string":"Trends City General Trading Llc","company_url":"","normalized_name":"bushra"}}
+{"_index":"test","_id":"XNyK_4MBn_Meu5Tx0Wd1","_score":1,"_source":{"company_name":"Nishida Art Speciality Composite","query_string":"Weir Specialty Pumps","company_url":"","normalized_name":"weir specialty pumps"}}
+{"_index":"test","_id":"XdyK_4MBn_Meu5Tx0We_","_score":1,"_source":{"company_name":"Finchem Pvt., Ltd.","query_string":"Rychem Llc","company_url":"","normalized_name":"rychem"}}
+{"_index":"test","_id":"VdyK_4MBn_Meu5Txymez","_score":1,"_source":{"company_name":"Ceva Logistics Canada Corp.","query_string":"Cosvan Ltda","company_url":"","normalized_name":"cosvan"}}
+{"_index":"test","_id":"VtyK_4MBn_Meu5TxzGcv","_score":1,"_source":{"company_name":"M & T Logistica Sociedad Anonima Cerrada","query_string":"Kyni Consulting Sociedad Anonima","company_url":"","normalized_name":"kyni consulting"}}
+{"_index":"test","_id":"V9yK_4MBn_Meu5TxzGf_","_score":1,"_source":{"company_name":"Yara North America","query_string":"Epic","company_url":"","normalized_name":"epic"}}
+{"_index":"test","_id":"WNyK_4MBn_Meu5TxzWem","_score":1,"_source":{"company_name":"Waratah Forestry","query_string":"Trp International Inc.","company_url":"","normalized_name":"waratah forestry"}}
+{"_index":"test","_id":"O9yK_4MBn_Meu5Txu2d4","_score":1,"_source":{"company_name":"Mawarid Al Attaa Trading Est","query_string":"Automax Trading","company_url":"","normalized_name":"automax"}}
+{"_index":"test","_id":"PNyK_4MBn_Meu5Txu2fQ","_score":1,"_source":{"company_name":"Micha A/S","query_string":"Rohel Chemicals & Compounds Pvt., Ltd.","company_url":"","normalized_name":"micha"}}
+{"_index":"test","_id":"PdyK_4MBn_Meu5TxvmcH","_score":1,"_source":{"company_name":"Delard Ltda","query_string":"Expeditors Cleveland Branch","company_url":"","normalized_name":"delard"}}
+{"_index":"test","_id":"PtyK_4MBn_Meu5Txvmdr","_score":1,"_source":{"company_name":"Forma2004 Srl .","query_string":"Vandegrift Forwarding Co. Inc.","company_url":"","normalized_name":"forma"}}
+{"_index":"test","_id":"MNyK_4MBn_Meu5Txs2ep","_score":1,"_source":{"company_name":"Dresco","query_string":"Deinde Sport","company_url":"","normalized_name":"dresco"}}
+{"_index":"test","_id":"MdyK_4MBn_Meu5TxtGe7","_score":1,"_source":{"company_name":"Robertsonindustries Inc.","query_string":"Evergreen Industries (Vietnam)","company_url":"","normalized_name":"robertsonindustries"}}
+{"_index":"test","_id":"MtyK_4MBn_Meu5TxtWcZ","_score":1,"_source":{"company_name":"Moveis Katzer Ltda","query_string":"Kriska","company_url":"","normalized_name":"kriska"}}
+{"_index":"test","_id":"XtyK_4MBn_Meu5Tx02cq","_score":1,"_source":{"company_name":"N J International Inc.","query_string":"Busi & Stephenson Ltd.","company_url":"","normalized_name":"busi stephenson"}}
+{"_index":"test","_id":"X9yK_4MBn_Meu5Tx1Gdr","_score":1,"_source":{"company_name":"Mach Part","query_string":"Damco Usa (Charlotte)","company_url":"","normalized_name":"mach"}}
+{"_index":"test","_id":"YNyK_4MBn_Meu5Tx1Wec","_score":1,"_source":{"company_name":"Nalco","query_string":"Papelera Nacional","company_url":"","normalized_name":"nalco"}}
+{"_index":"test","_id":"odyK_4MBn_Meu5Tx_WdO","_score":1,"_source":{"company_name":"ALLNEX (NUPLEX)","query_string":"Simge Mat Madencilik Asfalt Ticaret Ve Sanayi Anonim Sirketi","company_url":"","normalized_name":"nuplex"}}
+{"_index":"test","_id":"otyK_4MBn_Meu5Tx_Wdo","_score":1,"_source":{"company_name":"Copefi - Components For Automotive, S.A.","query_string":"Nizhnekamskneftekhim","company_url":"","normalized_name":"nizhnekamskneftekhim"}}
+{"_index":"test","_id":"o9yK_4MBn_Meu5Tx_Wev","_score":1,"_source":{"company_name":"Aim International","query_string":"Mohd Khamis Kombo","company_url":"","normalized_name":"mohd khamis kombo"}}
+{"_index":"test","_id":"pNyK_4MBn_Meu5Tx_WfT","_score":1,"_source":{"company_name":"American Power Cord Corp.","query_string":"Manbow","company_url":"","normalized_name":"manbow"}}
+{"_index":"test","_id":"pdyK_4MBn_Meu5Tx_mcB","_score":1,"_source":{"company_name":"Tianjin Fu Lu Communication Technology Co., Ltd.","query_string":"Acero Tecnologia Sa De Cv","company_url":"","normalized_name":"acero tecnologia"}}
+{"_index":"test","_id":"ptyK_4MBn_Meu5Tx_mcw","_score":1,"_source":{"company_name":"Boc International Inc.","query_string":"Smiley Monroe (Docks)","company_url":"","normalized_name":"smiley monroe"}}
+{"_index":"test","_id":"p9yK_4MBn_Meu5Tx_mdg","_score":1,"_source":{"company_name":"Donan Marketing","query_string":"Nanimarquina","company_url":"","normalized_name":"nanimarquina"}}
+{"_index":"test","_id":"qNyK_4MBn_Meu5Tx_meS","_score":1,"_source":{"company_name":"T.A. Corporation Pvt., Ltd.","query_string":"Pendragon Wales Ltd.","company_url":"","normalized_name":"pendragon wales"}}
+{"_index":"test","_id":"qdyK_4MBn_Meu5Tx_2eN","_score":1,"_source":{"company_name":"Ashoka Inc.","query_string":"A S International","company_url":"","normalized_name":"ashoka"}}
+{"_index":"test","_id":"qtyL_4MBn_Meu5TxAGdD","_score":1,"_source":{"company_name":"Speed (Private) Ltd.","query_string":"Reliance Clothing India Private Ltd.","company_url":"","normalized_name":"speed private"}}
+{"_index":"test","_id":"q9yL_4MBn_Meu5TxAGdg","_score":1,"_source":{"company_name":"Transit Br International Transport","query_string":"Asix Corporation","company_url":"","normalized_name":"asix"}}
+{"_index":"test","_id":"tNyL_4MBn_Meu5TxCWe1","_score":1,"_source":{"company_name":"Nec/Tokin Electronics (Wujiang) Corp.","query_string":"St Microelectronics","company_url":"","normalized_name":"st microelectronics"}}
+{"_index":"test","_id":"tdyL_4MBn_Meu5TxCmc6","_score":1,"_source":{"company_name":"Vystar Corporation","query_string":"Navistar Big Bore Diesels Llc","company_url":"","normalized_name":"vystar"}}
+{"_index":"test","_id":"ttyL_4MBn_Meu5TxCmd2","_score":1,"_source":{"company_name":"Everest Global Freight Service Inc.","query_string":"T3 Global Projects","company_url":"","normalized_name":"tglobal projects"}}
+{"_index":"test","_id":"t9yL_4MBn_Meu5TxCmeO","_score":1,"_source":{"company_name":"Topocean Consolidation Service","query_string":"Oxea Corporation","company_url":"","normalized_name":"oxea"}}
+{"_index":"test","_id":"uNyL_4MBn_Meu5TxCmep","_score":1,"_source":{"company_name":"Fragmat TIM d.o.o.","query_string":"Q8 OILS","company_url":"","normalized_name":"qoils"}}
+{"_index":"test","_id":"udyL_4MBn_Meu5TxCmfk","_score":1,"_source":{"company_name":"Harris & Menuk Chemicals Private Ltd.","query_string":"Acs Per","company_url":"","normalized_name":"acs per"}}
+{"_index":"test","_id":"utyL_4MBn_Meu5TxC2c3","_score":1,"_source":{"company_name":"Mll","query_string":"Armacell Llc Conover Plant","company_url":"","normalized_name":"mll"}}
+{"_index":"test","_id":"u9yL_4MBn_Meu5TxDGcI","_score":1,"_source":{"company_name":"Com. International Ltda","query_string":"Papelera Nacional","company_url":"","normalized_name":"papelera nacional"}}
+{"_index":"test","_id":"vNyL_4MBn_Meu5TxDGcq","_score":1,"_source":{"company_name":"Pampeiro Comercio Imp.","query_string":"Eurocom","company_url":"","normalized_name":"eurocom"}}
+{"_index":"test","_id":"vdyL_4MBn_Meu5TxDGe6","_score":1,"_source":{"company_name":"Athalonz Llc","query_string":"Decathlon Cac Prat De Llobregat","company_url":"","normalized_name":"athalonz"}}
+{"_index":"test","_id":"vtyL_4MBn_Meu5TxDWcE","_score":1,"_source":{"company_name":"Samson International Ltd.","query_string":"Kody Thompson","company_url":"","normalized_name":"kody thompson"}}
+{"_index":"test","_id":"xNyL_4MBn_Meu5TxEWeW","_score":1,"_source":{"company_name":"Indupro Llc","query_string":"Korlead Industries Co., Ltd.","company_url":"","normalized_name":"indupro"}}
+{"_index":"test","_id":"xdyL_4MBn_Meu5TxEmes","_score":1,"_source":{"company_name":"Continental Device India Private Ltd.","query_string":"Chadha Corporation Private Ltd.","company_url":"","normalized_name":"chadha corporation"}}
+{"_index":"test","_id":"xtyL_4MBn_Meu5TxE2dH","_score":1,"_source":{"company_name":"T.A. Corporation Pvt., Ltd.","query_string":"Supasport Whole Sale Ltd.","company_url":"","normalized_name":"supasport whole sale"}}
+{"_index":"test","_id":"x9yL_4MBn_Meu5TxE2d1","_score":1,"_source":{"company_name":"Uttam Plastomers Private Ltd.","query_string":"Tolins Tyres Private Ltd.","company_url":"","normalized_name":"tyres"}}
+{"_index":"test","_id":"yNyL_4MBn_Meu5TxE2eW","_score":1,"_source":{"company_name":"Wiegand Sa Cv","query_string":"Fortuna Global Shipping And Logisti","company_url":"","normalized_name":"wiegand"}}
+{"_index":"test","_id":"ydyL_4MBn_Meu5TxFGcS","_score":1,"_source":{"company_name":"Lathia Indl Supplies Co P L","query_string":"West Coast Industrial Supplies","company_url":"","normalized_name":"lathia indl supplies"}}
+{"_index":"test","_id":"ytyL_4MBn_Meu5TxFGc3","_score":1,"_source":{"company_name":"Zhejiang Fenfei Rubber & Plastic Products Co., Ltd.","query_string":"Raj Rubber & Plastic Ind.","company_url":"","normalized_name":"ind"}}
+{"_index":"test","_id":"y9yL_4MBn_Meu5TxFGeR","_score":1,"_source":{"company_name":"Saint-Gobain Corporation","query_string":"HYDROTECH MEMBRANES","company_url":"","normalized_name":"hydrotech"}}
+{"_index":"test","_id":"mdyK_4MBn_Meu5Tx-me9","_score":1,"_source":{"company_name":"Bpi Brake Mfg. Juarez Sa De Cv","query_string":"Adikem Sdn Bhd","company_url":"","normalized_name":"adikem"}}
+{"_index":"test","_id":"mtyK_4MBn_Meu5Tx-mfb","_score":1,"_source":{"company_name":"Alpha Trading S.p.a","query_string":"Eosso Brothers, Inc","company_url":"","normalized_name":"eosso brothers"}}
+{"_index":"test","_id":"m9yK_4MBn_Meu5Tx-2cM","_score":1,"_source":{"company_name":"Parker Mixing Industries Oring Divi","query_string":"Industrias Cadile Srl","company_url":"","normalized_name":"cadile"}}
+{"_index":"test","_id":"nNyK_4MBn_Meu5Tx-2cn","_score":1,"_source":{"company_name":"Shaker Group Co.","query_string":"Hae In Corp.","company_url":"","normalized_name":"hae in"}}
+{"_index":"test","_id":"ndyK_4MBn_Meu5Tx-2ep","_score":1,"_source":{"company_name":"Prida","query_string":"Kmc Electronics Private Ltd.","company_url":"","normalized_name":"prida"}}
+{"_index":"test","_id":"ntyK_4MBn_Meu5Tx-2fU","_score":1,"_source":{"company_name":"Weber & Schaer","query_string":"Soccer International Pvt., Ltd.","company_url":"","normalized_name":"weber schaer"}}
+{"_index":"test","_id":"n9yK_4MBn_Meu5Tx_Gen","_score":1,"_source":{"company_name":"Just Perfect","query_string":"Master International","company_url":"","normalized_name":"perfect"}}
+{"_index":"test","_id":"oNyK_4MBn_Meu5Tx_WcY","_score":1,"_source":{"company_name":"Exhibition Union Electric (Shenzhen) Co., Ltd.","query_string":"Union Cement Co.","company_url":"","normalized_name":"union cement"}}
+{"_index":"test","_id":"v9yL_4MBn_Meu5TxDWdZ","_score":1,"_source":{"company_name":"Wurfbain Polymer B.V.","query_string":"Kraton Polymers Us. Llc","company_url":"","normalized_name":"wurfbain polymer"}}
+{"_index":"test","_id":"wNyL_4MBn_Meu5TxDWfH","_score":1,"_source":{"company_name":"Valeo Friction Materials India Private Ltd.","query_string":"Team Aviation ( India ) Private Ltd.","company_url":"","normalized_name":"team aviation"}}
+{"_index":"test","_id":"wdyL_4MBn_Meu5TxDmcU","_score":1,"_source":{"company_name":"Good Rice & Spice","query_string":"Motodrive S A De C V","company_url":"","normalized_name":"good rice spice"}}
+{"_index":"test","_id":"wtyL_4MBn_Meu5TxD2eN","_score":1,"_source":{"company_name":"DANOSA FRANCE","query_string":"MOL","company_url":"","normalized_name":"mol"}}
+{"_index":"test","_id":"w9yL_4MBn_Meu5TxD2fk","_score":1,"_source":{"company_name":"Land Mark Srl #1343","query_string":"Derivados Macroquimicos Sa De Cv","company_url":"","normalized_name":"mark"}}
+{"_index":"test","_id":"rNyL_4MBn_Meu5TxAme0","_score":1,"_source":{"company_name":"Barco","query_string":"Arcor Do Brasil Ltda","company_url":"","normalized_name":"barco"}}
+{"_index":"test","_id":"rdyL_4MBn_Meu5TxBGcl","_score":1,"_source":{"company_name":"Snake River Robotics","query_string":"Anker International Llc","company_url":"","normalized_name":"snake river robotics"}}
+{"_index":"test","_id":"rtyL_4MBn_Meu5TxBGc_","_score":1,"_source":{"company_name":"Easy Solution Logistica Ltda","query_string":"Tm International Logistics Ltd.","company_url":"","normalized_name":"logistica"}}
+{"_index":"test","_id":"r9yL_4MBn_Meu5TxBGfa","_score":1,"_source":{"company_name":"Medima Llc","query_string":"American Rucker Llc.","company_url":"","normalized_name":"medima"}}
+{"_index":"test","_id":"sNyL_4MBn_Meu5TxBGfx","_score":1,"_source":{"company_name":"Sunstrand Llc","query_string":"Amer Sports Winter & Outdoor Co.","company_url":"","normalized_name":"sunstrand"}}
+{"_index":"test","_id":"zNyL_4MBn_Meu5TxFmcM","_score":1,"_source":{"company_name":"Guangzhou　Yinsen　Enterprise　Co. Ltd.","query_string":"Cashbasisenterprises Llc","company_url":"","normalized_name":"cashbasisenterprises"}}
+{"_index":"test","_id":"zdyL_4MBn_Meu5TxGGcf","_score":1,"_source":{"company_name":"Big 5 Electronics Inc.","query_string":"Shenzhen Keli Electric Appliance Co., Ltd.","company_url":"","normalized_name":"bigelectronics"}}
+{"_index":"test","_id":"ztyL_4MBn_Meu5TxGGd-","_score":1,"_source":{"company_name":"Ota America Inc.","query_string":"Metrokia S.A.","company_url":"","normalized_name":"metrokia"}}
+{"_index":"test","_id":"z9yL_4MBn_Meu5TxGGfM","_score":1,"_source":{"company_name":"Dalkia Inc.","query_string":"Dalmia Polymers Llp","company_url":"","normalized_name":"dalkia"}}
+{"_index":"test","_id":"0NyL_4MBn_Meu5TxGWfj","_score":1,"_source":{"company_name":"Sadifa Sarl","query_string":"Audia Plastics Lafayette","company_url":"","normalized_name":"sadifa"}}
+{"_index":"test","_id":"0dyL_4MBn_Meu5TxG2cI","_score":1,"_source":{"company_name":"IKO EU /ALL PLANTS*","query_string":"IMPERALUM","company_url":"","normalized_name":"imperalum"}}
+{"_index":"test","_id":"0tyL_4MBn_Meu5TxG2c8","_score":1,"_source":{"company_name":"Repa Transportbanden B.V.","query_string":"Lepus Logistics Transportes Internacionais Ltda","company_url":"","normalized_name":"repa transportbanden"}}
+{"_index":"test","_id":"09yL_4MBn_Meu5TxHGd9","_score":1,"_source":{"company_name":"Xeltic S.A.","query_string":"West Pharmaceutical Services Brasil","company_url":"","normalized_name":"xeltic"}}
+{"_index":"test","_id":"sdyL_4MBn_Meu5TxBWd8","_score":1,"_source":{"company_name":"Sol Petroleum Bahamas Ltd.","query_string":"Sol Tec","company_url":"","normalized_name":"sol tec"}}
+{"_index":"test","_id":"styL_4MBn_Meu5TxCGdT","_score":1,"_source":{"company_name":"Bakirlar Iplik San Ve Tic Ltd. Sti","query_string":"Lipika","company_url":"","normalized_name":"lipika"}}
+{"_index":"test","_id":"s9yL_4MBn_Meu5TxCGeU","_score":1,"_source":{"company_name":"Quimi Kao S.A. De C.V.","query_string":"Megaquimica S.A.","company_url":"","normalized_name":"megaquimica"}}
+{"_index":"test","_id":"BdyL_4MBn_Meu5TxQGh2","_score":1,"_source":{"company_name":"Tecnicor","query_string":"National Technical Director","company_url":"","normalized_name":"tecnicor"}}
+{"_index":"test","_id":"BtyL_4MBn_Meu5TxQGiU","_score":1,"_source":{"company_name":"Hewage Braiding Mill","query_string":"Nad International S A De C V","company_url":"","normalized_name":"hewage braiding mill"}}
+{"_index":"test","_id":"DdzXAIQBn_Meu5Tx_Whp","_score":1,"_source":{"company_name":"Roscosmos","company_url":"https://en.wikipedia.org/wiki/Roscosmos","query_string":"","normalized_name":"roscosmos"}}
+{"_index":"test","_id":"CtzUAIQBn_Meu5TxZ2hX","_score":1,"_source":{"company_name":"Philipp","company_url":"https://en.wikipedia.org/wiki/Philipp","query_string":"","normalized_name":"philipp"}}
+{"_index":"test","_id":"DNzWAIQBn_Meu5TxO2gJ","_score":1,"_source":{"company_name":"Gazprom","company_url":"https://en.wikipedia.org/wiki/Gazprom","query_string":"","normalized_name":"gazprom"}}
+{"_index":"test","_id":"CdzSAIQBn_Meu5Txc2jD","_score":1,"_source":{"company_name":"Deeppavlov:","company_url":"https://deeppavlov.ai/","query_string":"","normalized_name":"deeppavlov:"}}
+{"_index":"test","_id":"DtzeAIQBn_Meu5TxLmj5","_score":1,"_source":{"company_name":"Itmo university","company_url":"https://en.itmo.ru/","query_string":"","normalized_name":"itmo university"}}
+{"_index":"test","_id":"B9yUAIQBn_Meu5Tx42j0","_score":1,"_source":{"company_name":"Napoleon it","company_url":"https://napoleonit.ru/","query_string":"","normalized_name":"napoleon it"}}
+{"_index":"test","_id":"C9zVAIQBn_Meu5Tx-Wi6","_score":1,"_source":{"company_name":"Ок. ваше","company_url":"https://ok.ru/","query_string":"","normalized_name":"ок. ваше"}}
+{"_index":"test","_id":"gdvZBYQBdnXT-zOJzNF9","_score":1,"_source":{"company_name":"Facebook","company_url":"https://m.facebook.com/MaineLostDogRecovery/posts/3246322598723959?comment_id=3249958871693665","query_string":"","normalized_name":"facebook"}}
+{"_index":"test","_id":"D9xVBIQBn_Meu5TxmmjQ","_score":1,"_source":{"company_name":"Github: where the world builds software","company_url":"https://github.com/","query_string":"","normalized_name":"github: where the world builds software"}}
+{"_index":"test","_id":"gtvaBYQBdnXT-zOJOdH-","_score":1,"_source":{"company_name":"Docker: accelerated,","company_url":"https://www.docker.com/","query_string":"","normalized_name":"docker: accelerated,"}}
+{"_index":"test","_id":"EtxiBYQBn_Meu5Tx_GhA","_score":1,"_source":{"company_name":"Napoleon it","company_url":"https://napoleonit.ru/","query_string":"","normalized_name":"napoleon it"}}
+{"_index":"test","_id":"E9xkBYQBn_Meu5TxfmgX","_score":1,"_source":{"company_name":"Napoleon it","company_url":"https://napoleonit.ru/","query_string":"","normalized_name":"napoleon it"}}
+{"_index":"test","_id":"EdySBIQBn_Meu5TxvGjj","_score":1,"_source":{"company_name":"Napoleon it","company_url":"https://napoleonit.ru/","query_string":"","normalized_name":"napoleon it"}}
+{"_index":"test","_id":"ENySBIQBn_Meu5Txs2iX","_score":1,"_source":{"company_name":"Napoleon it","company_url":"https://napoleonit.ru/","query_string":"","normalized_name":"napoleon it"}}
+{"_index":"test","_id":"FNxlBYQBn_Meu5TxK2g6","_score":1,"_source":{"company_name":"Napoleon it","company_url":"https://napoleonit.ru/","query_string":"","normalized_name":"napoleon it"}}
+{"_index":"test","_id":"g9veBYQBdnXT-zOJ-NEQ","_score":1,"_source":{"company_name":"Napo","company_url":"https://www.napofilm.net/en","query_string":"","normalized_name":"napo"}}
+{"_index":"test","_id":"CNzAAIQBn_Meu5TxHmiw","_score":1,"_source":{"company_name":"Yandex","company_url":"https://yandex.com/","query_string":"","normalized_name":"yandex"}}
+{"_index":"test","_id":"itvxCIQBdnXT-zOJ89G5","_score":1,"_source":{"company_name":"Добро пожаловать | вконтакте","company_url":"https://vk.com/","query_string":"","normalized_name":"добро пожаловать | вконтакте"}}
+{"_index":"test","_id":"jNv7CIQBdnXT-zOJC9FX","_score":1,"_source":{"company_name":"Добро пожаловать | вконтакте","company_url":"https://vk.com/","query_string":"","normalized_name":"добро пожаловать | вконтакте"}}
+{"_index":"test","_id":"i9v3CIQBdnXT-zOJbNFU","_score":1,"_source":{"company_name":"Добро пожаловать | вконтакте","company_url":"https://vk.com/","query_string":"","normalized_name":"добро пожаловать | вконтакте"}}
+{"_index":"test","_id":"hNvfBYQBdnXT-zOJFNHJ","_score":1,"_source":{"company_name":"Napole","company_url":"https://en.wikipedia.org/wiki/Napole,_Golub-Dobrzy%C5%84_County","query_string":"","normalized_name":"napole"}}
+{"_index":"test","_id":"iNvxCIQBdnXT-zOJo9Hx","_score":1,"_source":{"company_name":"Napoleon","company_url":"https://en.wikipedia.org/wiki/Napoleon","query_string":"","normalized_name":"napoleon"}}
+{"_index":"test","_id":"idvxCIQBdnXT-zOJytFw","_score":1,"_source":{"company_name":"Napoleon it","company_url":"https://napoleonit.ru/","query_string":"","normalized_name":"napoleon it"}}
+{"_index":"test","_id":"htvxCIQBdnXT-zOJD9Gk","_score":1,"_source":{"company_name":"Yandex","company_url":"https://yandex.com/","query_string":"","normalized_name":"yandex"}}
+{"_index":"test","_id":"hdvvCIQBdnXT-zOJa9Fy","_score":1,"_source":{"company_name":"Yandex","company_url":"https://yandex.com/","query_string":"","normalized_name":"yandex"}}
+{"_index":"test","_id":"h9vxCIQBdnXT-zOJe9Fm","_score":1,"_source":{"company_name":"","company_url":"","query_string":"","normalized_name":""}}
+{"_index":"test","_id":"jdsBCYQBdnXT-zOJ99G6","_score":1,"_source":{"company_name":"Yandex","company_url":"https://yandex.com/","query_string":"","normalized_name":"yandex"}}
+{"_index":"test","_id":"jtsCCYQBdnXT-zOJp9H_","_score":1,"_source":{"company_name":"Jx","company_url":"https://ru.wikipedia.org/wiki/JX","query_string":"","normalized_name":"jx"}}

@@ -1,0 +1,78 @@
+version: "3.9"
+services:
+    redis:
+        image: 'redis:alpine'
+        restart: always
+        healthcheck:
+            test: ["CMD", "redis-cli", "ping"]
+            interval: 15s
+            timeout: 10s
+            retries: 3
+        ports:
+            - "6379:6379"
+    elasticsearch:
+        container_name: es-container
+        image: docker.elastic.co/elasticsearch/elasticsearch:8.4.3
+        healthcheck:
+          test: curl -u elastic:elastic -s -f elasticsearch:9200/_cat/health || exit 1
+          interval: 15s
+          timeout: 10s
+          retries: 5
+        environment:
+            - xpack.security.enabled=false
+            - "discovery.type=single-node"
+        ports:
+            - "9200:9200"
+    gateway:
+        container_name: gateway-container
+        build:
+            dockerfile: gateway/Dockerfile
+        ports:
+            - "5001:5001"
+        environment:
+            ELASTIC_URL: http://es-container:9200
+            ELASTIC_INDEX: test
+            ELASTIC_CREATE_INDEX: true
+            ELASTIC_TIMEOUT: 60
+            REDIS_URL: redis://redis:6379
+            CMNSIM_GATEWAY_HOST: 0.0.0.0
+            CMNSIM_GATEWAY_PORT: 5001
+            CMNSIM_GATEWAY_WORKERS: 5
+            CRAWLING: true
+        healthcheck:
+            test: [ 'CMD', 'curl', '-f', 'http://gateway-container:5001/health' ]
+            interval: 10s
+            timeout: 3s
+            retries: 2
+            start_period: 10s
+        depends_on:
+            elasticsearch:
+                condition: service_healthy
+            redis:
+                condition: service_healthy
+        links:
+            - redis
+            - elasticsearch
+        restart: always
+    elastic-dump:
+        build:
+            dockerfile: dumps/Dockerfile
+        environment:
+            ELASTIC_URL: http://elasticsearch:9200/test
+        depends_on:
+            gateway:
+                condition: service_healthy
+    service:
+        build:
+            dockerfile: service/Dockerfile
+        ports:
+            - "8000:8000"
+        environment:
+            CMNSIM_SERVICE_HOST: 0.0.0.0
+            CMNSIM_SERVICE_PORT: 8000
+            CMNSIM_SERVICE_WORKERS: 1
+            GATEWAY_URI: http://gateway-container:5001
+            GATEWAY_API_KEY: do_not_ever_do_that
+        restart: always
+        links:
+            - gateway
