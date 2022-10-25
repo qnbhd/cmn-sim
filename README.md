@@ -71,10 +71,10 @@ Includes:
 - *Gateway makes a request to ElasticSearch, if no match is found, Crawler is launched and searches the sites for the necessary information, otherwise results are returned*
 - *If it finds something, it preprocesses it, saves it to ElasticSearch and returns the result*
 
-Example for existing name in DB:
+Example for not existing name in DB:
 ![image](https://user-images.githubusercontent.com/43779450/197798347-675c5ee4-01a8-4795-9006-12be0510892f.png)
 
-Example for not existing name in DB:
+Example for existing name in DB:
 ![image](https://user-images.githubusercontent.com/43779450/197799499-8ef1cd15-271e-4c5c-bb16-60867df77f23.png)
 
 
