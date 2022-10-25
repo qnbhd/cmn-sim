@@ -11,6 +11,7 @@
     <link href="{{ url_for('static', filename='css/main.css') }}" rel="stylesheet"/>
 </head>
 <body>
+<div class="s011">
 <div class="search-container" style="padding-top: 2rem;">
     <div class="inner-form">
         <div class="basic-search">
@@ -26,9 +27,16 @@
         {% for item in results %}
         <div class="card" style="margin-bottom: 1rem;">
             <div class="card-body">
-                <span class="badge rounded-pill text-bg-warning" style="padding: 0.5rem 1rem 0.5rem 1rem;">Score: {{ item['score'] }}</span>
-                <span class="badge rounded-pill text-bg-success" style="padding: 0.5rem 1rem 0.5rem 1rem;">{{ item['company_name'] }}</span>
-                <span class="badge rounded-pill text-bg-primary" style="padding: 0.5rem 1rem 0.5rem 1rem;">{{ item['normalized_name'] }}</span>
+                <span class="badge rounded-pill text-bg-warning" style="padding: 0.5rem 1rem 0.5rem 1rem;">
+                    <img width="32px" height="32px" src="{{ url_for('static', filename='images/elasticsearch.svg') }}">
+                        Score: {{ "%.2f"|format(item['score']) }}
+                </span>
+                <span class="badge rounded-pill text-bg-success" style="padding: 1rem 1rem 1rem 1rem;">
+                    Name: {{ item['company_name'] }}
+                </span>
+                <span class="badge rounded-pill text-bg-primary" style="padding: 1rem 1rem 1rem 1rem;">
+                    Normalized: {{ item['normalized_name'] }}
+                </span>
                 {% if item['company_url'] %}
                 <a href="{{ item['company_url'] }}">
                     <button type="button" class="btn rounded-pill btn-outline-primary">Link</button>
@@ -40,6 +48,7 @@
         {% endfor %}
     </div>
 </div>
+    </div>
 <script type="text/javascript">
     const btn = document.getElementById('btn-search');
     btn.addEventListener('click', function () {

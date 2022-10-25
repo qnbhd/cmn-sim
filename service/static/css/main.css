@@ -818,7 +818,7 @@ legend {
       justify-content: center;
   -ms-flex-align: center;
       align-items: center;
-  background: #d9eff5;
+  background: linear-gradient(90deg, rgb(44, 32, 213) 0%, rgb(20, 189, 123) 36%, rgba(0,212,255,1) 100%);
   padding: 15px;
   font-family: 'Lato', sans-serif;
 }
@@ -1186,3 +1186,13 @@ legend {
 
 }
 /*# sourceMappingURL=Searchs_010.css.map */
+
+.s011 {
+    font-family: 'Montserrat', sans-serif;
+    width: 100vw;
+    height: 100vh;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    background: white;
+}
