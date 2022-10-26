@@ -146,14 +146,16 @@ Benchmarking was done on Apple M1, 8GB RAM, 8 cores
 
 Output:
 ```
-  12 threads and 400 connections
+wrk -t12 -c20 -d10s http://127.0.0.1:8000/search/yandex
+Running 10s test @ http://127.0.0.1:8000/search/yandex
+  12 threads and 20 connections
   Thread Stats   Avg      Stdev     Max   +/- Stdev
-    Latency    39.91ms   77.32ms   1.41s    97.90%
-    Req/Sec   621.80    291.21     1.77k    67.76%
-  221661 requests in 30.10s, 554.69MB read
-  Socket errors: connect 155, read 119, write 0, timeout 0
-Requests/sec:   7364.00
-Transfer/sec:     18.43MB
+    Latency   462.93ms  215.88ms 907.83ms   77.19%
+    Req/Sec     1.84      1.23     4.00     79.71%
+  69 requests in 10.08s, 152.08KB read
+  Socket errors: connect 0, read 0, write 0, timeout 12
+Requests/sec:      6.84
+Transfer/sec:     15.09KB
 ```
 
 ## Code style
