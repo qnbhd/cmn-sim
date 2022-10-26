@@ -1,9 +1,8 @@
 import logging
 import os
-import random
-import secrets
 
 from pydantic import BaseModel
+from rich.logging import RichHandler
 from sanic import Sanic
 from sanic.request import Request
 from sanic.response import json
@@ -16,7 +15,9 @@ app = Sanic("cmnsim-search")
 setup(app)
 health_check = HealthCheck(app)
 
-logging.basicConfig(level=logging.INFO, format="[%(levelname)s]: %(message)s")
+logging.basicConfig(
+    level="INFO", format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+)
 
 log = logging.getLogger(__name__)
 

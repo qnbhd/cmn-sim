@@ -1,3 +1,5 @@
+import re
+
 import aiohttp
 from bs4 import BeautifulSoup
 
@@ -35,8 +37,12 @@ class SearchResult:
         return f"SearchResult(url={self.url}, title={self.title}, description={self.description})"
 
 
-async def search(term, num_results=10, lang="en", proxy=None, advanced=False):
+async def search(
+    term, num_results=10, lang="en", proxy=None, advanced=False, exclude=None
+):
     escaped_term = term.replace(" ", "+")
+
+    exclude = exclude or set()
 
     # Proxy
     proxies = None
@@ -63,7 +69,14 @@ async def search(term, num_results=10, lang="en", proxy=None, advanced=False):
             description_box = result.find("div", {"style": "-webkit-line-clamp:2"})
             if description_box:
                 description = description_box.find("span")
-                if link and title and description:
+                if (
+                    link
+                    and title
+                    and description
+                    and all(
+                        [not re.match(pattern, link["href"]) for pattern in exclude]
+                    )
+                ):
                     start += 1
                     # if advanced:
                     #     yield SearchResult(link['href'], title.text, description.text)

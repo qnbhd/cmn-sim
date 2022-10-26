@@ -126,10 +126,10 @@ The **second** experiment was using XGBoost with embedings. Each symbol was enco
 The **third** and last way is preprocessing from first experiment, then ElasticSearch seaching and storing data. This method returns cluster of company name or nearest in this cluster.
 
 | Model | Metric | Score |
-|-------|--------|--------|
-| FuzzyWuzzy | F1 | 0.79 |
-| Embeded XGBoost | F1 | 0.43 |
-| Preprocessed ElasticSearch | [own metric](https://theaidigest.in/how-does-elasticsearch-scoring-work/) | depends on company name cluster |
+|-------|------|--------|
+| FuzzyWuzzy | F1   | 0.79 |
+| Embeded XGBoost | F1   | 0.43 |
+| Preprocessed ElasticSearch | -    | depends on company name cluster |
 
 ## Speed
 

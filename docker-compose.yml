@@ -23,6 +23,7 @@ services:
             - "discovery.type=single-node"
         ports:
             - "9200:9200"
+        restart: always
     gateway:
         container_name: gateway-container
         build:
@@ -70,7 +71,7 @@ services:
         environment:
             CMNSIM_SERVICE_HOST: 0.0.0.0
             CMNSIM_SERVICE_PORT: 8000
-            CMNSIM_SERVICE_WORKERS: 1
+            CMNSIM_SERVICE_WORKERS: 5
             GATEWAY_URI: http://gateway-container:5001
             GATEWAY_API_KEY: do_not_ever_do_that
         restart: always

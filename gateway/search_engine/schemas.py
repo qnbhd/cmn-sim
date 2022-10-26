@@ -1,5 +1,7 @@
 from typing import Any, Dict, List, Literal
 
+from fuzzywuzzy import fuzz
+
 from gateway.crawling.crawler import Item
 
 ElasticRequest = Dict[str, Any]
@@ -53,7 +55,8 @@ def search_response_from_crawler(query_string, items: List[Item]) -> Dict:
             "query_string": query_string,
             "matches": {
                 item.normalized_name: {
-                    "score": 1.0,
+                    "score": fuzz.token_set_ratio(query_string, item.normalized_name)
+                    / 100,
                     "company_name": item.company_name,
                     "company_url": item.company_url,
                     "query_string": item.query_string,
@@ -78,21 +81,24 @@ def elastic_relevant_response(query_string: str, hits: list, threshold=0.01) -> 
     """
 
     def get_shorter_name(hit):
-        source = hit["_source"]
-        return min((x for x in source if "_name" in x), key=len)
+        source: Dict[str, str] = hit["_source"]
+        return min((x for x in source.values() if x != ""), key=len)
 
     return {
         "query": {
             "query_string": query_string,
             "matches": {
                 get_shorter_name(hit): {
-                    "score": hit["_score"],
+                    "score": fuzz.token_set_ratio(query_string, get_shorter_name(hit))
+                    / 100,
                     "normalized_name": hit["_source"]["normalized_name"],
                     "company_name": hit["_source"]["company_name"],
                     "company_url": hit["_source"]["company_url"],
                 }
                 for hit in hits
                 if hit["_score"] > threshold
+                and fuzz.token_set_ratio(query_string, get_shorter_name(hit)) / 100
+                > 0.3
             },
         }
     }

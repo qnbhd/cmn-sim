@@ -4,6 +4,7 @@ from pathlib import Path
 from urllib.parse import unquote
 
 from aiohttp import ClientSession
+from rich.logging import RichHandler
 from sanic import Sanic
 from sanic.response import redirect
 from service.utils.j2 import setup_jinja
@@ -17,6 +18,10 @@ app.config["GATEWAY_API_KEY"] = os.getenv("GATEWAY_API_KEY", "")
 app.static("/static", Path(__file__).parent / "static")
 
 setup_jinja(app)
+
+logging.basicConfig(
+    level="INFO", format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+)
 
 log = logging.getLogger(__name__)
 

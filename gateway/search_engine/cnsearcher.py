@@ -14,6 +14,21 @@ from gateway.utils.merger import merge_matches
 
 log = logging.getLogger(__name__)
 
+EXCLUDE_REGEX = [
+    r"https:\/\/www\.linkedin\.com\/.+",
+    r"https:\/\/vk\.com\/.+",
+    r"https:\/\/www\.facebook\.com\/.+",
+    r"https:\/\/twitter\.com\/.+",
+    r"https:\/\/www\.instagram\.com\/.+",
+    r"https:\/\/www\.youtube\.com\/.+",
+    r"https:\/\/www\.pinterest\.com\/.+",
+    r"https:\/\/www\.tumblr\.com\/.+",
+    r"https:\/\/www\.wikipedia.org\/.+",
+    r"https:\/\/www\.yelp\.com\/.+",
+    r"https:\/\/www\.glassdoor\.com\/.+",
+    r"https:\/\/www\.ok\.ru\/.+",
+]
+
 
 def parse_title_from_html(html):
     """
@@ -123,7 +138,7 @@ class CNSearcher:
         log.info("No results found in ES. Searching in Google.")
         log.info(f"Query: {company_name}")
 
-        lst = await gsearch.search(company_name, num_results=1)
+        lst = await gsearch.search(company_name, num_results=1, exclude=EXCLUDE_REGEX)
 
         results = []
 
@@ -136,6 +151,9 @@ class CNSearcher:
                 continue
 
             item = result.result[url]
+
+            # Crawler not known about raw query string, need to fill it manually.
+            item.query_string = company_name
             results.append(item)
 
             await self.es_storage.insert_data(self.index_name, item.asdict())
